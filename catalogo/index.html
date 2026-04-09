@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agrosantos - Nutrição Animal</title>
+    <link rel="icon" href="favicon.png" type="image/png">
+    <link rel="stylesheet" href="stylesheet.css">
+</head>
+<body>
+  <header>
+         <img src="favicon.png" alt="Agrosantos Logo" class="logo">
+        <div id="titulo">
+            <h1>AGROSANTOS</h1>
+            <p>NUTRIÇÃO ANIMAL</p>
+        </div>
+        <div id="telefones">
+            <p>Disk Agro:</p>
+            <div id="whatsapp">
+                <img src="zap.png" alt="whatsapp" class='zap' id="zap">
+                <p>82 9 8203 0404</p>            
+            </div>
+            <p id="telFixo">82 3435 4647</p>
+        </div>    
+  </header>  
+
+<h1 id="catalogo">CATÁLOGO</h1>
+
+<div class="guias-container">
+      <button class="guia ativa" id="tabMaisVendidos">Mais Vendidos</button>
+      <button class="guia" id="tabTodos">Todos os Produtos</button>
+      <button class="guia" id="tabCategorias">Categorias ▾</button>
+  </div>
+
+  <div id="containerSeletor" class="seletor-escondido">
+      <select id="dropdownCategorias">
+          <option value="" disabled selected>Escolha uma categoria...</option>
+      </select>
+  </div>
+
+<input type="text" id="barraDePesquisa" placeholder="Pesquisar...">
+
+  <div id="gridCatalogo"></div>
+
+  <footer>
+    <p>SANTOS E BEZERRA LTDA</p><br>
+    <p>Av. Durval de Góes Monteiro, 9110</p><br>
+    <p>Tabuleiro dos Martins, Maceió-AL</p>
+  </footer>
+
+<div id="modal-produto" class="modal" style="display:none; position:fixed; z-index:9999; top:0; left:0; width:100%; height:100%; background: rgba(0,0,0,0.5);">
+  <div class="modalconteudo" style="background: white; padding: 20px; border-radius: 10px; display:flex; flex-direction:column; align-items:center;">
+    <span class="fechar" style="cursor:pointer; float:right; padding-left: 90%;" onclick="fecharModal()">&times;</span>
+    <img id="modal-img" src="" style="max-width: 100%;">
+    <h3 id="modal-nome" class="nomeProduto"></h3>
+    <p id="modal-preco" class="preco"></p>
+    <div class="controle-quantidade">
+        <button id="btn-menos" class="btn-qtd">-</button>
+        <input type="number" id="inputQuantidade" value="1" min="1">
+        <button id="btn-mais" class="btn-qtd">+</button>
+    </div>
+    <button id="botaoCarrinho">Adicionar ao Carrinho</button>
+  </div>
+</div>
+<button id="btn-abrir-carrinho" class="carrinho-flutuante">
+    🛒 <span id="contador-carrinho">0</span>
+</button>
+
+<div id="gaveta-carrinho" class="gaveta">
+    <div class="gaveta-header">
+        <h2>Seu Pedido</h2>
+        <span id="fechar-gaveta">&times;</span>
+    </div>
+    
+    <div id="itens-carrinho" class="gaveta-body">
+        </div>
+    
+    <div class="gaveta-footer">
+        <div class="total-carrinho">Total: <span id="valor-total-carrinho">R$ 0,00</span></div>
+        <button id="btn-finalizar-whatsapp">Enviar Pedido para WhatsApp</button>
+    </div>
+</div>
+
+
+
+
+
+<script src="script.js"></script>
+</body>
+</html>

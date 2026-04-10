@@ -973,13 +973,6 @@
         "img": "img/1043.jpg"
     },
     {
-        "id": "1044",
-        "nome": "FLAMBADOR GAS 02 BOCAS",
-        "preco": 186.920999999,
-        "categoria": "FERRAMENTA",
-        "img": "img/1044.jpg"
-    },
-    {
         "id": "1045",
         "nome": "CAVADEIRA ART FORJADA - CABO 1,20 POLIDO BELLOTTO",
         "preco": 285.391599998,
@@ -2387,13 +2380,6 @@
         "img": "img/1282.jpg"
     },
     {
-        "id": "1283",
-        "nome": "FLAMBADOR GAS 10 BOCAS",
-        "preco": 273.293999998,
-        "categoria": "ACESSORIOS",
-        "img": "img/1283.jpg"
-    },
-    {
         "id": "1285",
         "nome": "COLHEDOR FRUTAS",
         "preco": 35.0,
@@ -2413,13 +2399,6 @@
         "preco": 94.415999999,
         "categoria": "FERRAMENTA",
         "img": "img/1287.jpg"
-    },
-    {
-        "id": "1288",
-        "nome": "LANCA CHAMAS 1REG.C/MANG.1M.CACULA",
-        "preco": 47.292,
-        "categoria": "FERRAMENTA",
-        "img": "img/1288.jpg"
     },
     {
         "id": "129",
@@ -9826,20 +9805,6 @@
         "preco": 37.8,
         "categoria": "FERRAMENTA",
         "img": "img/2825.jpg"
-    },
-    {
-        "id": "2827",
-        "nome": "FLAMBADOR GAS 02 A 06 BOCAS",
-        "preco": 230.033999999,
-        "categoria": "ACESSORIOS",
-        "img": "img/2827.jpg"
-    },
-    {
-        "id": "2828",
-        "nome": "FLAMBADOR GAS 10 A 14 BOCAS",
-        "preco": 371.307999998,
-        "categoria": "ACESSORIOS",
-        "img": "img/2828.jpg"
     },
     {
         "id": "2829",

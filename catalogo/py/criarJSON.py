@@ -17,7 +17,7 @@ caminho_planilha = os.path.join(BASE_DIR, "planilha.xlsx")
 planilha = pd.read_excel(caminho_planilha, skiprows=1)
 
 # Removida string vazia e garantido que todos os termos estão em maiúsculo para o join
-TERMOS_BLOQUEADOS = [t for t in ['PADRON', 'VASSOURA', 'FACHOLI', 'PURUCA', 'VASSOURAO', 'INSUMO', 'COLEIRA', 'MULTISHOW', 'GLYPHOTAL', 'ROUNDUP', 'ATRAZINA', 'GLIFOSATO', 'SIMPARIC', 'TECH MASTER', 'CRIADORES', 'CANTONINHO', 'ALCON CLUB', 'DIMY', 'GRANEL', 'SAAD', 'FINOTRATO', 'CHURU', 'cocho', 'COCHO', 'UNICOCHO', 'EXCELL'] if t]
+TERMOS_BLOQUEADOS = [t for t in ['PADRON', 'FLAMBADOR', 'CHAMAS', 'VASSOURA', 'FACHOLI', 'PURUCA', 'VASSOURAO', 'INSUMO', 'COLEIRA', 'MULTISHOW', 'GLYPHOTAL', 'ROUNDUP', 'ATRAZINA', 'GLIFOSATO', 'SIMPARIC', 'TECH MASTER', 'CRIADORES', 'CANTONINHO', 'ALCON CLUB', 'DIMY', 'GRANEL', 'SAAD', 'FINOTRATO', 'CHURU', 'cocho', 'COCHO', 'UNICOCHO', 'EXCELL'] if t]
 
 # Limpeza inicial
 planilha.dropna(subset=[planilha.columns[0], planilha.columns[1]], inplace=True)

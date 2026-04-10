@@ -4,7 +4,7 @@
 set -e
 
 echo "========================================"
-echo " DEPLOY AGROSANTOS - FLUXO CONTROLADO"
+echo "***********DEPLOY AGROSANTOS************"
 echo "========================================"
 
 # Passo 1: Pull na raiz do projeto
@@ -41,12 +41,13 @@ echo "✅ JSON gerado com sucesso com base na nova planilha."
 
 # Passo 6: A Pausa Estratégica (Trabalho Manual)
 echo -e "\n========================================"
-echo "⚠️ PAUSA ESTRATÉGICA ATIVADA"
-echo "O novo JSON está pronto. Mova todas as FOTOS NOVAS para a pasta de imagens do catálogo agora."
+echo "CONFIRA AS IMAGENS ADICIONADAS ANTES DE PROSSEGUIR"
 echo "========================================"
 
+DATA_ATUAL=$(date "+%d/%m/%Y %H:%M")
+
 while true; do
-    read -p "[6/6] As fotos foram adicionadas corretamente? Digite 'sim' para enviar ou 'nao' para abortar: " resposta
+    read -p "Digite 'sim' para enviar ou 'nao' para abortar: " resposta
     
     # Converte a resposta para minúsculas para evitar erro de digitação (Sim, SIM, sim)
     resposta=$(echo "$resposta" | tr '[:upper:]' '[:lower:]')
@@ -64,7 +65,7 @@ done
 
 # O bloco de execução final do Git
 git add .
-git commit -m "Atualização de estoque, catálogo e imagens"
+git commit -m "$DATA_ATUAL: Atualização de estoque, catálogo e imagens"
 git push
 
 echo -e "\n🚀 DEPLOY CONCLUÍDO. O sistema está no ar."

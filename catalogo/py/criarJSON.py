@@ -11,11 +11,13 @@ IDS_BLOQUEADOS = ['2435', '749', '942', '2613', '2803', '2899', '2900', '2902', 
 
 CATEGORIAS_BLOQUEADAS = ['INSUMO', 'SELARIA']
 
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+caminho_planilha = os.path.join(BASE_DIR, "planilha.xlsx")
+planilha = pd.read_excel(caminho_planilha, skiprows=1)
+
 # Removida string vazia e garantido que todos os termos estão em maiúsculo para o join
 TERMOS_BLOQUEADOS = [t for t in ['PADRON', 'VASSOURA', 'FACHOLI', 'PURUCA', 'VASSOURAO', 'INSUMO', 'COLEIRA', 'MULTISHOW', 'GLYPHOTAL', 'ROUNDUP', 'ATRAZINA', 'GLIFOSATO', 'SIMPARIC', 'TECH MASTER', 'CRIADORES', 'CANTONINHO', 'ALCON CLUB', 'DIMY', 'GRANEL', 'SAAD', 'FINOTRATO', 'CHURU', 'cocho', 'COCHO', 'UNICOCHO', 'EXCELL'] if t]
-
-caminho_planilha = "planilha.xlsx"
-planilha = pd.read_excel(caminho_planilha, skiprows=1)
 
 # Limpeza inicial
 planilha.dropna(subset=[planilha.columns[0], planilha.columns[1]], inplace=True)
@@ -31,7 +33,7 @@ planilha = planilha[~planilha[planilha.columns[2]].astype(str).str.strip().str.u
 padrao_termos = '|'.join(TERMOS_BLOQUEADOS)
 planilha = planilha[~planilha[planilha.columns[1]].astype(str).str.upper().str.contains(padrao_termos, na=False, regex=True)]
 
-pasta_imagens = "../img"
+pasta_imagens = os.path.join(BASE_DIR, "..", "img")
 os.makedirs(pasta_imagens, exist_ok=True)
 lista_produtos = []
 
@@ -82,7 +84,7 @@ for idx, (index, row) in enumerate(planilha.iterrows()):
     })
 
 # Salvar JSON
-caminho_json = "../produtos.json"
+caminho_json = os.path.join(BASE_DIR, "..", "produtos.json")
 with open(caminho_json, "w", encoding="utf-8") as f:
     json.dump(lista_produtos, f, indent=4, ensure_ascii=False)
 

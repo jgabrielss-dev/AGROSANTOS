@@ -25,7 +25,9 @@ fi
 
 # Passos 3 e 4: Renomear e colar na pasta py
 DESTINO="./catalogo/py/planilha.xlsx"
-echo -e "\n[3/6 e 4/6] Movendo e padronizando a planilha para $DESTINO..."
+JSON_ANTIGO="./catalogo/produtos.json"
+echo -e "\n[3/6 e 4/6] Limpando arquivos antigos e movendo a nova planilha..."
+rm -f "$DESTINO" "$JSON_ANTIGO"
 cp "$caminho_planilha" "$DESTINO"
 
 # Passo 5: Rodar o motor de conversão

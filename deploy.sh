@@ -1,0 +1,68 @@
+#!/bin/bash
+
+# Aborta o script se qualquer comando interno falhar
+set -e
+
+echo "========================================"
+echo " DEPLOY AGROSANTOS - FLUXO CONTROLADO"
+echo "========================================"
+
+# Passo 1: Pull na raiz do projeto
+echo -e "\n[1/6] Sincronizando repositório local..."
+git pull
+
+# Passo 2: Receber o local da planilha
+echo -e "\n[2/6] Arraste a nova planilha para o terminal ou digite o caminho exato:"
+read -p "> " caminho_planilha
+
+# Limpeza de aspas que o terminal costuma adicionar ao arrastar arquivos
+caminho_planilha=$(echo "$caminho_planilha" | sed -e "s/^'//" -e "s/'$//" -e 's/^"//' -e 's/"$//')
+
+if [ ! -f "$caminho_planilha" ]; then
+    echo "❌ ERRO CRÍTICO: O arquivo não foi encontrado no caminho especificado."
+    exit 1
+fi
+
+# Passos 3 e 4: Renomear e colar na pasta py
+DESTINO="./catalogo/py/planilha.xlsx"
+echo -e "\n[3/6 e 4/6] Movendo e padronizando a planilha para $DESTINO..."
+cp "$caminho_planilha" "$DESTINO"
+
+# Passo 5: Rodar o motor de conversão
+echo -e "\n[5/6] Executando criarJSON.py..."
+# Entramos na pasta py para garantir que o Python execute no contexto correto
+cd ./catalogo/py
+python criarJSON.py
+# Voltamos para a raiz (agrosantos) para podermos usar o Git depois
+cd ../../
+echo "✅ JSON gerado com sucesso com base na nova planilha."
+
+# Passo 6: A Pausa Estratégica (Trabalho Manual)
+echo -e "\n========================================"
+echo "⚠️ PAUSA ESTRATÉGICA ATIVADA"
+echo "O novo JSON está pronto. Mova todas as FOTOS NOVAS para a pasta de imagens do catálogo agora."
+echo "========================================"
+
+while true; do
+    read -p "[6/6] As fotos foram adicionadas corretamente? Digite 'sim' para enviar ou 'nao' para abortar: " resposta
+    
+    # Converte a resposta para minúsculas para evitar erro de digitação (Sim, SIM, sim)
+    resposta=$(echo "$resposta" | tr '[:upper:]' '[:lower:]')
+    
+    if [ "$resposta" = "sim" ]; then
+        echo -e "\nIniciando commit para produção..."
+        break
+    elif [ "$resposta" = "nao" ]; then
+        echo -e "\n❌ Deploy abortado pelo usuário. O JSON foi atualizado localmente, mas nada foi enviado ao GitHub."
+        exit 0
+    else
+        echo "Entrada inválida. Responda estritamente com 'sim' ou 'nao'."
+    fi
+done
+
+# O bloco de execução final do Git
+git add .
+git commit -m "Atualização de estoque, catálogo e imagens"
+git push
+
+echo -e "\n🚀 DEPLOY CONCLUÍDO. O sistema está no ar."

@@ -3724,13 +3724,6 @@
         "img": "img/156.jpg"
     },
     {
-        "id": "1560",
-        "nome": "CADEADO BICICLETA SM LT-30/1200 PRETO",
-        "preco": 40.97,
-        "categoria": "ACESSORIOS",
-        "img": "img/1560.jpg"
-    },
-    {
         "id": "1562",
         "nome": "CAVADEIRA ART 1,4M CB QUAD PRO MAX",
         "preco": 86.0,
@@ -4788,20 +4781,6 @@
         "img": "img/1747.jpg"
     },
     {
-        "id": "1749",
-        "nome": "CINTO COURO/SPORT FINO",
-        "preco": 80.0,
-        "categoria": "ACESSORIOS",
-        "img": "img/1749.jpg"
-    },
-    {
-        "id": "1751",
-        "nome": "CINTO COUNTRY",
-        "preco": 75.0,
-        "categoria": "ACESSORIOS",
-        "img": "img/1751.jpg"
-    },
-    {
         "id": "1752",
         "nome": "BAINHA CELULAR",
         "preco": 60.0,
@@ -5752,13 +5731,6 @@
         "preco": 118.513700001,
         "categoria": "RACAO DE CACHORRO",
         "img": "img/1928.jpg"
-    },
-    {
-        "id": "1929",
-        "nome": "CINTO INFANTIL 806 E 808",
-        "preco": 56.25,
-        "categoria": "ACESSORIOS",
-        "img": "img/1929.jpg"
     },
     {
         "id": "193",
@@ -10563,41 +10535,6 @@
         "img": "img/296.jpg"
     },
     {
-        "id": "2962",
-        "nome": "INTERRUPT DUPL C/TOM 10A PIAL POP LEGRAND",
-        "preco": 25.774,
-        "categoria": "FERRAMENTA",
-        "img": "img/2962.jpg"
-    },
-    {
-        "id": "2963",
-        "nome": "INTERRUPT DUPL PIAL POP LEGRAND",
-        "preco": 18.816,
-        "categoria": "FERRAMENTA",
-        "img": "img/2963.jpg"
-    },
-    {
-        "id": "2964",
-        "nome": "TOMADA DUPL 10A PIAL POP LEGRAND",
-        "preco": 20.79,
-        "categoria": "FERRAMENTA",
-        "img": "img/2964.jpg"
-    },
-    {
-        "id": "2965",
-        "nome": "TOMADA SIMPLES 10A PIAL POP LEGRAND",
-        "preco": 10.906,
-        "categoria": "FERRAMENTA",
-        "img": "img/2965.jpg"
-    },
-    {
-        "id": "2966",
-        "nome": "TOMADA SIMPLES 20A PIAL POP LEGRAND",
-        "preco": 13.314,
-        "categoria": "FERRAMENTA",
-        "img": "img/2966.jpg"
-    },
-    {
         "id": "2967",
         "nome": "VERMIVET COMPOSTO 04 COMP 600 MG BIOVET",
         "preco": 8.4,
@@ -11319,13 +11256,6 @@
         "img": "img/3081.jpg"
     },
     {
-        "id": "3082",
-        "nome": "CHAVE INTERRUPTORA ISOLANTE 1 RAMAL (PLASTICO) PRETA",
-        "preco": 12.8856,
-        "categoria": "CERCA ELETRICA",
-        "img": "img/3082.jpg"
-    },
-    {
         "id": "3083",
         "nome": "HASTE ISOLADORA PREMIUM 1,5M",
         "preco": 67.038129,
@@ -11996,13 +11926,6 @@
         "preco": 126.181999999,
         "categoria": "ACESSORIOS",
         "img": "img/3193.jpg"
-    },
-    {
-        "id": "3194",
-        "nome": "FILTRO DE LINHA 5 TOMADAS UN QTD. 4.00 UN",
-        "preco": 36.456,
-        "categoria": "FERRAMENTA",
-        "img": "img/3194.jpg"
     },
     {
         "id": "3195",
@@ -13613,13 +13536,6 @@
         "preco": 77.0,
         "categoria": "MEDICAMENTO",
         "img": "img/575.jpg"
-    },
-    {
-        "id": "576",
-        "nome": "BORRIF PRESSAO ACUMUL P/ GARRAFA PET DUCAMPO",
-        "preco": 12.0,
-        "categoria": "ACESSORIOS",
-        "img": "img/576.jpg"
     },
     {
         "id": "577",

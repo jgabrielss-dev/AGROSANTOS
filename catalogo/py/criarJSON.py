@@ -7,7 +7,7 @@ import shutil
 from icrawler.builtin import BingImageCrawler
 
 # Removida a string vazia que quebrava o filtro
-IDS_BLOQUEADOS = ['2435', '749', '942', '2613', '2803', '2899', '2900', '2902', '3005', '3037', '309', '5', '588', '6', '702', '2901', '2635', '2709', '2760', '2537', '2542', '2546', '2584', '2497', '1895', '1963', '2202', '2225', '2303', '1916', '1965', '1935', '1951', '1956', '1658', '1771', '1695', '1660', '1451', '1523', '1059', '1294', '1032', '2592', '1958', '1959', '2809', '2812', '2813', '2073', '2419', '2466', '2763', '2769', '2778', '2801', '2496', '2572', '2690', '2147', '2159', '2160', '2151', '2231', '2260', '2278', '1960', '1962', '1966', '1974', '1984', '1985', '1986', '1988', '2021', '2022', '2023', '1731', '2370', '2864', '2079', '2344', '2919', '2428', '2429', '2734', '2264', '2263', '1659', '927', '3292', '1486', '1487', '1485', '2991', '1489', '1488', '1493', '1492', '1798', '1500', '1503', '1501', '1484']
+IDS_BLOQUEADOS = ['1560', '576', '2435', '749', '942', '2613', '2803', '2899', '2900', '2902', '3005', '3037', '309', '5', '588', '6', '702', '2901', '2635', '2709', '2760', '2537', '2542', '2546', '2584', '2497', '1895', '1963', '2202', '2225', '2303', '1916', '1965', '1935', '1951', '1956', '1658', '1771', '1695', '1660', '1451', '1523', '1059', '1294', '1032', '2592', '1958', '1959', '2809', '2812', '2813', '2073', '2419', '2466', '2763', '2769', '2778', '2801', '2496', '2572', '2690', '2147', '2159', '2160', '2151', '2231', '2260', '2278', '1960', '1962', '1966', '1974', '1984', '1985', '1986', '1988', '2021', '2022', '2023', '1731', '2370', '2864', '2079', '2344', '2919', '2428', '2429', '2734', '2264', '2263', '1659', '927', '3292', '1486', '1487', '1485', '2991', '1489', '1488', '1493', '1492', '1798', '1500', '1503', '1501', '1484']
 
 CATEGORIAS_BLOQUEADAS = ['INSUMO', 'SELARIA']
 
@@ -17,7 +17,7 @@ caminho_planilha = os.path.join(BASE_DIR, "planilha.xlsx")
 planilha = pd.read_excel(caminho_planilha, skiprows=1)
 
 # Removida string vazia e garantido que todos os termos estão em maiúsculo para o join
-TERMOS_BLOQUEADOS = [t for t in ['PADRON', 'FLAMBADOR', 'CHAMAS', 'VASSOURA', 'FACHOLI', 'PURUCA', 'VASSOURAO', 'INSUMO', 'COLEIRA', 'MULTISHOW', 'GLYPHOTAL', 'ROUNDUP', 'ATRAZINA', 'GLIFOSATO', 'SIMPARIC', 'TECH MASTER', 'CRIADORES', 'CANTONINHO', 'ALCON CLUB', 'DIMY', 'GRANEL', 'SAAD', 'FINOTRATO', 'CHURU', 'cocho', 'COCHO', 'UNICOCHO', 'EXCELL'] if t]
+TERMOS_BLOQUEADOS = [t for t in ['CINTO', 'INTERRUPT', 'TOMADA', 'PADRON', 'FLAMBADOR', 'CHAMAS', 'VASSOURA', 'FACHOLI', 'PURUCA', 'VASSOURAO', 'INSUMO', 'COLEIRA', 'MULTISHOW', 'GLYPHOTAL', 'ROUNDUP', 'ATRAZINA', 'GLIFOSATO', 'SIMPARIC', 'TECH MASTER', 'CRIADORES', 'CANTONINHO', 'ALCON CLUB', 'DIMY', 'GRANEL', 'SAAD', 'FINOTRATO', 'CHURU', 'cocho', 'COCHO', 'UNICOCHO', 'EXCELL'] if t]
 
 # Limpeza inicial
 planilha.dropna(subset=[planilha.columns[0], planilha.columns[1]], inplace=True)

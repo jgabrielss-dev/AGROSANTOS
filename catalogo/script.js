@@ -158,7 +158,7 @@ function renderizarLote() {
                 <img src="${produto.img}" alt="${produto.nome}" loading="lazy" 
                      onerror="this.onerror=null; this.src='indisponivel.png';"
                      style="min-width: 75%; min-height: 75%; max-width:75%; max-height:75%; object-fit: contain;">
-                <h3 class="nomeProduto">${produto.nome}</h3>
+                <h3 class="nomeProduto">${produto.id+ ' - ' + produto.nome}</h3>
                 <p class="preco">R$ ${produto.preco.toFixed(2).replace('.', ',')}</p>
             </div>
         `;

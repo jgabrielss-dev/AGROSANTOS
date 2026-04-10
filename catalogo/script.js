@@ -295,7 +295,7 @@ function adicionarAoCarrinho(produto) {
     const inputQtd = document.getElementById('inputQuantidade');
     const qtdDesejada = sanitizarQuantidade(inputQtd.value);
 
-    const itemExistente = carrinho.find(item => item.ID === produto.ID);
+    const itemExistente = carrinho.find(item => item.id === produto.id);
 
     if (itemExistente) {
         itemExistente.quantidade += qtdDesejada;

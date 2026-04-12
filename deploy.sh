@@ -18,8 +18,12 @@ read -p "> " caminho_planilha
 # Limpeza de aspas que o terminal costuma adicionar ao arrastar arquivos
 caminho_planilha=$(echo "$caminho_planilha" | sed -e "s/^'//" -e "s/'$//" -e 's/^"//' -e 's/"$//')
 
-if [ ! -f "$caminho_planilha" ]; then
-    echo "❌ ERRO CRÍTICO: O arquivo não foi encontrado no caminho especificado."
+SKIP_PLANILHA=0
+if [ -z "$caminho_planilha" ]; then
+    echo "Nenhuma planilha informada. Pulando importação de planilha e geração de JSON."
+    SKIP_PLANILHA=1
+elif [ ! -f "$caminho_planilha" ]; then
+    echo "ERRO CRÍTICO: O arquivo não foi encontrado no caminho especificado."
     exit 1
 fi
 
@@ -27,41 +31,53 @@ fi
 DESTINO="./catalogo/py/planilha.xlsx"
 JSON_ANTIGO="./catalogo/produtos.json"
 echo -e "\n[3/6 e 4/6] Limpando arquivos antigos e movendo a nova planilha..."
-rm -f "$DESTINO" "$JSON_ANTIGO"
-cp "$caminho_planilha" "$DESTINO"
+if [ "$SKIP_PLANILHA" -eq 0 ]; then
+    rm -f "$DESTINO" "$JSON_ANTIGO"
+    cp "$caminho_planilha" "$DESTINO"
+else
+    echo "⏭️ Pulando a cópia da planilha e mantendo os arquivos existentes." 
+fi
 
 # Passo 5: Rodar o motor de conversão
 echo -e "\n[5/6] Executando criarJSON.py..."
-# Entramos na pasta py para garantir que o Python execute no contexto correto
-cd ./catalogo/py
-python criarJSON.py
-# Voltamos para a raiz (agrosantos) para podermos usar o Git depois
-cd ../../
-echo "✅ JSON gerado com sucesso com base na nova planilha."
-
-# Passo 6: A Pausa Estratégica (Trabalho Manual)
-echo -e "\n========================================"
-echo "CONFIRA AS IMAGENS ADICIONADAS ANTES DE PROSSEGUIR"
-echo "========================================"
+if [ "$SKIP_PLANILHA" -eq 0 ]; then
+    # Entramos na pasta py para garantir que o Python execute no contexto correto
+    cd ./catalogo/py
+    python criarJSON.py
+    # Voltamos para a raiz (agrosantos) para podermos usar o Git depois
+    cd ../../
+    echo " JSON gerado com sucesso com base na nova planilha."
+else
+    echo " Pulando execução do criarJSON.py." 
+fi
 
 DATA_ATUAL=$(date "+%d/%m/%Y %H:%M")
 
-while true; do
-    read -p "Digite 'sim' para enviar ou 'nao' para abortar: " resposta
-    
-    # Converte a resposta para minúsculas para evitar erro de digitação (Sim, SIM, sim)
-    resposta=$(echo "$resposta" | tr '[:upper:]' '[:lower:]')
-    
-    if [ "$resposta" = "sim" ]; then
-        echo -e "\nIniciando commit para produção..."
-        break
-    elif [ "$resposta" = "nao" ]; then
-        echo -e "\n❌ Deploy abortado pelo usuário. O JSON foi atualizado localmente, mas nada foi enviado ao GitHub."
-        exit 0
-    else
-        echo "Entrada inválida. Responda estritamente com 'sim' ou 'nao'."
-    fi
-done
+if [ "$SKIP_PLANILHA" -eq 0 ]; then
+    # Passo 6: A Pausa Estratégica (Trabalho Manual)
+    echo -e "\n========================================"
+    echo "CONFIRA AS IMAGENS ADICIONADAS ANTES DE PROSSEGUIR"
+    echo "========================================"
+
+    while true; do
+        read -p "Digite 'sim' para enviar ou 'nao' para abortar: " resposta
+        
+        # Converte a resposta para minúsculas para evitar erro de digitação (Sim, SIM, sim)
+        resposta=$(echo "$resposta" | tr '[:upper:]' '[:lower:]')
+        
+        if [ "$resposta" = "sim" ]; then
+            echo -e "\nIniciando commit para produção..."
+            break
+        elif [ "$resposta" = "nao" ]; then
+            echo -e "\n❌ Deploy abortado pelo usuário. O JSON foi atualizado localmente, mas nada foi enviado ao GitHub."
+            exit 0
+        else
+            echo "Entrada inválida. Responda estritamente com 'sim' ou 'nao'."
+        fi
+    done
+else
+    echo -e "\n⏭️ Pulando o passo 6 de pausa manual. Seguindo direto para commit e push."
+fi
 
 # O bloco de execução final do Git
 git add .

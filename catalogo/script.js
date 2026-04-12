@@ -44,7 +44,7 @@ async function restaurarScroll() {
 // Função principal de inicialização
 async function carregarProdutos() {
     try {
-        const resposta = await fetch('produtos.json?v=10');
+        const resposta = await fetch('produtos.json?v=999');
         if (!resposta.ok) throw new Error(`Erro HTTP: ${resposta.status}`);
         
         produtosGlobais = await resposta.json();
@@ -155,8 +155,8 @@ function renderizarLote() {
         // mas saiba que essa dívida técnica vai estourar quando subirem uma foto vertical.
         card.innerHTML = `
             <div class="caixaProduto">
-                <img src="${produto.img}?v=10" alt="${produto.nome}" loading="lazy" 
-                     onerror="this.onerror=null; this.src='indisponivel.png?v=10';"
+                <img src="${produto.img}?v=999" alt="${produto.nome}" loading="lazy" 
+                     onerror="this.onerror=null; this.src='indisponivel.png?v=999';"
                      style="min-width: 75%; min-height: 75%; max-width:75%; max-height:75%; object-fit: contain;">
                 <h3 class="nomeProduto">${produto.nome}</h3>
                 <p class="preco">R$ ${produto.preco.toFixed(2).replace('.', ',')}</p>

@@ -21,20 +21,6 @@
         "img": "img/3258.jpg"
     },
     {
-        "id": "3261",
-        "nome": "RATICIDA MAKI SOFT BAIT 200G",
-        "preco": 26.0,
-        "categoria": "DOMISSANITARIO",
-        "img": "img/3261.jpg"
-    },
-    {
-        "id": "3266",
-        "nome": "EVOLUT CAT ATUM E SALMAO 25KG",
-        "preco": 196.645411034,
-        "categoria": "RACAO DE GATO",
-        "img": "img/3266.jpg"
-    },
-    {
         "id": "3272",
         "nome": "ENERGECT FC 500ML",
         "preco": 182.25,
@@ -182,13 +168,6 @@
         "img": "img/3308.jpg"
     },
     {
-        "id": "3314",
-        "nome": "VACINA BOVILIS POLI STAR T 100ML",
-        "preco": 76.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/3314.jpg"
-    },
-    {
         "id": "3315",
         "nome": "CARRO DE MAO LYNUS MC-70",
         "preco": 590.0,
@@ -250,13 +229,6 @@
         "preco": 52.0,
         "categoria": "MEDICAMENTO",
         "img": "img/3326.jpg"
-    },
-    {
-        "id": "3328",
-        "nome": "FERTILIZANTE NPK 04.14.08 SC 25KG",
-        "preco": 105.0,
-        "categoria": "ADUBOS",
-        "img": "img/3328.jpg"
     },
     {
         "id": "3329",
@@ -721,13 +693,6 @@
         "img": "img/1001.jpg"
     },
     {
-        "id": "1002",
-        "nome": "DOXINEW 100MG WORLD C/07 COMP",
-        "preco": 14.5265,
-        "categoria": "PRODUTOS PET",
-        "img": "img/1002.jpg"
-    },
-    {
         "id": "1003",
         "nome": "DOXINEW 200MG WORLD C/07 COMP",
         "preco": 31.724,
@@ -747,13 +712,6 @@
         "preco": 10.908,
         "categoria": "MEDICAMENTO",
         "img": "img/1005.jpg"
-    },
-    {
-        "id": "1006",
-        "nome": "OROSOL PASSAROS 10ML LAVIZOO",
-        "preco": 12.15,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1006.jpg"
     },
     {
         "id": "1007",
@@ -812,13 +770,6 @@
         "img": "img/1014.jpg"
     },
     {
-        "id": "1015",
-        "nome": "TELA HEX 1' PINTEIRO F24 1,50X50M",
-        "preco": 504.755999997,
-        "categoria": "ACESSORIOS",
-        "img": "img/1015.jpg"
-    },
-    {
         "id": "1017",
         "nome": "LIMA MOTOSERRA",
         "preco": 15.0056,
@@ -833,25 +784,11 @@
         "img": "img/1018.jpg"
     },
     {
-        "id": "1019",
-        "nome": "CORRENTE ZINC P/CAES N04 WS CORRENTES",
-        "preco": 11.0,
-        "categoria": "ACESSORIOS",
-        "img": "img/1019.jpg"
-    },
-    {
         "id": "102",
         "nome": "PODEROSO PRONTO P/ USO 500ML",
         "preco": 35.0,
         "categoria": "DOMISSANITARIO",
         "img": "img/102.jpg"
-    },
-    {
-        "id": "1020",
-        "nome": "CORRENTE ZINC P/CAES N01 WS CORRENTES",
-        "preco": 19.2366,
-        "categoria": "ACESSORIOS",
-        "img": "img/1020.jpg"
     },
     {
         "id": "1021",
@@ -917,27 +854,6 @@
         "img": "img/1029.jpg"
     },
     {
-        "id": "103",
-        "nome": "COMPLEXO B12",
-        "preco": 18.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/103.jpg"
-    },
-    {
-        "id": "1031",
-        "nome": "DIFLY S3 1KG CHAMPION",
-        "preco": 124.1865,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1031.jpg"
-    },
-    {
-        "id": "1035",
-        "nome": "ROBOFORTE 100ML CEVA",
-        "preco": 103.751899999,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1035.jpg"
-    },
-    {
         "id": "1036",
         "nome": "ROBOFORTE 250ML CEVA",
         "preco": 198.8577,
@@ -985,13 +901,6 @@
         "preco": 36.1043,
         "categoria": "FERRAMENTA",
         "img": "img/1046.jpg"
-    },
-    {
-        "id": "1047",
-        "nome": "MANGUEIRA IRRIG.PERF.N2 SANT",
-        "preco": 152.159999999,
-        "categoria": "FERRAMENTA",
-        "img": "img/1047.jpg"
     },
     {
         "id": "1048",
@@ -1071,32 +980,11 @@
         "img": "img/106.jpg"
     },
     {
-        "id": "1061",
-        "nome": "EQUINO ORIG. CRIACAO JOY 40KG",
-        "preco": 100.0,
-        "categoria": "RACAO DE EQUINO",
-        "img": "img/1061.jpg"
-    },
-    {
         "id": "1062",
         "nome": "RACAO DE FRANGO CRESC/ENG 20KG",
         "preco": 64.0,
         "categoria": "RACAO DE AVES",
         "img": "img/1062.jpg"
-    },
-    {
-        "id": "1063",
-        "nome": "DORAFORT FR 500 ML",
-        "preco": 187.164,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1063.jpg"
-    },
-    {
-        "id": "1064",
-        "nome": "VACINA TRI-EQUI 1 DS",
-        "preco": 38.1244,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1064.jpg"
     },
     {
         "id": "1071",
@@ -1169,13 +1057,6 @@
         "img": "img/1080.jpg"
     },
     {
-        "id": "1081",
-        "nome": "BOTA URBANA PRETA N40 060",
-        "preco": 160.0,
-        "categoria": "CALCADOS",
-        "img": "img/1081.jpg"
-    },
-    {
         "id": "1082",
         "nome": "BOTA URBANA PRETA N41 060",
         "preco": 160.0,
@@ -1202,27 +1083,6 @@
         "preco": 160.0,
         "categoria": "CALCADOS",
         "img": "img/1085.jpg"
-    },
-    {
-        "id": "1086",
-        "nome": "BOTA URBANA CASTANHO N38 060",
-        "preco": 160.0,
-        "categoria": "CALCADOS",
-        "img": "img/1086.jpg"
-    },
-    {
-        "id": "1087",
-        "nome": "BOTA URBANA CASTANHO N39 060",
-        "preco": 160.0,
-        "categoria": "CALCADOS",
-        "img": "img/1087.jpg"
-    },
-    {
-        "id": "1088",
-        "nome": "BOTA URBANA CASTANHO N40 060",
-        "preco": 160.0,
-        "categoria": "CALCADOS",
-        "img": "img/1088.jpg"
     },
     {
         "id": "1089",
@@ -1428,13 +1288,6 @@
         "img": "img/1113.jpg"
     },
     {
-        "id": "1115",
-        "nome": "GROSA FERRADOR N12 KX",
-        "preco": 66.976,
-        "categoria": "ACESSORIOS",
-        "img": "img/1115.jpg"
-    },
-    {
         "id": "1116",
         "nome": "TESOURA CORTAR CORRENTE 24 MILLA",
         "preco": 173.347999999,
@@ -1456,13 +1309,6 @@
         "img": "img/112.jpg"
     },
     {
-        "id": "1121",
-        "nome": "TRANCA PORTEIRA 3/16 JUPITER",
-        "preco": 34.286,
-        "categoria": "ACESSORIOS",
-        "img": "img/1121.jpg"
-    },
-    {
         "id": "1122",
         "nome": "OXITETRA VILAVET 50 ML",
         "preco": 16.9383,
@@ -1477,41 +1323,6 @@
         "img": "img/1124.jpg"
     },
     {
-        "id": "1125",
-        "nome": "CALDEXTAN 200 ML",
-        "preco": 13.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1125.jpg"
-    },
-    {
-        "id": "1126",
-        "nome": "CALDEXTAN 500 ML + EQUIPO",
-        "preco": 22.5751,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1126.jpg"
-    },
-    {
-        "id": "1127",
-        "nome": "HEMOVET MAX 1 L",
-        "preco": 75.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1127.jpg"
-    },
-    {
-        "id": "1128",
-        "nome": "STRONG HORSE 1KG",
-        "preco": 23.4112,
-        "categoria": "SAL MINERAL",
-        "img": "img/1128.jpg"
-    },
-    {
-        "id": "1129",
-        "nome": "CEVIT 30 ML",
-        "preco": 8.6161,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1129.jpg"
-    },
-    {
         "id": "113",
         "nome": "RACAO DE PINTO CRESC 40KG",
         "preco": 117.128347,
@@ -1524,13 +1335,6 @@
         "preco": 20.0394,
         "categoria": "MEDICAMENTO",
         "img": "img/1130.jpg"
-    },
-    {
-        "id": "1132",
-        "nome": "COMPLEXO MINERAL VILAVET 1 KG",
-        "preco": 16.0,
-        "categoria": "SAL MINERAL",
-        "img": "img/1132.jpg"
     },
     {
         "id": "1133",
@@ -1552,13 +1356,6 @@
         "preco": 76.855382,
         "categoria": "MEDICAMENTO",
         "img": "img/1135.jpg"
-    },
-    {
-        "id": "1136",
-        "nome": "PRO BEZERRO PLUS 34G",
-        "preco": 24.3675,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1136.jpg"
     },
     {
         "id": "1137",
@@ -1603,13 +1400,6 @@
         "img": "img/1141.jpg"
     },
     {
-        "id": "1142",
-        "nome": "BACTROVET PRATA 200ML COVELI",
-        "preco": 17.5973,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1142.jpg"
-    },
-    {
         "id": "1143",
         "nome": "FLOXICLIN 50ML",
         "preco": 19.5,
@@ -1622,13 +1412,6 @@
         "preco": 13.1793,
         "categoria": "PRODUTOS PET",
         "img": "img/1144.jpg"
-    },
-    {
-        "id": "1145",
-        "nome": "VERMOTRIX PLUS BABY 20ML",
-        "preco": 13.677980002,
-        "categoria": "PRODUTOS PET",
-        "img": "img/1145.jpg"
     },
     {
         "id": "1147",
@@ -1722,13 +1505,6 @@
         "img": "img/116.jpg"
     },
     {
-        "id": "1160",
-        "nome": "MODIFICADOR ORGANICO 100ML BRAVET",
-        "preco": 14.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1160.jpg"
-    },
-    {
         "id": "1161",
         "nome": "AMINOMIX FORTE 2,5 KG",
         "preco": 235.781499999,
@@ -1764,25 +1540,11 @@
         "img": "img/117.jpg"
     },
     {
-        "id": "1170",
-        "nome": "STRONG HORSE 10 KG",
-        "preco": 140.7982,
-        "categoria": "SAL MINERAL",
-        "img": "img/1170.jpg"
-    },
-    {
         "id": "1174",
         "nome": "ANTITOXICO INJ 100ML BIOFARM",
         "preco": 23.0,
         "categoria": "MEDICAMENTO",
         "img": "img/1174.jpg"
-    },
-    {
-        "id": "1175",
-        "nome": "PRAPI 4 COMP COVELI",
-        "preco": 11.8274,
-        "categoria": "PRODUTOS PET",
-        "img": "img/1175.jpg"
     },
     {
         "id": "1176",
@@ -1841,25 +1603,11 @@
         "img": "img/1183.jpg"
     },
     {
-        "id": "1184",
-        "nome": "FENILBUT INJ 100ML FENILVET VANSIL",
-        "preco": 48.033,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1184.jpg"
-    },
-    {
         "id": "1185",
         "nome": "CALCARIO CALCITICO GRANULADO 50KG",
         "preco": 22.0,
         "categoria": "CALCARIO",
         "img": "img/1185.jpg"
-    },
-    {
-        "id": "1189",
-        "nome": "FACA PARA CHURRASCO",
-        "preco": 90.0,
-        "categoria": "ACESSORIOS",
-        "img": "img/1189.jpg"
     },
     {
         "id": "119",
@@ -1890,25 +1638,11 @@
         "img": "img/1195.jpg"
     },
     {
-        "id": "12",
-        "nome": "SAL PROBEEF 1300 25KG",
-        "preco": 237.333333001,
-        "categoria": "SAL MINERAL",
-        "img": "img/12.jpg"
-    },
-    {
         "id": "120",
         "nome": "RC PEIXE 32 CRESCIMENTO 4 A 6MM 25KG",
         "preco": 92.0,
         "categoria": "RACAO DE PEIXE",
         "img": "img/120.jpg"
-    },
-    {
-        "id": "1202",
-        "nome": "MODIFICADOR ORGANICO 500ML VALLEE",
-        "preco": 79.489,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1202.jpg"
     },
     {
         "id": "1203",
@@ -1965,13 +1699,6 @@
         "preco": 22.8149,
         "categoria": "MEDICAMENTO",
         "img": "img/1210.jpg"
-    },
-    {
-        "id": "1211",
-        "nome": "STRONDAL COMP.4",
-        "preco": 6.696,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1211.jpg"
     },
     {
         "id": "1213",
@@ -2065,13 +1792,6 @@
         "img": "img/1224.jpg"
     },
     {
-        "id": "1225",
-        "nome": "BIOMAST SELANTE 4 G UNICA",
-        "preco": 7.6979,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1225.jpg"
-    },
-    {
         "id": "1226",
         "nome": "CYPERBIO PLUS 25 ML",
         "preco": 5.5,
@@ -2112,13 +1832,6 @@
         "preco": 125.000000001,
         "categoria": "RACAO DE CACHORRO",
         "img": "img/1231.jpg"
-    },
-    {
-        "id": "1232",
-        "nome": "IODO 2,6% 200ML GLICIODO",
-        "preco": 19.305,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1232.jpg"
     },
     {
         "id": "124",
@@ -2198,13 +1911,6 @@
         "img": "img/125.jpg"
     },
     {
-        "id": "1250",
-        "nome": "PULVERIZADOR DE COMPRESSAO PREVIA 1,25L PCP-1P GUARAN",
-        "preco": 79.6979,
-        "categoria": "ACESSORIOS",
-        "img": "img/1250.jpg"
-    },
-    {
         "id": "1251",
         "nome": "PULVERIZADOR MANUAL - LARANJA/VERDE 500ML GUARANY",
         "preco": 10.0,
@@ -2240,32 +1946,11 @@
         "img": "img/1256.jpg"
     },
     {
-        "id": "1257",
-        "nome": "CIOSIN 20 ML SVD - MSD",
-        "preco": 100.1339,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1257.jpg"
-    },
-    {
         "id": "1258",
         "nome": "DORAX PLUS PASTA 30 G - AGENER",
         "preco": 28.4401,
         "categoria": "MEDICAMENTO",
         "img": "img/1258.jpg"
-    },
-    {
-        "id": "1259",
-        "nome": "IVERMECTINA 1% 50 ML - DECHRA",
-        "preco": 16.1224,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1259.jpg"
-    },
-    {
-        "id": "126",
-        "nome": "BULVERMIN PLUS BLISTERS 4CPR COVELI",
-        "preco": 10.5,
-        "categoria": "PRODUTOS PET",
-        "img": "img/126.jpg"
     },
     {
         "id": "1260",
@@ -2296,25 +1981,11 @@
         "img": "img/1263.jpg"
     },
     {
-        "id": "1264",
-        "nome": "TRIATOX MCA 200ML",
-        "preco": 37.413,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1264.jpg"
-    },
-    {
         "id": "1265",
         "nome": "MONOVIN VIT B1 20ML",
         "preco": 30.7665,
         "categoria": "MEDICAMENTO",
         "img": "img/1265.jpg"
-    },
-    {
-        "id": "1266",
-        "nome": "MONOVIN VIT B12 20ML",
-        "preco": 38.3076,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1266.jpg"
     },
     {
         "id": "1267",
@@ -2331,25 +2002,11 @@
         "img": "img/1268.jpg"
     },
     {
-        "id": "127",
-        "nome": "ENTERO-BIO 15 G FARMAVET",
-        "preco": 6.5,
-        "categoria": "MEDICAMENTO",
-        "img": "img/127.jpg"
-    },
-    {
         "id": "1277",
         "nome": "COALHO LIQ HA-LA 200ML",
         "preco": 10.5865,
         "categoria": "MEDICAMENTO",
         "img": "img/1277.jpg"
-    },
-    {
-        "id": "1278",
-        "nome": "HORSE PLUS 10 G",
-        "preco": 17.01,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1278.jpg"
     },
     {
         "id": "1279",
@@ -2366,13 +2023,6 @@
         "img": "img/128.jpg"
     },
     {
-        "id": "1280",
-        "nome": "LAVICOX MELOXICAM 30GR",
-        "preco": 53.2305,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1280.jpg"
-    },
-    {
         "id": "1282",
         "nome": "CORDA PET CARR 10MM PRETA LISA",
         "preco": 2.3,
@@ -2387,46 +2037,11 @@
         "img": "img/1285.jpg"
     },
     {
-        "id": "1286",
-        "nome": "PLANTADEIRA P.GRILO KRUP",
-        "preco": 156.0429,
-        "categoria": "FERRAMENTA",
-        "img": "img/1286.jpg"
-    },
-    {
-        "id": "1287",
-        "nome": "CAVADEIRA ART.CB CANO",
-        "preco": 94.415999999,
-        "categoria": "FERRAMENTA",
-        "img": "img/1287.jpg"
-    },
-    {
-        "id": "129",
-        "nome": "NEOPET CX COL 0,67 ML OURO FINO",
-        "preco": 42.0,
-        "categoria": "PRODUTOS PET",
-        "img": "img/129.jpg"
-    },
-    {
-        "id": "1291",
-        "nome": "UMBI TRAT 250ML",
-        "preco": 35.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1291.jpg"
-    },
-    {
         "id": "1295",
         "nome": "FERRO VET SUPLEM VITAMINICO E MINER 100ML VETBRAS",
         "preco": 11.9898,
         "categoria": "MEDICAMENTO",
         "img": "img/1295.jpg"
-    },
-    {
-        "id": "1296",
-        "nome": "LONA CARRETEIRO 04X05",
-        "preco": 140.062999999,
-        "categoria": "ACESSORIOS",
-        "img": "img/1296.jpg"
     },
     {
         "id": "1298",
@@ -2443,13 +2058,6 @@
         "img": "img/1299.jpg"
     },
     {
-        "id": "13",
-        "nome": "SAL PROBEEF 1600 25KG",
-        "preco": 298.0,
-        "categoria": "SAL MINERAL",
-        "img": "img/13.jpg"
-    },
-    {
         "id": "130",
         "nome": "PODEROSO 25 CE 1L KELLDRIN",
         "preco": 158.0,
@@ -2462,13 +2070,6 @@
         "preco": 53.7005,
         "categoria": "ACESSORIOS",
         "img": "img/1300.jpg"
-    },
-    {
-        "id": "1301",
-        "nome": "DESCORNADOR SERVI RETO DE FERRO COM CAVA",
-        "preco": 45.4755,
-        "categoria": "ACESSORIOS",
-        "img": "img/1301.jpg"
     },
     {
         "id": "1302",
@@ -2490,13 +2091,6 @@
         "preco": 3.0,
         "categoria": "ACESSORIOS",
         "img": "img/1304.jpg"
-    },
-    {
-        "id": "1305",
-        "nome": "FORMIGA C/ CORRENTE EM ACO CROMADO",
-        "preco": 140.951999999,
-        "categoria": "ACESSORIOS",
-        "img": "img/1305.jpg"
     },
     {
         "id": "1306",
@@ -2527,13 +2121,6 @@
         "img": "img/1311.jpg"
     },
     {
-        "id": "1314",
-        "nome": "BANAMINE INJ 10ML FLUNIXINA",
-        "preco": 48.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1314.jpg"
-    },
-    {
         "id": "1315",
         "nome": "ECTONIL POUR-ON 1L",
         "preco": 31.045359,
@@ -2541,53 +2128,11 @@
         "img": "img/1315.jpg"
     },
     {
-        "id": "132",
-        "nome": "SHAMPOO E CONDICI CLOREXIDINA  KELLDRIN 500ML",
-        "preco": 21.0,
-        "categoria": "PRODUTOS PET",
-        "img": "img/132.jpg"
-    },
-    {
-        "id": "1324",
-        "nome": "EQUINO IMPACTO VIGOR 40KG",
-        "preco": 157.0,
-        "categoria": "RACAO DE EQUINO",
-        "img": "img/1324.jpg"
-    },
-    {
-        "id": "1325",
-        "nome": "CUPINICIDA PRONTO P/ USO 500ML KELLDRIN",
-        "preco": 29.7,
-        "categoria": "DOMISSANITARIO",
-        "img": "img/1325.jpg"
-    },
-    {
-        "id": "1326",
-        "nome": "DOXINEW 50MG WORLD C/14 COMP",
-        "preco": 19.39,
-        "categoria": "PRODUTOS PET",
-        "img": "img/1326.jpg"
-    },
-    {
-        "id": "1327",
-        "nome": "SABONETE DUG S ANTIPULGAS 80G WORLD",
-        "preco": 9.142,
-        "categoria": "PRODUTOS PET",
-        "img": "img/1327.jpg"
-    },
-    {
         "id": "1328",
         "nome": "BAYTICOL POUR-ON 1 L",
         "preco": 114.642,
         "categoria": "MEDICAMENTO",
         "img": "img/1328.jpg"
-    },
-    {
-        "id": "1329",
-        "nome": "LEVAMISOL 500 ML",
-        "preco": 133.3395,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1329.jpg"
     },
     {
         "id": "1330",
@@ -2602,13 +2147,6 @@
         "preco": 31.9699,
         "categoria": "MEDICAMENTO",
         "img": "img/1331.jpg"
-    },
-    {
-        "id": "1332",
-        "nome": "PRO HORSE + PLUS",
-        "preco": 31.565,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1332.jpg"
     },
     {
         "id": "1335",
@@ -2632,34 +2170,6 @@
         "img": "img/1337.jpg"
     },
     {
-        "id": "1338",
-        "nome": "DOMINIUM DOG ADULTO 25KG",
-        "preco": 155.0,
-        "categoria": "RACAO DE CACHORRO",
-        "img": "img/1338.jpg"
-    },
-    {
-        "id": "1339",
-        "nome": "DOMINIUM DOG ADULTO 15KG",
-        "preco": 79.900000001,
-        "categoria": "RACAO DE CACHORRO",
-        "img": "img/1339.jpg"
-    },
-    {
-        "id": "134",
-        "nome": "TINTURA DE THUYA 20 ML  INDUBRAS",
-        "preco": 7.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/134.jpg"
-    },
-    {
-        "id": "1340",
-        "nome": "CHANIN MIX 10.1KG",
-        "preco": 84.0,
-        "categoria": "RACAO DE GATO",
-        "img": "img/1340.jpg"
-    },
-    {
         "id": "1341",
         "nome": "CHANIN PEIXE 10.1KG",
         "preco": 84.0,
@@ -2672,20 +2182,6 @@
         "preco": 193.3438,
         "categoria": "RACAO DE GATO",
         "img": "img/1342.jpg"
-    },
-    {
-        "id": "1343",
-        "nome": "CHANIN FILHOTE 10,1KG",
-        "preco": 96.4943,
-        "categoria": "RACAO DE GATO",
-        "img": "img/1343.jpg"
-    },
-    {
-        "id": "1344",
-        "nome": "FOSBOVI CONFINAMENTO CRINA 30KG",
-        "preco": 220.420099999,
-        "categoria": "SAL MINERAL",
-        "img": "img/1344.jpg"
     },
     {
         "id": "1345",
@@ -2714,13 +2210,6 @@
         "preco": 6.0,
         "categoria": "ACESSORIOS",
         "img": "img/1351.jpg"
-    },
-    {
-        "id": "1352",
-        "nome": "BICO DE MAMADEIRA P/ CAPRINO FAZFORT",
-        "preco": 4.2,
-        "categoria": "ACESSORIOS",
-        "img": "img/1352.jpg"
     },
     {
         "id": "1353",
@@ -2758,53 +2247,11 @@
         "img": "img/1357.jpg"
     },
     {
-        "id": "1358",
-        "nome": "MACHADO 3 LIBRAS C/CABO MOMFORT",
-        "preco": 85.0,
-        "categoria": "FERRAMENTA",
-        "img": "img/1358.jpg"
-    },
-    {
-        "id": "136",
-        "nome": "VERMICAO 4CP LAVIZOO",
-        "preco": 8.5,
-        "categoria": "PRODUTOS PET",
-        "img": "img/136.jpg"
-    },
-    {
         "id": "1364",
         "nome": "TORQUES 08\" UN",
         "preco": 33.1473,
         "categoria": "FERRAMENTA",
         "img": "img/1364.jpg"
-    },
-    {
-        "id": "1365",
-        "nome": "FLUMEDIN INJ 50ML JOFADEL",
-        "preco": 55.323,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1365.jpg"
-    },
-    {
-        "id": "1366",
-        "nome": "IVERGOLD PREMIX SACHE 33G PRADO",
-        "preco": 8.5,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1366.jpg"
-    },
-    {
-        "id": "1367",
-        "nome": "KARABE 30ML UCBVET",
-        "preco": 32.5755,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1367.jpg"
-    },
-    {
-        "id": "1368",
-        "nome": "MANGUEIRA P/ IRRIG 15M C/ KIT CONECTOR INICIAL SANTEN",
-        "preco": 41.496,
-        "categoria": "ACESSORIOS",
-        "img": "img/1368.jpg"
     },
     {
         "id": "1369",
@@ -2826,13 +2273,6 @@
         "preco": 11.7825,
         "categoria": "ACESSORIOS",
         "img": "img/1370.jpg"
-    },
-    {
-        "id": "1371",
-        "nome": "LONA CARRETEIRO 06X05",
-        "preco": 293.971999998,
-        "categoria": "ACESSORIOS",
-        "img": "img/1371.jpg"
     },
     {
         "id": "1372",
@@ -2877,27 +2317,6 @@
         "img": "img/138.jpg"
     },
     {
-        "id": "1382",
-        "nome": "SUPER CASCO 500 G",
-        "preco": 31.8344,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1382.jpg"
-    },
-    {
-        "id": "1383",
-        "nome": "CALGOLD POTENCIADO 1 L",
-        "preco": 72.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1383.jpg"
-    },
-    {
-        "id": "1384",
-        "nome": "CALGOLD POTENCIADO 50 ML",
-        "preco": 11.25,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1384.jpg"
-    },
-    {
         "id": "1385",
         "nome": "ZUMM 1 KG",
         "preco": 12.2553,
@@ -2926,32 +2345,11 @@
         "img": "img/1392.jpg"
     },
     {
-        "id": "1393",
-        "nome": "LA LEITE E CARNE MINERAL OVINO E CAPRINO 5KG",
-        "preco": 40.9455,
-        "categoria": "SAL MINERAL",
-        "img": "img/1393.jpg"
-    },
-    {
         "id": "1396",
         "nome": "FORTHRINE PO 50 250 G",
         "preco": 15.0,
         "categoria": "DOMISSANITARIO",
         "img": "img/1396.jpg"
-    },
-    {
-        "id": "1397",
-        "nome": "CURSOTRAT 50ML",
-        "preco": 38.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1397.jpg"
-    },
-    {
-        "id": "1398",
-        "nome": "BOLFO 1 KG",
-        "preco": 87.5893,
-        "categoria": "DOMISSANITARIO",
-        "img": "img/1398.jpg"
     },
     {
         "id": "1399",
@@ -2968,25 +2366,11 @@
         "img": "img/140.jpg"
     },
     {
-        "id": "1400",
-        "nome": "DEXAGARD 0,5 MG 20 COMP",
-        "preco": 12.068,
-        "categoria": "PRODUTOS PET",
-        "img": "img/1400.jpg"
-    },
-    {
         "id": "1401",
         "nome": "VACINA RAIVA PET 1 DS 1 M L",
         "preco": 18.0,
         "categoria": "PRODUTOS PET",
         "img": "img/1401.jpg"
-    },
-    {
-        "id": "1402",
-        "nome": "VACINA PET POLY V10 2 ML - LEMA",
-        "preco": 16.5,
-        "categoria": "PRODUTOS PET",
-        "img": "img/1402.jpg"
     },
     {
         "id": "1403",
@@ -3015,13 +2399,6 @@
         "preco": 8.5,
         "categoria": "MEDICAMENTO",
         "img": "img/141.jpg"
-    },
-    {
-        "id": "1414",
-        "nome": "ZUPPY ADULTO PEQUENO PORTE 20KG",
-        "preco": 195.000000001,
-        "categoria": "RACAO DE CACHORRO",
-        "img": "img/1414.jpg"
     },
     {
         "id": "1415",
@@ -3059,13 +2436,6 @@
         "img": "img/142.jpg"
     },
     {
-        "id": "1423",
-        "nome": "COLOSSO FC30 1L",
-        "preco": 233.194500001,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1423.jpg"
-    },
-    {
         "id": "1425",
         "nome": "MANGUEIRA JARD TRANCADA 20M",
         "preco": 71.3314,
@@ -3078,13 +2448,6 @@
         "preco": 95.0,
         "categoria": "FERRAMENTA",
         "img": "img/1426.jpg"
-    },
-    {
-        "id": "1427",
-        "nome": "CAVADEIRA FERRO 3/4X150CM SAO ROMAO",
-        "preco": 91.433999999,
-        "categoria": "FERRAMENTA",
-        "img": "img/1427.jpg"
     },
     {
         "id": "1428",
@@ -3108,20 +2471,6 @@
         "img": "img/143.jpg"
     },
     {
-        "id": "1430",
-        "nome": "ESTREPTOPENICILINA  25 ML",
-        "preco": 25.056,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1430.jpg"
-    },
-    {
-        "id": "1431",
-        "nome": "HANDICAP PASTA ORAL 10 GR - CEVA",
-        "preco": 18.2631,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1431.jpg"
-    },
-    {
         "id": "1432",
         "nome": "ALICATE DE BRINCO",
         "preco": 125.0,
@@ -3143,32 +2492,11 @@
         "img": "img/1434.jpg"
     },
     {
-        "id": "1435",
-        "nome": "FENZOL PASTA 20 G",
-        "preco": 10.125,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1435.jpg"
-    },
-    {
         "id": "1436",
         "nome": "MOD PLUS INJ 500 ML",
         "preco": 78.8535,
         "categoria": "MEDICAMENTO",
         "img": "img/1436.jpg"
-    },
-    {
-        "id": "1437",
-        "nome": "MOD PLUS INJ 1 L",
-        "preco": 87.75,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1437.jpg"
-    },
-    {
-        "id": "1438",
-        "nome": "RACA CAT PREMIUM CASTRADO 25 KG",
-        "preco": 209.5015,
-        "categoria": "RACAO DE GATO",
-        "img": "img/1438.jpg"
     },
     {
         "id": "144",
@@ -3192,13 +2520,6 @@
         "img": "img/1443.jpg"
     },
     {
-        "id": "1444",
-        "nome": "TOSSICANIS 90 ML",
-        "preco": 33.1752,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1444.jpg"
-    },
-    {
         "id": "1445",
         "nome": "BISTEGATU S SALMAO E FRUTOS DO MAR 10.1K",
         "preco": 99.0,
@@ -3213,25 +2534,11 @@
         "img": "img/1449.jpg"
     },
     {
-        "id": "145",
-        "nome": "PEGASUS TRIO 9,6 G",
-        "preco": 64.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/145.jpg"
-    },
-    {
         "id": "1450",
         "nome": "BOVIGOLD PASTO 25KG",
         "preco": 178.138799999,
         "categoria": "SAL MINERAL",
         "img": "img/1450.jpg"
-    },
-    {
-        "id": "1453",
-        "nome": "BAYCOX SUSPENSAO 5% 100 ML",
-        "preco": 133.7648,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1453.jpg"
     },
     {
         "id": "1454",
@@ -3246,13 +2553,6 @@
         "preco": 28.7044,
         "categoria": "MEDICAMENTO",
         "img": "img/1455.jpg"
-    },
-    {
-        "id": "1456",
-        "nome": "OCITOCINA BIOFARM 100 ML",
-        "preco": 8.6561,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1456.jpg"
     },
     {
         "id": "1457",
@@ -3311,13 +2611,6 @@
         "img": "img/1465.jpg"
     },
     {
-        "id": "1466",
-        "nome": "FLUMAX 20 ML",
-        "preco": 27.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1466.jpg"
-    },
-    {
         "id": "1467",
         "nome": "CHANIN CASTRADO 25KG",
         "preco": 234.020200001,
@@ -3346,25 +2639,11 @@
         "img": "img/1471.jpg"
     },
     {
-        "id": "1472",
-        "nome": "ENXADA NORTE 3,5 LBS TRAMONTINA",
-        "preco": 79.534,
-        "categoria": "FERRAMENTA",
-        "img": "img/1472.jpg"
-    },
-    {
         "id": "1473",
         "nome": "ENXADA LARGA 2,5 LBS",
         "preco": 51.565,
         "categoria": "FERRAMENTA",
         "img": "img/1473.jpg"
-    },
-    {
-        "id": "1474",
-        "nome": "CYPERMETRIL PULVERIZACAO 1L",
-        "preco": 47.25,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1474.jpg"
     },
     {
         "id": "1475",
@@ -3395,13 +2674,6 @@
         "img": "img/1478.jpg"
     },
     {
-        "id": "1479",
-        "nome": "CHEMITRIL CP 50MG",
-        "preco": 15.8597,
-        "categoria": "PRODUTOS PET",
-        "img": "img/1479.jpg"
-    },
-    {
         "id": "148",
         "nome": "ANABOLIC INJETAVEL 500 ML",
         "preco": 295.816966,
@@ -3428,13 +2700,6 @@
         "preco": 10.827,
         "categoria": "MEDICAMENTO",
         "img": "img/1482.jpg"
-    },
-    {
-        "id": "1483",
-        "nome": "BALSAMEX 100 G",
-        "preco": 30.4695,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1483.jpg"
     },
     {
         "id": "149",
@@ -3479,25 +2744,11 @@
         "img": "img/151.jpg"
     },
     {
-        "id": "1514",
-        "nome": "SABONETE MATACURA ANTISSEPTICO 90GRS",
-        "preco": 8.5882,
-        "categoria": "PRODUTOS PET",
-        "img": "img/1514.jpg"
-    },
-    {
         "id": "1515",
         "nome": "CALCION 500 ML - DISPEC",
         "preco": 26.5275,
         "categoria": "MEDICAMENTO",
         "img": "img/1515.jpg"
-    },
-    {
-        "id": "1516",
-        "nome": "BIOMAST VACA SECA BIOFARM 4G VS",
-        "preco": 8.3884,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1516.jpg"
     },
     {
         "id": "1518",
@@ -3619,13 +2870,6 @@
         "img": "img/1541.jpg"
     },
     {
-        "id": "1542",
-        "nome": "CARRAPATOX 20 ML",
-        "preco": 5.0,
-        "categoria": "DOMISSANITARIO",
-        "img": "img/1542.jpg"
-    },
-    {
         "id": "1545",
         "nome": "CARRAPATOX 1 L",
         "preco": 51.0609,
@@ -3738,39 +2982,11 @@
         "img": "img/1563.jpg"
     },
     {
-        "id": "1565",
-        "nome": "SERROTE PODA CURVO CABO PLASTICO 12 MAX",
-        "preco": 24.1619,
-        "categoria": "FERRAMENTA",
-        "img": "img/1565.jpg"
-    },
-    {
         "id": "1566",
         "nome": "FORCADO RETO 4 DENTES COM CABO DE 1,2 M MAX",
         "preco": 42.5846,
         "categoria": "FERRAMENTA",
         "img": "img/1566.jpg"
-    },
-    {
-        "id": "1567",
-        "nome": "FORCADO CURVO 4 DENTES COM CABO DE 1,2 M MAX",
-        "preco": 47.76,
-        "categoria": "FERRAMENTA",
-        "img": "img/1567.jpg"
-    },
-    {
-        "id": "1568",
-        "nome": "LAMINA DE ACO PARA ROCADEIRA 2 PONTAS 350 MM FURO 1 P",
-        "preco": 32.0,
-        "categoria": "FERRAMENTA",
-        "img": "img/1568.jpg"
-    },
-    {
-        "id": "1569",
-        "nome": "LAMINA DE ACO PARA ROCADEIRA 2 PONTAS 350 MM FURO 20",
-        "preco": 32.2,
-        "categoria": "FERRAMENTA",
-        "img": "img/1569.jpg"
     },
     {
         "id": "157",
@@ -3787,25 +3003,11 @@
         "img": "img/1570.jpg"
     },
     {
-        "id": "1571",
-        "nome": "ANCINHO REFORCADO CURVO 12 DENTES COM CABO 1,2 M MAX",
-        "preco": 21.9695,
-        "categoria": "FERRAMENTA",
-        "img": "img/1571.jpg"
-    },
-    {
         "id": "1573",
         "nome": "PE DE CABRA 3/4 50CM MAX",
         "preco": 53.592,
         "categoria": "FERRAMENTA",
         "img": "img/1573.jpg"
-    },
-    {
-        "id": "1574",
-        "nome": "ENXADA NORTE 2,0 LBS MAX",
-        "preco": 35.3,
-        "categoria": "FERRAMENTA",
-        "img": "img/1574.jpg"
     },
     {
         "id": "1575",
@@ -3834,20 +3036,6 @@
         "preco": 55.366392,
         "categoria": "MEDICAMENTO",
         "img": "img/1578.jpg"
-    },
-    {
-        "id": "1579",
-        "nome": "PNEU CARRO DE MAO 3.50-8 4",
-        "preco": 136.000000001,
-        "categoria": "ACESSORIOS",
-        "img": "img/1579.jpg"
-    },
-    {
-        "id": "1581",
-        "nome": "SHAMPOO CLOREXIDINA DERMOCLEAN 500ML",
-        "preco": 22.5,
-        "categoria": "PRODUTOS PET",
-        "img": "img/1581.jpg"
     },
     {
         "id": "1582",
@@ -3883,13 +3071,6 @@
         "preco": 160.0,
         "categoria": "CALCADOS",
         "img": "img/1587.jpg"
-    },
-    {
-        "id": "1588",
-        "nome": "BOTA URBANA CASTANHO N43 020",
-        "preco": 160.0,
-        "categoria": "CALCADOS",
-        "img": "img/1588.jpg"
     },
     {
         "id": "1589",
@@ -3969,13 +3150,6 @@
         "img": "img/160.jpg"
     },
     {
-        "id": "1600",
-        "nome": "CHANIN CASTRADO 10.1KG",
-        "preco": 102.4832,
-        "categoria": "RACAO DE GATO",
-        "img": "img/1600.jpg"
-    },
-    {
         "id": "1602",
         "nome": "LIDOFARM ANESTESICO 50ML",
         "preco": 16.5,
@@ -3990,13 +3164,6 @@
         "img": "img/1603.jpg"
     },
     {
-        "id": "1604",
-        "nome": "COADOR LEITE S/ TELA FUNIL 12 LITROS",
-        "preco": 9.954,
-        "categoria": "ACESSORIOS",
-        "img": "img/1604.jpg"
-    },
-    {
         "id": "1605",
         "nome": "ENXOFRE PECUARIO COM CALCIO 1KG",
         "preco": 15.565191987,
@@ -4009,13 +3176,6 @@
         "preco": 11.9205,
         "categoria": "MEDICAMENTO",
         "img": "img/1606.jpg"
-    },
-    {
-        "id": "1607",
-        "nome": "ACIENDEL PLUS POUR-ON 2,5LT",
-        "preco": 149.5125,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1607.jpg"
     },
     {
         "id": "1608",
@@ -4037,27 +3197,6 @@
         "preco": 310.0,
         "categoria": "ACESSORIOS",
         "img": "img/161.jpg"
-    },
-    {
-        "id": "1611",
-        "nome": "SUPRAFOS EQUINO 10 KG",
-        "preco": 55.432,
-        "categoria": "SAL MINERAL",
-        "img": "img/1611.jpg"
-    },
-    {
-        "id": "1612",
-        "nome": "LONA CARRETEIRO 03X03",
-        "preco": 63.2275,
-        "categoria": "ACESSORIOS",
-        "img": "img/1612.jpg"
-    },
-    {
-        "id": "1615",
-        "nome": "RATICIDA RACUMIN SOFT BAIT 200 G",
-        "preco": 26.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1615.jpg"
     },
     {
         "id": "1618",
@@ -4086,13 +3225,6 @@
         "preco": 23.0,
         "categoria": "MEDICAMENTO",
         "img": "img/1628.jpg"
-    },
-    {
-        "id": "1629",
-        "nome": "ESPANTA POMBO E MORCEGO 200G KELLDRIN",
-        "preco": 35.25,
-        "categoria": "DOMISSANITARIO",
-        "img": "img/1629.jpg"
     },
     {
         "id": "163",
@@ -4193,13 +3325,6 @@
         "img": "img/1650.jpg"
     },
     {
-        "id": "1652",
-        "nome": "DORAFORT FR 50 ML",
-        "preco": 27.5,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1652.jpg"
-    },
-    {
         "id": "1653",
         "nome": "FOSFOSAL FR 500ML",
         "preco": 242.622,
@@ -4242,13 +3367,6 @@
         "img": "img/1663.jpg"
     },
     {
-        "id": "1664",
-        "nome": "DORAX 1% INJETAVEL 500ML",
-        "preco": 161.105,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1664.jpg"
-    },
-    {
         "id": "1667",
         "nome": "CARRO DE MAO ESFERA EXTRAFOR 45L",
         "preco": 315.000000002,
@@ -4275,13 +3393,6 @@
         "preco": 68.0,
         "categoria": "ACESSORIOS",
         "img": "img/167.jpg"
-    },
-    {
-        "id": "1670",
-        "nome": "GANASEG 7% 30 ML",
-        "preco": 55.512,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1670.jpg"
     },
     {
         "id": "1671",
@@ -4326,34 +3437,6 @@
         "img": "img/1677.jpg"
     },
     {
-        "id": "1678",
-        "nome": "DICLOFENACO 50 50 ML OURO FINO",
-        "preco": 29.2604,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1678.jpg"
-    },
-    {
-        "id": "1679",
-        "nome": "COLOSSO FC30 250ML",
-        "preco": 95.0049,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1679.jpg"
-    },
-    {
-        "id": "168",
-        "nome": "VASILHAME P/LEITE 30 LT",
-        "preco": 185.000000001,
-        "categoria": "ACESSORIOS",
-        "img": "img/168.jpg"
-    },
-    {
-        "id": "1680",
-        "nome": "COLOSSO FC30 25ML",
-        "preco": 14.6676,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1680.jpg"
-    },
-    {
         "id": "1681",
         "nome": "COLOSSO POUR ON 2000 ML",
         "preco": 118.8769,
@@ -4368,27 +3451,6 @@
         "img": "img/1682.jpg"
     },
     {
-        "id": "1683",
-        "nome": "MERCEPTON ANTITOXICO INJ 20ML",
-        "preco": 17.442,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1683.jpg"
-    },
-    {
-        "id": "1684",
-        "nome": "MAX BEEF CONFINAMENTO 14 40KG",
-        "preco": 112.0,
-        "categoria": "RACAO DE RUMINANTES",
-        "img": "img/1684.jpg"
-    },
-    {
-        "id": "1685",
-        "nome": "ORIGENS CLASS ADULTO CARNE/FRANGO 20KG",
-        "preco": 175.3,
-        "categoria": "RACAO DE CACHORRO",
-        "img": "img/1685.jpg"
-    },
-    {
         "id": "1687",
         "nome": "MOGIFLOX ENRO INJ 10% 500ML",
         "preco": 63.8153,
@@ -4401,13 +3463,6 @@
         "preco": 22.466,
         "categoria": "MEDICAMENTO",
         "img": "img/1688.jpg"
-    },
-    {
-        "id": "1689",
-        "nome": "CASCOFORTE CHAMPION 500G",
-        "preco": 42.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1689.jpg"
     },
     {
         "id": "169",
@@ -4429,13 +3484,6 @@
         "preco": 304.4699,
         "categoria": "MEDICAMENTO",
         "img": "img/1691.jpg"
-    },
-    {
-        "id": "1692",
-        "nome": "VIT B12 20ML LABOVET",
-        "preco": 24.7522,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1692.jpg"
     },
     {
         "id": "1693",
@@ -4473,13 +3521,6 @@
         "img": "img/170.jpg"
     },
     {
-        "id": "1702",
-        "nome": "ANCINHO CURVO LEVE S/CABO",
-        "preco": 22.0,
-        "categoria": "FERRAMENTA",
-        "img": "img/1702.jpg"
-    },
-    {
         "id": "1703",
         "nome": "NUTRIFER 20% INJ 50 ML",
         "preco": 28.971,
@@ -4501,13 +3542,6 @@
         "img": "img/1706.jpg"
     },
     {
-        "id": "1707",
-        "nome": "ORIGENS CAO MINI/PEQ 10,1KG",
-        "preco": 104.717600001,
-        "categoria": "RACAO DE CACHORRO",
-        "img": "img/1707.jpg"
-    },
-    {
         "id": "1708",
         "nome": "AMINOSAL CROMO 5KG",
         "preco": 77.3673,
@@ -4527,13 +3561,6 @@
         "preco": 37.0,
         "categoria": "ACESSORIOS",
         "img": "img/171.jpg"
-    },
-    {
-        "id": "1710",
-        "nome": "FLUCORTAN 10 ML",
-        "preco": 17.28,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1710.jpg"
     },
     {
         "id": "1711",
@@ -4562,13 +3589,6 @@
         "preco": 45.0,
         "categoria": "FERRAMENTA",
         "img": "img/1714.jpg"
-    },
-    {
-        "id": "1716",
-        "nome": "FERDEX B12 50ML",
-        "preco": 23.5415,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1716.jpg"
     },
     {
         "id": "1717",
@@ -4613,13 +3633,6 @@
         "img": "img/1721.jpg"
     },
     {
-        "id": "1722",
-        "nome": "BOVGUARD 1L",
-        "preco": 132.219,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1722.jpg"
-    },
-    {
         "id": "1723",
         "nome": "SAL NC OVINO M (40K/T) 20 KG",
         "preco": 152.0,
@@ -4641,32 +3654,11 @@
         "img": "img/1725.jpg"
     },
     {
-        "id": "1726",
-        "nome": "CHEMITRIL 10% 50 ML INJETAVEL",
-        "preco": 29.38,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1726.jpg"
-    },
-    {
-        "id": "1727",
-        "nome": "BOTA BRANCA MEDIA 43",
-        "preco": 56.0,
-        "categoria": "CALCADOS",
-        "img": "img/1727.jpg"
-    },
-    {
         "id": "1728",
         "nome": "FACAO TERCADO TRAM",
         "preco": 69.000000001,
         "categoria": "FERRAMENTA",
         "img": "img/1728.jpg"
-    },
-    {
-        "id": "1729",
-        "nome": "OLEO MINERAL FERTILIZA BIOCHEMICAL FR 1L",
-        "preco": 25.1721,
-        "categoria": "AGRICULTURA",
-        "img": "img/1729.jpg"
     },
     {
         "id": "173",
@@ -4751,13 +3743,6 @@
         "preco": 89.856,
         "categoria": "MEDICAMENTO",
         "img": "img/1742.jpg"
-    },
-    {
-        "id": "1743",
-        "nome": "FERROJECT B12 50 ML",
-        "preco": 12.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1743.jpg"
     },
     {
         "id": "1744",
@@ -4900,13 +3885,6 @@
         "img": "img/1774.jpg"
     },
     {
-        "id": "1775",
-        "nome": "ORIGENS ADULTO SHIHTZU/LHASA 10,1KG",
-        "preco": 108.9758,
-        "categoria": "RACAO DE CACHORRO",
-        "img": "img/1775.jpg"
-    },
-    {
         "id": "1776",
         "nome": "MAGNUS TODO DIA PEQ PORTE CN/FG 15KG",
         "preco": 114.078317405,
@@ -4919,13 +3897,6 @@
         "preco": 148.1356,
         "categoria": "RACAO DE CACHORRO",
         "img": "img/1777.jpg"
-    },
-    {
-        "id": "1778",
-        "nome": "MAGNUS TODO DIA CARNE 20KG",
-        "preco": 149.0,
-        "categoria": "RACAO DE CACHORRO",
-        "img": "img/1778.jpg"
     },
     {
         "id": "1780",
@@ -4942,13 +3913,6 @@
         "img": "img/1781.jpg"
     },
     {
-        "id": "1782",
-        "nome": "CONDROTON PLUS 500G",
-        "preco": 530.091000001,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1782.jpg"
-    },
-    {
         "id": "1783",
         "nome": "GLICOPAN GOLD 30ML",
         "preco": 45.47,
@@ -4956,32 +3920,11 @@
         "img": "img/1783.jpg"
     },
     {
-        "id": "1784",
-        "nome": "KLERAT MULTI INSET AERO 300ML BRA",
-        "preco": 28.2825,
-        "categoria": "DOMISSANITARIO",
-        "img": "img/1784.jpg"
-    },
-    {
         "id": "1785",
         "nome": "KLERAT MULT INSETICIDA SPRAY 500ML",
         "preco": 32.7038,
         "categoria": "DOMISSANITARIO",
         "img": "img/1785.jpg"
-    },
-    {
-        "id": "1786",
-        "nome": "KLERAT MATA MOSCAS 25G",
-        "preco": 5.0,
-        "categoria": "DOMISSANITARIO",
-        "img": "img/1786.jpg"
-    },
-    {
-        "id": "1788",
-        "nome": "POLICALCINA FORTE 500 ML",
-        "preco": 50.382,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1788.jpg"
     },
     {
         "id": "1789",
@@ -4996,20 +3939,6 @@
         "preco": 87.075,
         "categoria": "MEDICAMENTO",
         "img": "img/1790.jpg"
-    },
-    {
-        "id": "1791",
-        "nome": "FARMASEPT PLUS 1LT",
-        "preco": 69.4602,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1791.jpg"
-    },
-    {
-        "id": "1792",
-        "nome": "IVONOX 1000ML",
-        "preco": 154.197,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1792.jpg"
     },
     {
         "id": "1793",
@@ -5031,20 +3960,6 @@
         "preco": 10.4272,
         "categoria": "PRODUTOS PET",
         "img": "img/1795.jpg"
-    },
-    {
-        "id": "1796",
-        "nome": "VERMICANIS 400MG C/4 COMP",
-        "preco": 10.337,
-        "categoria": "PRODUTOS PET",
-        "img": "img/1796.jpg"
-    },
-    {
-        "id": "1797",
-        "nome": "VERMICANIS 800MG C/4 COMP",
-        "preco": 14.5763,
-        "categoria": "PRODUTOS PET",
-        "img": "img/1797.jpg"
     },
     {
         "id": "1799",
@@ -5075,13 +3990,6 @@
         "img": "img/1801.jpg"
     },
     {
-        "id": "1802",
-        "nome": "DESFLAN 50ML",
-        "preco": 54.1968,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1802.jpg"
-    },
-    {
         "id": "1803",
         "nome": "MUSCLE HORSE TURBO 15KG BOX POUCH",
         "preco": 2106.000000002,
@@ -5101,27 +4009,6 @@
         "preco": 87.11185978,
         "categoria": "MEDICAMENTO",
         "img": "img/1817.jpg"
-    },
-    {
-        "id": "1820",
-        "nome": "VETIPEN PPU PLUS L.A 50ML JA",
-        "preco": 36.8955,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1820.jpg"
-    },
-    {
-        "id": "1821",
-        "nome": "ANESTESICO L 50ML PEARSON",
-        "preco": 13.7048,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1821.jpg"
-    },
-    {
-        "id": "1822",
-        "nome": "BARATIC GEL 10G BARATOL",
-        "preco": 11.6064,
-        "categoria": "DOMISSANITARIO",
-        "img": "img/1822.jpg"
     },
     {
         "id": "1823",
@@ -5152,13 +4039,6 @@
         "img": "img/1826.jpg"
     },
     {
-        "id": "1828",
-        "nome": "COLDOG CHIPS 25KG",
-        "preco": 159.352300001,
-        "categoria": "RACAO DE CACHORRO",
-        "img": "img/1828.jpg"
-    },
-    {
         "id": "183",
         "nome": "ESTROVENGA LEVE S/CABO",
         "preco": 32.0,
@@ -5171,13 +4051,6 @@
         "preco": 134.4759,
         "categoria": "RACAO DE GATO",
         "img": "img/1832.jpg"
-    },
-    {
-        "id": "1834",
-        "nome": "COLDOG CHIPS 15KG",
-        "preco": 102.6898,
-        "categoria": "RACAO DE CACHORRO",
-        "img": "img/1834.jpg"
     },
     {
         "id": "1835",
@@ -5208,25 +4081,11 @@
         "img": "img/1838.jpg"
     },
     {
-        "id": "1839",
-        "nome": "TRUCID INJ 1% 500 ML",
-        "preco": 228.281000001,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1839.jpg"
-    },
-    {
         "id": "184",
         "nome": "ENXADAO LARGO 2,0 LBS 77270/204 TRAMONT",
         "preco": 52.0,
         "categoria": "FERRAMENTA",
         "img": "img/184.jpg"
-    },
-    {
-        "id": "1840",
-        "nome": "AMINOFORT 250 ML",
-        "preco": 98.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1840.jpg"
     },
     {
         "id": "1841",
@@ -5243,32 +4102,11 @@
         "img": "img/1842.jpg"
     },
     {
-        "id": "1844",
-        "nome": "ISOLADOR ROLDANA 30X30 C/ PREGO PT C/100",
-        "preco": 0.4232,
-        "categoria": "ACESSORIOS",
-        "img": "img/1844.jpg"
-    },
-    {
-        "id": "1846",
-        "nome": "CHUMBADOR COM ARGOLA",
-        "preco": 22.5,
-        "categoria": "ACESSORIOS",
-        "img": "img/1846.jpg"
-    },
-    {
         "id": "185",
         "nome": "CABO DE ENXADA 1,50 MTS",
         "preco": 20.0,
         "categoria": "FERRAMENTA",
         "img": "img/185.jpg"
-    },
-    {
-        "id": "1857",
-        "nome": "COMEDOURO ALUM PES LUXO GG POLIDO",
-        "preco": 36.9544,
-        "categoria": "PRODUTOS PET",
-        "img": "img/1857.jpg"
     },
     {
         "id": "1858",
@@ -5292,13 +4130,6 @@
         "img": "img/186.jpg"
     },
     {
-        "id": "1860",
-        "nome": "CASINHA DURAHOUSE N1 - VERMELHA",
-        "preco": 46.186,
-        "categoria": "PRODUTOS PET",
-        "img": "img/1860.jpg"
-    },
-    {
         "id": "1861",
         "nome": "CASINHA DURAHOUSE N2 - AZUL",
         "preco": 67.9,
@@ -5311,20 +4142,6 @@
         "preco": 67.9,
         "categoria": "PRODUTOS PET",
         "img": "img/1862.jpg"
-    },
-    {
-        "id": "1864",
-        "nome": "COLAR ELIZABETANO BRANCO N1",
-        "preco": 15.0,
-        "categoria": "PRODUTOS PET",
-        "img": "img/1864.jpg"
-    },
-    {
-        "id": "1865",
-        "nome": "VACINA LEXINGTON GOLD 3ML",
-        "preco": 94.9696,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1865.jpg"
     },
     {
         "id": "1866",
@@ -5411,27 +4228,6 @@
         "img": "img/1876.jpg"
     },
     {
-        "id": "1877",
-        "nome": "HEMOPET GOLD 60ML VETBRAS PET",
-        "preco": 25.9851,
-        "categoria": "PRODUTOS PET",
-        "img": "img/1877.jpg"
-    },
-    {
-        "id": "188",
-        "nome": "TORQUES 14' UN",
-        "preco": 136.5,
-        "categoria": "FERRAMENTA",
-        "img": "img/188.jpg"
-    },
-    {
-        "id": "1880",
-        "nome": "OLEO MINERAL AGEFIX E8 01 LT",
-        "preco": 25.76,
-        "categoria": "AGRICULTURA",
-        "img": "img/1880.jpg"
-    },
-    {
         "id": "1881",
         "nome": "GASTOXIN ENV C/3 CPS LT 0.9 GR",
         "preco": 9.9177,
@@ -5444,20 +4240,6 @@
         "preco": 10.92,
         "categoria": "PRODUTOS PET",
         "img": "img/1882.jpg"
-    },
-    {
-        "id": "1883",
-        "nome": "CASCOSAN 1L",
-        "preco": 90.1699,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1883.jpg"
-    },
-    {
-        "id": "1884",
-        "nome": "MELOXIWORLD 0,5MG 10 COMP",
-        "preco": 10.584,
-        "categoria": "PRODUTOS PET",
-        "img": "img/1884.jpg"
     },
     {
         "id": "1885",
@@ -5488,13 +4270,6 @@
         "img": "img/189.jpg"
     },
     {
-        "id": "1890",
-        "nome": "RIPERCOL-L INJ 100ML",
-        "preco": 34.9928,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1890.jpg"
-    },
-    {
         "id": "1891",
         "nome": "MAGNUS TODO DIA PEQ PORTE CN/FG 10,1KG",
         "preco": 80.1784,
@@ -5507,20 +4282,6 @@
         "preco": 22.5382,
         "categoria": "MEDICAMENTO",
         "img": "img/1892.jpg"
-    },
-    {
-        "id": "1893",
-        "nome": "K-OTHRINE 25CE 250ML",
-        "preco": 68.625,
-        "categoria": "DOMISSANITARIO",
-        "img": "img/1893.jpg"
-    },
-    {
-        "id": "1899",
-        "nome": "NEXGARD 2-4 KG (P) CP",
-        "preco": 78.736,
-        "categoria": "PRODUTOS PET",
-        "img": "img/1899.jpg"
     },
     {
         "id": "19",
@@ -5551,13 +4312,6 @@
         "img": "img/1901.jpg"
     },
     {
-        "id": "1902",
-        "nome": "NEXGARD 25,1-50 KG (GG) CP",
-        "preco": 117.0856,
-        "categoria": "PRODUTOS PET",
-        "img": "img/1902.jpg"
-    },
-    {
         "id": "1903",
         "nome": "ZUPPY FILHOTE MEDIO E GRANDE PORTE 10.1KG",
         "preco": 117.999999999,
@@ -5579,60 +4333,11 @@
         "img": "img/1905.jpg"
     },
     {
-        "id": "1906",
-        "nome": "ZUPPY ADULTO SELECTION 10.1KG",
-        "preco": 118.9869,
-        "categoria": "RACAO DE CACHORRO",
-        "img": "img/1906.jpg"
-    },
-    {
-        "id": "1908",
-        "nome": "BIO AVES 50G",
-        "preco": 5.6025,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1908.jpg"
-    },
-    {
-        "id": "1909",
-        "nome": "AGEMOXI LA INJ 50 ML - AGENER",
-        "preco": 44.1855,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1909.jpg"
-    },
-    {
         "id": "191",
         "nome": "BOTA SEGURANCA N42",
         "preco": 119.0,
         "categoria": "CALCADOS",
         "img": "img/191.jpg"
-    },
-    {
-        "id": "1910",
-        "nome": "CALFORT FR 200 ML",
-        "preco": 10.894,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1910.jpg"
-    },
-    {
-        "id": "1911",
-        "nome": "FERTILIZANTE NPK 15.15.18 SC 25 KG",
-        "preco": 119.0,
-        "categoria": "ADUBOS",
-        "img": "img/1911.jpg"
-    },
-    {
-        "id": "1912",
-        "nome": "FERTILIZANTE NPK 10.10.10 SC 25 KG",
-        "preco": 103.0,
-        "categoria": "ADUBOS",
-        "img": "img/1912.jpg"
-    },
-    {
-        "id": "1913",
-        "nome": "FERTILIZANTE UREIA AGRICOLA SC 25KG",
-        "preco": 139.0,
-        "categoria": "ADUBOS",
-        "img": "img/1913.jpg"
     },
     {
         "id": "1914",
@@ -5677,27 +4382,6 @@
         "img": "img/192.jpg"
     },
     {
-        "id": "1920",
-        "nome": "FORCADO 10 DENTES S/CB",
-        "preco": 97.4555,
-        "categoria": "FERRAMENTA",
-        "img": "img/1920.jpg"
-    },
-    {
-        "id": "1921",
-        "nome": "CAVADEIRA RETA MAIOR C/CB",
-        "preco": 38.9153,
-        "categoria": "FERRAMENTA",
-        "img": "img/1921.jpg"
-    },
-    {
-        "id": "1922",
-        "nome": "FOICE RONCA FECHADA S/CB",
-        "preco": 40.9507,
-        "categoria": "FERRAMENTA",
-        "img": "img/1922.jpg"
-    },
-    {
         "id": "1923",
         "nome": "LIXADEIRA PLASTICA COM CARTELA E LIXA - VERMELHA",
         "preco": 24.346,
@@ -5726,13 +4410,6 @@
         "img": "img/1926.jpg"
     },
     {
-        "id": "1928",
-        "nome": "PERRUS ADULTO CORDEIRO 15KG",
-        "preco": 118.513700001,
-        "categoria": "RACAO DE CACHORRO",
-        "img": "img/1928.jpg"
-    },
-    {
         "id": "193",
         "nome": "MANGUEIRA JARD TRANCADA 10M",
         "preco": 38.0,
@@ -5745,13 +4422,6 @@
         "preco": 328.400199999,
         "categoria": "FERRAMENTA",
         "img": "img/1930.jpg"
-    },
-    {
-        "id": "1931",
-        "nome": "FIO CORTA GRAMA 2,40MM BLISTER 250G MILLA",
-        "preco": 35.0,
-        "categoria": "FERRAMENTA",
-        "img": "img/1931.jpg"
     },
     {
         "id": "1932",
@@ -5782,13 +4452,6 @@
         "img": "img/1946.jpg"
     },
     {
-        "id": "1947",
-        "nome": "AVES ALPISTE 10KG",
-        "preco": 137.2995,
-        "categoria": "RACAO DE PASSAROS",
-        "img": "img/1947.jpg"
-    },
-    {
         "id": "195",
         "nome": "BOTA BICO FINO VAQUEIJADA PRETA N39",
         "preco": 89.900000001,
@@ -5796,25 +4459,11 @@
         "img": "img/195.jpg"
     },
     {
-        "id": "1952",
-        "nome": "NUTRIFOS POWER GOLD 10 KG",
-        "preco": 67.396,
-        "categoria": "SAL MINERAL",
-        "img": "img/1952.jpg"
-    },
-    {
         "id": "196",
         "nome": "BOTA BICO FINO VAQUEIJADA PRETA N40",
         "preco": 89.900000001,
         "categoria": "CALCADOS",
         "img": "img/196.jpg"
-    },
-    {
-        "id": "1961",
-        "nome": "NUTRIFORTE FARINHA DE CALCIO 1KG",
-        "preco": 9.212,
-        "categoria": "SAL MINERAL",
-        "img": "img/1961.jpg"
     },
     {
         "id": "1964",
@@ -5845,13 +4494,6 @@
         "img": "img/197.jpg"
     },
     {
-        "id": "1970",
-        "nome": "THUYA AVICOLA 50ML SIMOES",
-        "preco": 10.3306,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1970.jpg"
-    },
-    {
         "id": "1971",
         "nome": "MODIFICADOR ORGANICO 250ML ORGANOVIT",
         "preco": 24.344235666,
@@ -5873,25 +4515,11 @@
         "img": "img/1975.jpg"
     },
     {
-        "id": "198",
-        "nome": "CAPA DE CHUVA PVC GG",
-        "preco": 29.0,
-        "categoria": "ACESSORIOS",
-        "img": "img/198.jpg"
-    },
-    {
         "id": "199",
         "nome": "BALDE 12 LT CONSTR ALCA PLAST",
         "preco": 15.0,
         "categoria": "ACESSORIOS",
         "img": "img/199.jpg"
-    },
-    {
-        "id": "1990",
-        "nome": "SARCOLIN POUR-ON 1 L",
-        "preco": 26.8685,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1990.jpg"
     },
     {
         "id": "1991",
@@ -5943,13 +4571,6 @@
         "img": "img/1998.jpg"
     },
     {
-        "id": "2",
-        "nome": "SAL PROBEEF PROTEIPEC 30% PB 30KG",
-        "preco": 144.72,
-        "categoria": "SAL MINERAL",
-        "img": "img/2.jpg"
-    },
-    {
         "id": "20",
         "nome": "CARRO PLATAFORMA",
         "preco": 2869.674787,
@@ -5978,88 +4599,11 @@
         "img": "img/2002.jpg"
     },
     {
-        "id": "2003",
-        "nome": "FINOX PREMIUM X 1 LT",
-        "preco": 161.998899999,
-        "categoria": "MEDICAMENTO",
-        "img": "img/2003.jpg"
-    },
-    {
-        "id": "2004",
-        "nome": "COLAR ELIZABETANO BRANCO N2",
-        "preco": 22.5,
-        "categoria": "PRODUTOS PET",
-        "img": "img/2004.jpg"
-    },
-    {
-        "id": "2005",
-        "nome": "COLAR ELIZABETANO BRANCO N3",
-        "preco": 25.5,
-        "categoria": "PRODUTOS PET",
-        "img": "img/2005.jpg"
-    },
-    {
-        "id": "2006",
-        "nome": "COLAR ELIZABETANO BRANCO N4",
-        "preco": 33.0,
-        "categoria": "PRODUTOS PET",
-        "img": "img/2006.jpg"
-    },
-    {
-        "id": "2007",
-        "nome": "COLAR ELIZABETANO BRANCO N5",
-        "preco": 36.0,
-        "categoria": "PRODUTOS PET",
-        "img": "img/2007.jpg"
-    },
-    {
-        "id": "2008",
-        "nome": "COLAR ELIZABETANO BRANCO N6",
-        "preco": 42.0,
-        "categoria": "PRODUTOS PET",
-        "img": "img/2008.jpg"
-    },
-    {
         "id": "2009",
         "nome": "COLAR ELIZABETANO BRANCO N7",
         "preco": 49.5,
         "categoria": "PRODUTOS PET",
         "img": "img/2009.jpg"
-    },
-    {
-        "id": "2010",
-        "nome": "COLAR ELIZABETANO BRANCO N8",
-        "preco": 51.0,
-        "categoria": "PRODUTOS PET",
-        "img": "img/2010.jpg"
-    },
-    {
-        "id": "2011",
-        "nome": "COLAR ELIZABETANO BRANCO N9",
-        "preco": 52.5,
-        "categoria": "PRODUTOS PET",
-        "img": "img/2011.jpg"
-    },
-    {
-        "id": "2012",
-        "nome": "COLAR ELIZABETANO BRANCO N10",
-        "preco": 55.5,
-        "categoria": "PRODUTOS PET",
-        "img": "img/2012.jpg"
-    },
-    {
-        "id": "2015",
-        "nome": "MARRETA C/CABO 5,000 KG JS 334 UN",
-        "preco": 231.433999999,
-        "categoria": "FERRAMENTA",
-        "img": "img/2015.jpg"
-    },
-    {
-        "id": "2016",
-        "nome": "ANTIDIARREICO 10G DIARRETRON",
-        "preco": 2.5296,
-        "categoria": "MEDICAMENTO",
-        "img": "img/2016.jpg"
     },
     {
         "id": "2017",
@@ -6069,46 +4613,11 @@
         "img": "img/2017.jpg"
     },
     {
-        "id": "2019",
-        "nome": "CIOVET CX COM 2 AMPOLAS 2 ML",
-        "preco": 24.759,
-        "categoria": "MEDICAMENTO",
-        "img": "img/2019.jpg"
-    },
-    {
         "id": "2020",
         "nome": "PULVERIZADOR MANUAL - LARANJA 750ML GUARANY",
         "preco": 12.0,
         "categoria": "ACESSORIOS",
         "img": "img/2020.jpg"
-    },
-    {
-        "id": "2025",
-        "nome": "TOPTAG 180 C20 ZOETIS",
-        "preco": 7.0875,
-        "categoria": "MEDICAMENTO",
-        "img": "img/2025.jpg"
-    },
-    {
-        "id": "2026",
-        "nome": "PROVENCE DOG ADULTO RACAS PEQUENAS 15 KG",
-        "preco": 154.879500001,
-        "categoria": "RACAO DE CACHORRO",
-        "img": "img/2026.jpg"
-    },
-    {
-        "id": "2027",
-        "nome": "EVOLUT DOG FILHOTE 25 KG",
-        "preco": 190.466599999,
-        "categoria": "RACAO DE CACHORRO",
-        "img": "img/2027.jpg"
-    },
-    {
-        "id": "2029",
-        "nome": "COURO LIMPO PRATA V18 200 ML",
-        "preco": 22.2045,
-        "categoria": "MEDICAMENTO",
-        "img": "img/2029.jpg"
     },
     {
         "id": "2032",
@@ -6130,13 +4639,6 @@
         "preco": 3.5,
         "categoria": "PRODUTOS PET",
         "img": "img/2036.jpg"
-    },
-    {
-        "id": "2037",
-        "nome": "PEDIGREE DENTASTIX R PEQ. 3 STICKS 45G",
-        "preco": 12.24,
-        "categoria": "PRODUTOS PET",
-        "img": "img/2037.jpg"
     },
     {
         "id": "2045",
@@ -6214,13 +4716,6 @@
         "preco": 160.0,
         "categoria": "CALCADOS",
         "img": "img/2055.jpg"
-    },
-    {
-        "id": "2056",
-        "nome": "BOTA URBANA CASTOR N44 020",
-        "preco": 160.0,
-        "categoria": "CALCADOS",
-        "img": "img/2056.jpg"
     },
     {
         "id": "2057",
@@ -6314,13 +4809,6 @@
         "img": "img/2069.jpg"
     },
     {
-        "id": "2070",
-        "nome": "BOTA URBANA FEMININA CASTANHO N37 804",
-        "preco": 199.000000001,
-        "categoria": "CALCADOS",
-        "img": "img/2070.jpg"
-    },
-    {
         "id": "2071",
         "nome": "BOTA BICO FINO VAQUEIJADA PRETA N38",
         "preco": 89.900000001,
@@ -6391,13 +4879,6 @@
         "img": "img/2093.jpg"
     },
     {
-        "id": "2094",
-        "nome": "MOCOTO DOG ADULTO 25 KG",
-        "preco": 123.258239315,
-        "categoria": "RACAO DE CACHORRO",
-        "img": "img/2094.jpg"
-    },
-    {
         "id": "2095",
         "nome": "EQUIMIX POTROS 40 KG INTEGRAL",
         "preco": 132.0,
@@ -6419,13 +4900,6 @@
         "img": "img/2097.jpg"
     },
     {
-        "id": "2098",
-        "nome": "FORTBIOTICO PLUS SUP. 4 G+15 ML",
-        "preco": 16.7616,
-        "categoria": "MEDICAMENTO",
-        "img": "img/2098.jpg"
-    },
-    {
         "id": "2099",
         "nome": "FLUNIXINA INJET. UCB 50ML",
         "preco": 54.91369,
@@ -6438,13 +4912,6 @@
         "preco": 506.25,
         "categoria": "CARRO DE MAO",
         "img": "img/21.jpg"
-    },
-    {
-        "id": "2100",
-        "nome": "MASTIGEN V.L 10G",
-        "preco": 19.9653,
-        "categoria": "MEDICAMENTO",
-        "img": "img/2100.jpg"
     },
     {
         "id": "2101",
@@ -6480,13 +4947,6 @@
         "preco": 137.9989,
         "categoria": "RACAO DE GATO",
         "img": "img/2105.jpg"
-    },
-    {
-        "id": "2106",
-        "nome": "ZUPPY CAT CASTRADO FRANGO 10,1KG",
-        "preco": 137.335199999,
-        "categoria": "RACAO DE GATO",
-        "img": "img/2106.jpg"
     },
     {
         "id": "2109",
@@ -6608,13 +5068,6 @@
         "img": "img/214.jpg"
     },
     {
-        "id": "2140",
-        "nome": "SAL OVINO OVIFOS - 65 10KG INTEGRAL",
-        "preco": 68.0,
-        "categoria": "SAL MINERAL",
-        "img": "img/2140.jpg"
-    },
-    {
         "id": "2141",
         "nome": "SAL EQUINO EQUIFOS - 10 KG INTEGRAL",
         "preco": 67.0,
@@ -6692,13 +5145,6 @@
         "img": "img/2154.jpg"
     },
     {
-        "id": "2155",
-        "nome": "DORAEQUI PLUS 35G",
-        "preco": 85.6054,
-        "categoria": "MEDICAMENTO",
-        "img": "img/2155.jpg"
-    },
-    {
         "id": "2156",
         "nome": "CEDAN CAT MIX S/CORANTE 25KG",
         "preco": 167.0227,
@@ -6734,13 +5180,6 @@
         "img": "img/2164.jpg"
     },
     {
-        "id": "2165",
-        "nome": "ALICATE CORTE DIAGONAL 6 TRAMONTINA",
-        "preco": 29.7546,
-        "categoria": "FERRAMENTA",
-        "img": "img/2165.jpg"
-    },
-    {
         "id": "2166",
         "nome": "ALICATE UNIVERSAL 8 ISO TRAMONTINA",
         "preco": 35.2125,
@@ -6760,13 +5199,6 @@
         "preco": 18.0,
         "categoria": "FERRAMENTA",
         "img": "img/2168.jpg"
-    },
-    {
-        "id": "217",
-        "nome": "ADE INJ 50ML CALBOS",
-        "preco": 16.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/217.jpg"
     },
     {
         "id": "2170",
@@ -6797,20 +5229,6 @@
         "img": "img/2174.jpg"
     },
     {
-        "id": "218",
-        "nome": "ANTIDIARREICO 10G STOP CALBOS",
-        "preco": 3.5,
-        "categoria": "MEDICAMENTO",
-        "img": "img/218.jpg"
-    },
-    {
-        "id": "2180",
-        "nome": "ALTEC PASTA P/ EQUINOS 6 G",
-        "preco": 16.8548,
-        "categoria": "MEDICAMENTO",
-        "img": "img/2180.jpg"
-    },
-    {
         "id": "2181",
         "nome": "ANALGEX V DIPIRONA INJ 50ML",
         "preco": 17.5,
@@ -6823,13 +5241,6 @@
         "preco": 32.2993,
         "categoria": "MEDICAMENTO",
         "img": "img/2182.jpg"
-    },
-    {
-        "id": "2183",
-        "nome": "PROLIFE EQUI 35 G",
-        "preco": 19.0418,
-        "categoria": "MEDICAMENTO",
-        "img": "img/2183.jpg"
     },
     {
         "id": "2184",
@@ -6874,13 +5285,6 @@
         "img": "img/2189.jpg"
     },
     {
-        "id": "219",
-        "nome": "ANTIMASTIT MASTICAL CALBOS 10ML",
-        "preco": 6.5,
-        "categoria": "MEDICAMENTO",
-        "img": "img/219.jpg"
-    },
-    {
         "id": "2190",
         "nome": "DIAZIL 15 ML",
         "preco": 11.3958,
@@ -6907,13 +5311,6 @@
         "preco": 26.3439,
         "categoria": "MEDICAMENTO",
         "img": "img/2193.jpg"
-    },
-    {
-        "id": "2194",
-        "nome": "GEL BARATA KOMBATE BISNAGA 10 G",
-        "preco": 10.5,
-        "categoria": "DOMISSANITARIO",
-        "img": "img/2194.jpg"
     },
     {
         "id": "2195",
@@ -6956,13 +5353,6 @@
         "preco": 15.0,
         "categoria": "MEDICAMENTO",
         "img": "img/220.jpg"
-    },
-    {
-        "id": "2200",
-        "nome": "FOSBOVI CONFINAMENTO 25KG",
-        "preco": 140.925,
-        "categoria": "SAL MINERAL",
-        "img": "img/2200.jpg"
     },
     {
         "id": "2201",
@@ -7021,13 +5411,6 @@
         "img": "img/2222.jpg"
     },
     {
-        "id": "2223",
-        "nome": "BALDE P/LEITE ALUM 750ML R.331 BALDUINO",
-        "preco": 20.7,
-        "categoria": "ACESSORIOS",
-        "img": "img/2223.jpg"
-    },
-    {
         "id": "2226",
         "nome": "REGADOR 10L",
         "preco": 35.0,
@@ -7077,53 +5460,11 @@
         "img": "img/2234.jpg"
     },
     {
-        "id": "2235",
-        "nome": "TETRALONG 50ML",
-        "preco": 15.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/2235.jpg"
-    },
-    {
-        "id": "2236",
-        "nome": "SPOT PLUS 20 A 40 KG",
-        "preco": 24.0,
-        "categoria": "PRODUTOS PET",
-        "img": "img/2236.jpg"
-    },
-    {
-        "id": "2237",
-        "nome": "SPOT PLUS 0 A 10 KG",
-        "preco": 18.0,
-        "categoria": "PRODUTOS PET",
-        "img": "img/2237.jpg"
-    },
-    {
-        "id": "2238",
-        "nome": "SPOT PLUS 40 KG A CIMA",
-        "preco": 27.0,
-        "categoria": "PRODUTOS PET",
-        "img": "img/2238.jpg"
-    },
-    {
-        "id": "2239",
-        "nome": "SPOT PLUS 10 A 20 KG",
-        "preco": 21.0,
-        "categoria": "PRODUTOS PET",
-        "img": "img/2239.jpg"
-    },
-    {
         "id": "224",
         "nome": "IVERMIN 500ML 1,0%",
         "preco": 56.0,
         "categoria": "MEDICAMENTO",
         "img": "img/224.jpg"
-    },
-    {
-        "id": "2240",
-        "nome": "CANTOLINDO VITAMINICO 15ML",
-        "preco": 9.3555,
-        "categoria": "MEDICAMENTO",
-        "img": "img/2240.jpg"
     },
     {
         "id": "2241",
@@ -7175,39 +5516,11 @@
         "img": "img/2251.jpg"
     },
     {
-        "id": "2254",
-        "nome": "FACAO MATO CB TERCADO 21 DUCAMPO/ GAVILAN",
-        "preco": 78.1294,
-        "categoria": "ACESSORIOS",
-        "img": "img/2254.jpg"
-    },
-    {
-        "id": "2255",
-        "nome": "FACAO MATO CB 22",
-        "preco": 56.3122,
-        "categoria": "ACESSORIOS",
-        "img": "img/2255.jpg"
-    },
-    {
         "id": "2257",
         "nome": "AVES CALOPSITA E AGAPORNIS PREMIUM 10KG",
         "preco": 101.984552975,
         "categoria": "RACAO DE AVES",
         "img": "img/2257.jpg"
-    },
-    {
-        "id": "2258",
-        "nome": "ANCINHO REFORCADO CURVO 14 DENTES COM CABO 1,2M MAX",
-        "preco": 25.06,
-        "categoria": "ACESSORIOS",
-        "img": "img/2258.jpg"
-    },
-    {
-        "id": "2259",
-        "nome": "LAMINA DE ACO PARA ROCADEIRA 3 PONTAS 255 MM FURO 1 P",
-        "preco": 38.0,
-        "categoria": "ACESSORIOS",
-        "img": "img/2259.jpg"
     },
     {
         "id": "226",
@@ -7273,13 +5586,6 @@
         "img": "img/2271.jpg"
     },
     {
-        "id": "2272",
-        "nome": "VITAMINA K 20ML LABOVET",
-        "preco": 17.0775,
-        "categoria": "MEDICAMENTO",
-        "img": "img/2272.jpg"
-    },
-    {
         "id": "2273",
         "nome": "CYDECTIN INJ. 500 ML",
         "preco": 443.856299998,
@@ -7306,13 +5612,6 @@
         "preco": 7.5,
         "categoria": "MEDICAMENTO",
         "img": "img/228.jpg"
-    },
-    {
-        "id": "2281",
-        "nome": "GUIA DE CORDA 14MM X 60CM C/ AMORTECEDOR",
-        "preco": 30.0,
-        "categoria": "PRODUTOS PET",
-        "img": "img/2281.jpg"
     },
     {
         "id": "2286",
@@ -7343,46 +5642,11 @@
         "img": "img/229.jpg"
     },
     {
-        "id": "2290",
-        "nome": "ANTITOXICO INJ 20ML BIOFARM",
-        "preco": 7.0025,
-        "categoria": "MEDICAMENTO",
-        "img": "img/2290.jpg"
-    },
-    {
-        "id": "2291",
-        "nome": "RACAO DE CODORNA 40KG",
-        "preco": 118.0,
-        "categoria": "RACAO DE AVES",
-        "img": "img/2291.jpg"
-    },
-    {
-        "id": "2293",
-        "nome": "HEPVET EQUINOS PASTA 39GR",
-        "preco": 46.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/2293.jpg"
-    },
-    {
-        "id": "2294",
-        "nome": "PRE INICIAL PREFORTE DESINTEGRADO 5KG",
-        "preco": 25.0,
-        "categoria": "RACAO DE AVES",
-        "img": "img/2294.jpg"
-    },
-    {
         "id": "2295",
         "nome": "TRIBRISSEN SULFA INJ 50ML",
         "preco": 57.6986,
         "categoria": "MEDICAMENTO",
         "img": "img/2295.jpg"
-    },
-    {
-        "id": "2299",
-        "nome": "LAMINA PARA ROCADEIRA 300 MM RCM",
-        "preco": 34.51,
-        "categoria": "FERRAMENTA",
-        "img": "img/2299.jpg"
     },
     {
         "id": "230",
@@ -7413,32 +5677,11 @@
         "img": "img/2302.jpg"
     },
     {
-        "id": "2304",
-        "nome": "FORCADO 6 DENTES S/CB RCM",
-        "preco": 50.4,
-        "categoria": "FERRAMENTA",
-        "img": "img/2304.jpg"
-    },
-    {
         "id": "231",
         "nome": "COLOSSO 25ML",
         "preco": 8.774561,
         "categoria": "MEDICAMENTO",
         "img": "img/231.jpg"
-    },
-    {
-        "id": "2312",
-        "nome": "NUTRIFLEX B25-9 RECRIA E ENGORDA - 25KG",
-        "preco": 227.5,
-        "categoria": "SAL MINERAL",
-        "img": "img/2312.jpg"
-    },
-    {
-        "id": "2313",
-        "nome": "NUTRIFLEX B25-2 CRIA - 25KG",
-        "preco": 227.5,
-        "categoria": "SAL MINERAL",
-        "img": "img/2313.jpg"
     },
     {
         "id": "2314",
@@ -7453,20 +5696,6 @@
         "preco": 21.1485,
         "categoria": "MEDICAMENTO",
         "img": "img/2315.jpg"
-    },
-    {
-        "id": "2316",
-        "nome": "DOXIFIN TABS CART 200 MG OURO FINO",
-        "preco": 47.7586,
-        "categoria": "PRODUTOS PET",
-        "img": "img/2316.jpg"
-    },
-    {
-        "id": "2317",
-        "nome": "DOXIFIN TABS CART 50 MG OURO FINO",
-        "preco": 15.3253,
-        "categoria": "PRODUTOS PET",
-        "img": "img/2317.jpg"
     },
     {
         "id": "232",
@@ -7497,20 +5726,6 @@
         "img": "img/233.jpg"
     },
     {
-        "id": "2334",
-        "nome": "VACINA VAC V11 ELEVENCELL 1ML",
-        "preco": 17.6181,
-        "categoria": "PRODUTOS PET",
-        "img": "img/2334.jpg"
-    },
-    {
-        "id": "2335",
-        "nome": "RUMIVET 100ML",
-        "preco": 20.241,
-        "categoria": "MEDICAMENTO",
-        "img": "img/2335.jpg"
-    },
-    {
         "id": "234",
         "nome": "TRISSULFIN SULFA PO 50G",
         "preco": 8.5,
@@ -7530,13 +5745,6 @@
         "preco": 152.996499999,
         "categoria": "RACAO DE CACHORRO",
         "img": "img/2341.jpg"
-    },
-    {
-        "id": "2342",
-        "nome": "CEDAN CAT MIX S/CORANTE 10.1KG",
-        "preco": 72.0,
-        "categoria": "RACAO DE GATO",
-        "img": "img/2342.jpg"
     },
     {
         "id": "2345",
@@ -7560,13 +5768,6 @@
         "img": "img/2354.jpg"
     },
     {
-        "id": "2355",
-        "nome": "DORASULES 50 ML",
-        "preco": 17.55,
-        "categoria": "MEDICAMENTO",
-        "img": "img/2355.jpg"
-    },
-    {
         "id": "2356",
         "nome": "IVERMIC SUPREMME 50 ML",
         "preco": 27.0,
@@ -7586,13 +5787,6 @@
         "preco": 205.337166666,
         "categoria": "SAL MINERAL",
         "img": "img/2367.jpg"
-    },
-    {
-        "id": "2368",
-        "nome": "CASK GOLD 1KG LAVIZOO",
-        "preco": 258.4575,
-        "categoria": "MEDICAMENTO",
-        "img": "img/2368.jpg"
     },
     {
         "id": "237",
@@ -7616,13 +5810,6 @@
         "img": "img/2378.jpg"
     },
     {
-        "id": "2379",
-        "nome": "BIO HOOF LIQUIDO 1L",
-        "preco": 321.8805,
-        "categoria": "MEDICAMENTO",
-        "img": "img/2379.jpg"
-    },
-    {
         "id": "238",
         "nome": "MERCEPTON ANTITOXICO INJ 100ML",
         "preco": 42.0,
@@ -7637,13 +5824,6 @@
         "img": "img/2380.jpg"
     },
     {
-        "id": "2385",
-        "nome": "RC PEIXE 50 ALEVINOS INICIAL",
-        "preco": 204.0,
-        "categoria": "RACAO DE PEIXE",
-        "img": "img/2385.jpg"
-    },
-    {
         "id": "2386",
         "nome": "TUTTICANIS SELECT ADULTO 14KG",
         "preco": 68.8908,
@@ -7651,25 +5831,11 @@
         "img": "img/2386.jpg"
     },
     {
-        "id": "2387",
-        "nome": "TUTTICANIS FILHOTE PLUS 15KG",
-        "preco": 66.385001824,
-        "categoria": "RACAO DE CACHORRO",
-        "img": "img/2387.jpg"
-    },
-    {
         "id": "2388",
         "nome": "TUTTICATIS MIX S/CORANTE PREMIUM 25KG",
         "preco": 163.256533333,
         "categoria": "RACAO DE GATO",
         "img": "img/2388.jpg"
-    },
-    {
-        "id": "2389",
-        "nome": "TUTTICATIS MIX PREMIUM 25KG",
-        "preco": 164.4036,
-        "categoria": "RACAO DE GATO",
-        "img": "img/2389.jpg"
     },
     {
         "id": "239",
@@ -7684,20 +5850,6 @@
         "preco": 142.000000001,
         "categoria": "RACAO DE CACHORRO",
         "img": "img/2392.jpg"
-    },
-    {
-        "id": "2393",
-        "nome": "FLUNIXIN INJ 50 ML",
-        "preco": 51.3614,
-        "categoria": "MEDICAMENTO",
-        "img": "img/2393.jpg"
-    },
-    {
-        "id": "2394",
-        "nome": "FLUNIXIN INJ 100 ML",
-        "preco": 76.626,
-        "categoria": "MEDICAMENTO",
-        "img": "img/2394.jpg"
     },
     {
         "id": "2395",
@@ -7721,39 +5873,11 @@
         "img": "img/2397.jpg"
     },
     {
-        "id": "2398",
-        "nome": "ENXADAO LARGO 3,0L BELLOTTO",
-        "preco": 65.3644,
-        "categoria": "FERRAMENTA",
-        "img": "img/2398.jpg"
-    },
-    {
-        "id": "2399",
-        "nome": "UNGUENTO CURATRIL 50 GR",
-        "preco": 13.689,
-        "categoria": "MEDICAMENTO",
-        "img": "img/2399.jpg"
-    },
-    {
         "id": "240",
         "nome": "TERRAMICINA LA 20ML ZOETIS",
         "preco": 15.354329207,
         "categoria": "MEDICAMENTO",
         "img": "img/240.jpg"
-    },
-    {
-        "id": "2401",
-        "nome": "UNGUENTO VANSIL 50G",
-        "preco": 11.6235,
-        "categoria": "MEDICAMENTO",
-        "img": "img/2401.jpg"
-    },
-    {
-        "id": "2402",
-        "nome": "XO POMBO GEL 250GRS",
-        "preco": 32.4194,
-        "categoria": "DOMISSANITARIO",
-        "img": "img/2402.jpg"
     },
     {
         "id": "2403",
@@ -7768,13 +5892,6 @@
         "preco": 16.968,
         "categoria": "PRODUTOS PET",
         "img": "img/2407.jpg"
-    },
-    {
-        "id": "2408",
-        "nome": "MAGNUS SUPREME AD CN/CER 15KG ADIMAX",
-        "preco": 130.0,
-        "categoria": "RACAO DE CACHORRO",
-        "img": "img/2408.jpg"
     },
     {
         "id": "2409",
@@ -7796,13 +5913,6 @@
         "preco": 54.0471,
         "categoria": "MEDICAMENTO",
         "img": "img/2410.jpg"
-    },
-    {
-        "id": "2412",
-        "nome": "ASPERSOR 25 CM ZAMAC",
-        "preco": 22.845,
-        "categoria": "AGRICULTURA",
-        "img": "img/2412.jpg"
     },
     {
         "id": "2413",
@@ -7847,32 +5957,11 @@
         "img": "img/2426.jpg"
     },
     {
-        "id": "2427",
-        "nome": "FOICE CABO CURTO TRAMONTINA",
-        "preco": 55.6126,
-        "categoria": "FERRAMENTA",
-        "img": "img/2427.jpg"
-    },
-    {
         "id": "243",
         "nome": "APYRON 30ML",
         "preco": 22.0,
         "categoria": "MEDICAMENTO",
         "img": "img/243.jpg"
-    },
-    {
-        "id": "2430",
-        "nome": "ENXADAO LARGO SERVENTE",
-        "preco": 41.6004,
-        "categoria": "FERRAMENTA",
-        "img": "img/2430.jpg"
-    },
-    {
-        "id": "2431",
-        "nome": "ENXADAO ESTREITO 2,0 LBS TRAMONTINA",
-        "preco": 41.6004,
-        "categoria": "FERRAMENTA",
-        "img": "img/2431.jpg"
     },
     {
         "id": "2432",
@@ -7887,13 +5976,6 @@
         "preco": 33.5599,
         "categoria": "MEDICAMENTO",
         "img": "img/2436.jpg"
-    },
-    {
-        "id": "2438",
-        "nome": "FORMICIDA GEL FORMICEL 10GRS",
-        "preco": 10.155,
-        "categoria": "DOMISSANITARIO",
-        "img": "img/2438.jpg"
     },
     {
         "id": "2439",
@@ -7917,13 +5999,6 @@
         "img": "img/2449.jpg"
     },
     {
-        "id": "245",
-        "nome": "IFLOX ENRO INJ 10% 50ML",
-        "preco": 18.5,
-        "categoria": "MEDICAMENTO",
-        "img": "img/245.jpg"
-    },
-    {
         "id": "2450",
         "nome": "CORDA PET CARR 04MM AZUL",
         "preco": 0.8,
@@ -7943,13 +6018,6 @@
         "preco": 21.7864,
         "categoria": "PRODUTOS PET",
         "img": "img/2452.jpg"
-    },
-    {
-        "id": "2453",
-        "nome": "CAPSTAR 57MG 11,5 A 57KG CP",
-        "preco": 25.326,
-        "categoria": "PRODUTOS PET",
-        "img": "img/2453.jpg"
     },
     {
         "id": "2454",
@@ -8029,13 +6097,6 @@
         "img": "img/2465.jpg"
     },
     {
-        "id": "2467",
-        "nome": "MANGUEIRA PRETA 20MM",
-        "preco": 159.314999999,
-        "categoria": "FERRAMENTA",
-        "img": "img/2467.jpg"
-    },
-    {
         "id": "2468",
         "nome": "BOTA PVC CANO LONGO AZ/AMA SF N39",
         "preco": 87.7599,
@@ -8078,27 +6139,6 @@
         "img": "img/2472.jpg"
     },
     {
-        "id": "2473",
-        "nome": "CORRENTE ZINC P/CAES N03",
-        "preco": 11.0,
-        "categoria": "PRODUTOS PET",
-        "img": "img/2473.jpg"
-    },
-    {
-        "id": "2474",
-        "nome": "CORRENTE ZINC P/CAES N06",
-        "preco": 9.0,
-        "categoria": "PRODUTOS PET",
-        "img": "img/2474.jpg"
-    },
-    {
-        "id": "2475",
-        "nome": "ENXADAO ESTREITO C/CABO 2,5 LBS UN",
-        "preco": 56.714,
-        "categoria": "FERRAMENTA",
-        "img": "img/2475.jpg"
-    },
-    {
         "id": "2477",
         "nome": "EVOLUT CAT ATUM E SALMAO 10,1 KG",
         "preco": 88.117600001,
@@ -8125,13 +6165,6 @@
         "preco": 63.906365834,
         "categoria": "MEDICAMENTO",
         "img": "img/248.jpg"
-    },
-    {
-        "id": "2480",
-        "nome": "BOMGUY PREMIUM ADULTO RACAS PEQ. FRANGO S/COR 25KG",
-        "preco": 193.244799999,
-        "categoria": "RACAO DE CACHORRO",
-        "img": "img/2480.jpg"
     },
     {
         "id": "2481",
@@ -8181,13 +6214,6 @@
         "preco": 51.192,
         "categoria": "MEDICAMENTO",
         "img": "img/2492.jpg"
-    },
-    {
-        "id": "2493",
-        "nome": "LAVIZ PRO + PRE PET 14GR",
-        "preco": 22.834,
-        "categoria": "PRODUTOS PET",
-        "img": "img/2493.jpg"
     },
     {
         "id": "2494",
@@ -8246,13 +6272,6 @@
         "img": "img/251.jpg"
     },
     {
-        "id": "2518",
-        "nome": "ENXADAO ESTREITO 2,5 LBS TRAMONTINA",
-        "preco": 45.465,
-        "categoria": "FERRAMENTA",
-        "img": "img/2518.jpg"
-    },
-    {
         "id": "252",
         "nome": "ATOXIL ANTITOXICO INJ 50ML",
         "preco": 13.0,
@@ -8265,13 +6284,6 @@
         "preco": 23.0,
         "categoria": "ACESSORIOS",
         "img": "img/2520.jpg"
-    },
-    {
-        "id": "2521",
-        "nome": "AGITA 10 WG 1 KG",
-        "preco": 1118.444999994,
-        "categoria": "DOMISSANITARIO",
-        "img": "img/2521.jpg"
     },
     {
         "id": "2522",
@@ -8316,25 +6328,11 @@
         "img": "img/2529.jpg"
     },
     {
-        "id": "253",
-        "nome": "CEVADOR 300G",
-        "preco": 8.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/253.jpg"
-    },
-    {
         "id": "2534",
         "nome": "DORNIL DIPIRONA INJ 50ML",
         "preco": 14.176209,
         "categoria": "MEDICAMENTO",
         "img": "img/2534.jpg"
-    },
-    {
-        "id": "2535",
-        "nome": "CALCIOFARM 200 ML",
-        "preco": 12.7539,
-        "categoria": "MEDICAMENTO",
-        "img": "img/2535.jpg"
     },
     {
         "id": "2536",
@@ -8414,13 +6412,6 @@
         "img": "img/255.jpg"
     },
     {
-        "id": "2550",
-        "nome": "OPEN SEA DOG FILHOTES LEITE 25KG",
-        "preco": 175.0,
-        "categoria": "RACAO DE CACHORRO",
-        "img": "img/2550.jpg"
-    },
-    {
         "id": "2551",
         "nome": "RETARDOESTEROIDE 50ML CEVA",
         "preco": 110.103,
@@ -8447,13 +6438,6 @@
         "preco": 18.0716,
         "categoria": "ACESSORIOS",
         "img": "img/2561.jpg"
-    },
-    {
-        "id": "2562",
-        "nome": "TINTA SPRAY AZUL ESC 400ML",
-        "preco": 18.0716,
-        "categoria": "ACESSORIOS",
-        "img": "img/2562.jpg"
     },
     {
         "id": "2563",
@@ -8489,13 +6473,6 @@
         "preco": 18.0705,
         "categoria": "ACESSORIOS",
         "img": "img/2567.jpg"
-    },
-    {
-        "id": "2568",
-        "nome": "TINTA SPRAY PRETO FOSCO 350ML",
-        "preco": 24.885,
-        "categoria": "ACESSORIOS",
-        "img": "img/2568.jpg"
     },
     {
         "id": "2569",
@@ -8540,32 +6517,11 @@
         "img": "img/2574.jpg"
     },
     {
-        "id": "2576",
-        "nome": "IVERMIC ADE INJ 250 ML",
-        "preco": 85.9815,
-        "categoria": "MEDICAMENTO",
-        "img": "img/2576.jpg"
-    },
-    {
         "id": "2577",
         "nome": "VETIMAST PLUS VS 10 GR",
         "preco": 20.7765,
         "categoria": "MEDICAMENTO",
         "img": "img/2577.jpg"
-    },
-    {
-        "id": "2578",
-        "nome": "ISCA CARAMUJO/LESMA LESMAREX 1KG INSETIMAX",
-        "preco": 82.9545,
-        "categoria": "DOMISSANITARIO",
-        "img": "img/2578.jpg"
-    },
-    {
-        "id": "2579",
-        "nome": "MANDARIN PO 3 EM 1 - 1000G FIPRONIL INSETIMAX",
-        "preco": 44.028,
-        "categoria": "DOMISSANITARIO",
-        "img": "img/2579.jpg"
     },
     {
         "id": "258",
@@ -8589,27 +6545,6 @@
         "img": "img/2581.jpg"
     },
     {
-        "id": "2582",
-        "nome": "BARATAFIM GEL SERINGA - 10GR INSETIMAX",
-        "preco": 13.2118,
-        "categoria": "DOMISSANITARIO",
-        "img": "img/2582.jpg"
-    },
-    {
-        "id": "2583",
-        "nome": "HERBICIDA KARPIR 15ML INSETIMAX",
-        "preco": 16.0935,
-        "categoria": "DOMISSANITARIO",
-        "img": "img/2583.jpg"
-    },
-    {
-        "id": "2585",
-        "nome": "BRAVA 1 MF 2.0CV PICADOR TRITURADOR MONO",
-        "preco": 2309.999999986,
-        "categoria": "FERRAMENTA",
-        "img": "img/2585.jpg"
-    },
-    {
         "id": "2586",
         "nome": "CANTO NATURAL PAPAGAIO 10KG",
         "preco": 110.7125,
@@ -8624,32 +6559,11 @@
         "img": "img/259.jpg"
     },
     {
-        "id": "2591",
-        "nome": "FARELO DE BISCOITO 30KG",
-        "preco": 37.0,
-        "categoria": "MATERIA PRIMA",
-        "img": "img/2591.jpg"
-    },
-    {
-        "id": "2593",
-        "nome": "SHAMPOO ANTIPULGA E CARRAPATO SHAMPET VERM 500ML",
-        "preco": 11.326,
-        "categoria": "PRODUTOS PET",
-        "img": "img/2593.jpg"
-    },
-    {
         "id": "2595",
         "nome": "BAINHA CELULAR C/ FACA",
         "preco": 136.147100001,
         "categoria": "ACESSORIOS",
         "img": "img/2595.jpg"
-    },
-    {
-        "id": "2597",
-        "nome": "GENTAMOX 100ML",
-        "preco": 64.6151,
-        "categoria": "MEDICAMENTO",
-        "img": "img/2597.jpg"
     },
     {
         "id": "2598",
@@ -8680,13 +6594,6 @@
         "img": "img/2602.jpg"
     },
     {
-        "id": "2603",
-        "nome": "TERMIDOR 25 CE 1L",
-        "preco": 168.021,
-        "categoria": "DOMISSANITARIO",
-        "img": "img/2603.jpg"
-    },
-    {
         "id": "2609",
         "nome": "ORGANIC 1KG",
         "preco": 54.986,
@@ -8694,25 +6601,11 @@
         "img": "img/2609.jpg"
     },
     {
-        "id": "261",
-        "nome": "VERRUCLIN 30 ML 15G",
-        "preco": 24.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/261.jpg"
-    },
-    {
         "id": "2610",
         "nome": "AMINOPAN FORTE 5KG",
         "preco": 251.829,
         "categoria": "MEDICAMENTO",
         "img": "img/2610.jpg"
-    },
-    {
-        "id": "2611",
-        "nome": "LAVIZ SACC 1KG",
-        "preco": 121.122,
-        "categoria": "MEDICAMENTO",
-        "img": "img/2611.jpg"
     },
     {
         "id": "2612",
@@ -8727,13 +6620,6 @@
         "preco": 15.456,
         "categoria": "ACESSORIOS",
         "img": "img/2614.jpg"
-    },
-    {
-        "id": "2615",
-        "nome": "MARRETA C/CABO 2,0 KG",
-        "preco": 91.559999999,
-        "categoria": "FERRAMENTA",
-        "img": "img/2615.jpg"
     },
     {
         "id": "2616",
@@ -8755,13 +6641,6 @@
         "preco": 233.845499999,
         "categoria": "AGRICULTURA",
         "img": "img/2619.jpg"
-    },
-    {
-        "id": "262",
-        "nome": "CASCOSAN 90ML",
-        "preco": 18.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/262.jpg"
     },
     {
         "id": "2620",
@@ -8790,13 +6669,6 @@
         "preco": 24.1159,
         "categoria": "MEDICAMENTO",
         "img": "img/2626.jpg"
-    },
-    {
-        "id": "2627",
-        "nome": "RATICIDA KELLMAT SOFT BAIT 200GR",
-        "preco": 26.0,
-        "categoria": "DOMISSANITARIO",
-        "img": "img/2627.jpg"
     },
     {
         "id": "2628",
@@ -8834,13 +6706,6 @@
         "img": "img/2631.jpg"
     },
     {
-        "id": "2633",
-        "nome": "ORIGENS CAO SENIOR MINI/PEQ10,1KG",
-        "preco": 118.569999999,
-        "categoria": "RACAO DE CACHORRO",
-        "img": "img/2633.jpg"
-    },
-    {
         "id": "2634",
         "nome": "FORMULA NATURAL PRO CAES AD MINI/PEQ 15KG",
         "preco": 190.3131,
@@ -8867,13 +6732,6 @@
         "preco": 137.252600001,
         "categoria": "DOMISSANITARIO",
         "img": "img/2639.jpg"
-    },
-    {
-        "id": "264",
-        "nome": "SABONETE ANTIPULGA E CARRAPATO IBAPET 80G",
-        "preco": 14.0,
-        "categoria": "PRODUTOS PET",
-        "img": "img/264.jpg"
     },
     {
         "id": "2640",
@@ -8918,20 +6776,6 @@
         "img": "img/2645.jpg"
     },
     {
-        "id": "2646",
-        "nome": "CAVADEIRA TRADO 12 MINASUL",
-        "preco": 226.729999999,
-        "categoria": "FERRAMENTA",
-        "img": "img/2646.jpg"
-    },
-    {
-        "id": "2647",
-        "nome": "FOICE RONCA ABERTA S/CB",
-        "preco": 43.2414,
-        "categoria": "FERRAMENTA",
-        "img": "img/2647.jpg"
-    },
-    {
         "id": "2648",
         "nome": "LUVA PIGMENTADA 4 FIOS 09 G PTA",
         "preco": 4.0,
@@ -8974,27 +6818,6 @@
         "img": "img/2655.jpg"
     },
     {
-        "id": "2656",
-        "nome": "CIPERFON 100 ML",
-        "preco": 11.5911,
-        "categoria": "MEDICAMENTO",
-        "img": "img/2656.jpg"
-    },
-    {
-        "id": "2657",
-        "nome": "AGIMAX CUPIM AEROSSOL 400ML",
-        "preco": 33.1174,
-        "categoria": "DOMISSANITARIO",
-        "img": "img/2657.jpg"
-    },
-    {
-        "id": "2658",
-        "nome": "AGICRON 10 WP 100GR",
-        "preco": 57.985,
-        "categoria": "DOMISSANITARIO",
-        "img": "img/2658.jpg"
-    },
-    {
         "id": "2659",
         "nome": "ATTAMIX 400 TRHEE - 1000G",
         "preco": 16.6281,
@@ -9023,13 +6846,6 @@
         "img": "img/2664.jpg"
     },
     {
-        "id": "2665",
-        "nome": "BOIFLIN 200 G",
-        "preco": 27.3375,
-        "categoria": "MEDICAMENTO",
-        "img": "img/2665.jpg"
-    },
-    {
         "id": "2666",
         "nome": "DESINFETANTE 1L QUATERMON VET",
         "preco": 27.538,
@@ -9051,25 +6867,11 @@
         "img": "img/2668.jpg"
     },
     {
-        "id": "2669",
-        "nome": "CORRENTE ZINC P/CAES N0",
-        "preco": 25.0,
-        "categoria": "PRODUTOS PET",
-        "img": "img/2669.jpg"
-    },
-    {
         "id": "267",
         "nome": "SORO ANTITETANICO LIOFILIZADO 5ML",
         "preco": 18.9,
         "categoria": "MEDICAMENTO",
         "img": "img/267.jpg"
-    },
-    {
-        "id": "2670",
-        "nome": "CORRENTE ZINC P/CAES 2/0",
-        "preco": 32.0,
-        "categoria": "PRODUTOS PET",
-        "img": "img/2670.jpg"
     },
     {
         "id": "2671",
@@ -9100,39 +6902,11 @@
         "img": "img/2675.jpg"
     },
     {
-        "id": "2676",
-        "nome": "OVERXICAM 50ML",
-        "preco": 91.1655,
-        "categoria": "MEDICAMENTO",
-        "img": "img/2676.jpg"
-    },
-    {
-        "id": "2678",
-        "nome": "CACAMBA METALICA 65L EXTRA FOR",
-        "preco": 229.389999999,
-        "categoria": "CARRO DE MAO",
-        "img": "img/2678.jpg"
-    },
-    {
         "id": "268",
         "nome": "OXITRAT PLUS 50 ML",
         "preco": 30.0,
         "categoria": "MEDICAMENTO",
         "img": "img/268.jpg"
-    },
-    {
-        "id": "2680",
-        "nome": "DORAMEC 50ML INJ FA",
-        "preco": 23.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/2680.jpg"
-    },
-    {
-        "id": "2681",
-        "nome": "DORAMEC 500ML INJ FA",
-        "preco": 231.5655,
-        "categoria": "MEDICAMENTO",
-        "img": "img/2681.jpg"
     },
     {
         "id": "2682",
@@ -9175,13 +6949,6 @@
         "preco": 63.93,
         "categoria": "DOMISSANITARIO",
         "img": "img/2687.jpg"
-    },
-    {
-        "id": "2688",
-        "nome": "CREOLINA LATA 1L",
-        "preco": 88.5,
-        "categoria": "DOMISSANITARIO",
-        "img": "img/2688.jpg"
     },
     {
         "id": "269",
@@ -9261,13 +7028,6 @@
         "img": "img/2701.jpg"
     },
     {
-        "id": "2702",
-        "nome": "VERMOTRIX PLUS C/4COMP",
-        "preco": 9.5659,
-        "categoria": "PRODUTOS PET",
-        "img": "img/2702.jpg"
-    },
-    {
         "id": "2703",
         "nome": "CABO DE PA 90CM Y PVC",
         "preco": 19.0,
@@ -9287,13 +7047,6 @@
         "preco": 34.0,
         "categoria": "MEDICAMENTO",
         "img": "img/271.jpg"
-    },
-    {
-        "id": "2710",
-        "nome": "COLIRIO PET BIOFARM 20 ML",
-        "preco": 31.81,
-        "categoria": "PRODUTOS PET",
-        "img": "img/2710.jpg"
     },
     {
         "id": "2711",
@@ -9408,25 +7161,11 @@
         "img": "img/2745.jpg"
     },
     {
-        "id": "2746",
-        "nome": "VACINA LEPTO EQUUS DS",
-        "preco": 16.1196,
-        "categoria": "MEDICAMENTO",
-        "img": "img/2746.jpg"
-    },
-    {
         "id": "2747",
         "nome": "ROFLIN 100ML",
         "preco": 88.5375,
         "categoria": "MEDICAMENTO",
         "img": "img/2747.jpg"
-    },
-    {
-        "id": "275",
-        "nome": "FLUNIXIN INJ 10ML FLUNIXINA",
-        "preco": 20.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/275.jpg"
     },
     {
         "id": "276",
@@ -9464,20 +7203,6 @@
         "img": "img/2771.jpg"
     },
     {
-        "id": "2772",
-        "nome": "TESOURA P/CASCOS DE OVINOS 10",
-        "preco": 184.841999999,
-        "categoria": "ACESSORIOS",
-        "img": "img/2772.jpg"
-    },
-    {
-        "id": "2777",
-        "nome": "RACAO EQUINO DESEMPENHO 40KG DAS NEVES",
-        "preco": 150.0,
-        "categoria": "RACAO DE EQUINO",
-        "img": "img/2777.jpg"
-    },
-    {
         "id": "278",
         "nome": "CORTVET 2.0MG 10ML UCB",
         "preco": 9.0,
@@ -9506,13 +7231,6 @@
         "img": "img/2783.jpg"
     },
     {
-        "id": "2784",
-        "nome": "ALNOR 10% 250 ML",
-        "preco": 24.0516,
-        "categoria": "MEDICAMENTO",
-        "img": "img/2784.jpg"
-    },
-    {
         "id": "2785",
         "nome": "DOSECAL 250ML",
         "preco": 14.5847,
@@ -9539,13 +7257,6 @@
         "preco": 32.662604163,
         "categoria": "MEDICAMENTO",
         "img": "img/2788.jpg"
-    },
-    {
-        "id": "2789",
-        "nome": "GOLDMEC 1L",
-        "preco": 451.0215,
-        "categoria": "MEDICAMENTO",
-        "img": "img/2789.jpg"
     },
     {
         "id": "279",
@@ -9618,13 +7329,6 @@
         "img": "img/2799.jpg"
     },
     {
-        "id": "280",
-        "nome": "IFLOX ENRO INJ 10% 500ML",
-        "preco": 66.699999999,
-        "categoria": "MEDICAMENTO",
-        "img": "img/280.jpg"
-    },
-    {
         "id": "2800",
         "nome": "CHAVE GRIFO/TUBO 18",
         "preco": 104.299999999,
@@ -9644,20 +7348,6 @@
         "preco": 90.7812,
         "categoria": "MEDICAMENTO",
         "img": "img/2804.jpg"
-    },
-    {
-        "id": "2805",
-        "nome": "RATOEIRA ARA TIPO GAIOLA N1 CIAMA",
-        "preco": 55.1204,
-        "categoria": "DOMISSANITARIO",
-        "img": "img/2805.jpg"
-    },
-    {
-        "id": "2806",
-        "nome": "SARNIRAN PET 30ML",
-        "preco": 15.2086,
-        "categoria": "PRODUTOS PET",
-        "img": "img/2806.jpg"
     },
     {
         "id": "2808",
@@ -9737,25 +7427,11 @@
         "img": "img/282.jpg"
     },
     {
-        "id": "2820",
-        "nome": "FACAO CANAVIEIRO LAMINA COM 28CM RCM",
-        "preco": 39.2,
-        "categoria": "ACESSORIOS",
-        "img": "img/2820.jpg"
-    },
-    {
         "id": "2821",
         "nome": "CARRO DE CARGA 200 KG 110 CM RCM",
         "preco": 265.999999998,
         "categoria": "CARRO DE MAO",
         "img": "img/2821.jpg"
-    },
-    {
-        "id": "2822",
-        "nome": "CUTELO EM AÇO INOX RCM",
-        "preco": 40.6,
-        "categoria": "ACESSORIOS",
-        "img": "img/2822.jpg"
     },
     {
         "id": "2823",
@@ -9772,25 +7448,11 @@
         "img": "img/2824.jpg"
     },
     {
-        "id": "2825",
-        "nome": "LAMINA NAVALHA DE CORTE, EM AÇO TEMP, PARA TRITURADOR",
-        "preco": 37.8,
-        "categoria": "FERRAMENTA",
-        "img": "img/2825.jpg"
-    },
-    {
         "id": "2829",
         "nome": "VACINA VAXXON ND 100 DS NEWCASTLE",
         "preco": 33.885,
         "categoria": "MEDICAMENTO",
         "img": "img/2829.jpg"
-    },
-    {
-        "id": "283",
-        "nome": "IFLOX ENRO INJ 10% 100ML",
-        "preco": 24.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/283.jpg"
     },
     {
         "id": "2830",
@@ -9905,13 +7567,6 @@
         "img": "img/2844.jpg"
     },
     {
-        "id": "2845",
-        "nome": "TERMINAL ISOLANTE P/ 1 PORTEIRA PRETO",
-        "preco": 6.4036,
-        "categoria": "CERCA ELETRICA",
-        "img": "img/2845.jpg"
-    },
-    {
         "id": "2846",
         "nome": "ENERGIZADOR EN-102K (ENERGIA 220V) - (EN. ACUM. 0,55J",
         "preco": 356.537999998,
@@ -9919,25 +7574,11 @@
         "img": "img/2846.jpg"
     },
     {
-        "id": "2847",
-        "nome": "ENERGIZADOR EN-1202K (ENERGIA 220V) - (EN. ACUM. 13,0",
-        "preco": 1294.299999992,
-        "categoria": "CERCA ELETRICA",
-        "img": "img/2847.jpg"
-    },
-    {
         "id": "2848",
         "nome": "ENERGIZADOR EN-602K (ENERGIA 220V) - (EN. ACUM. 3,70J",
         "preco": 654.555999996,
         "categoria": "CERCA ELETRICA",
         "img": "img/2848.jpg"
-    },
-    {
-        "id": "2849",
-        "nome": "ENERGIZADOR MIURA M300 (ENERGIA 220V) - (EN. ACUM. 1,",
-        "preco": 111.593999999,
-        "categoria": "CERCA ELETRICA",
-        "img": "img/2849.jpg"
     },
     {
         "id": "285",
@@ -9968,13 +7609,6 @@
         "img": "img/2852.jpg"
     },
     {
-        "id": "2853",
-        "nome": "PASTA VERME EQUEST PRAMOX 12G",
-        "preco": 71.6175,
-        "categoria": "MEDICAMENTO",
-        "img": "img/2853.jpg"
-    },
-    {
         "id": "2854",
         "nome": "PASTA VERME EQUEST 12,2G",
         "preco": 60.1695,
@@ -9987,13 +7621,6 @@
         "preco": 321.3,
         "categoria": "MEDICAMENTO",
         "img": "img/2855.jpg"
-    },
-    {
-        "id": "2856",
-        "nome": "CIPRODEZ 50 ML",
-        "preco": 51.3,
-        "categoria": "MEDICAMENTO",
-        "img": "img/2856.jpg"
     },
     {
         "id": "2857",
@@ -10036,13 +7663,6 @@
         "preco": 63.72,
         "categoria": "MEDICAMENTO",
         "img": "img/2861.jpg"
-    },
-    {
-        "id": "2862",
-        "nome": "CARRO DE MAO JERICA CACAMBA PLAS 190L 2 PNEU",
-        "preco": 984.773999994,
-        "categoria": "CARRO DE MAO",
-        "img": "img/2862.jpg"
     },
     {
         "id": "2865",
@@ -10101,13 +7721,6 @@
         "img": "img/2872.jpg"
     },
     {
-        "id": "2873",
-        "nome": "PUNHO POLIDO SERVI 50 ML AUT.",
-        "preco": 63.434,
-        "categoria": "ACESSORIOS",
-        "img": "img/2873.jpg"
-    },
-    {
         "id": "2874",
         "nome": "GATILHO POLIDO SERVI 50 ML AUT.",
         "preco": 31.444,
@@ -10134,13 +7747,6 @@
         "preco": 161.1191,
         "categoria": "RACAO DE CACHORRO",
         "img": "img/2877.jpg"
-    },
-    {
-        "id": "2878",
-        "nome": "MAGIC PET DOG PREMIUM CARNE 25KG BRAZILIAN",
-        "preco": 153.929999999,
-        "categoria": "RACAO DE CACHORRO",
-        "img": "img/2878.jpg"
     },
     {
         "id": "2879",
@@ -10178,13 +7784,6 @@
         "img": "img/2882.jpg"
     },
     {
-        "id": "2883",
-        "nome": "PEDDY DOG CARNE 15KG BRAZILIAN",
-        "preco": 75.0,
-        "categoria": "RACAO DE CACHORRO",
-        "img": "img/2883.jpg"
-    },
-    {
         "id": "2884",
         "nome": "PEDDY CAT MIX 25KG BRAZILIAN",
         "preco": 169.0,
@@ -10211,13 +7810,6 @@
         "preco": 199.15,
         "categoria": "RACAO DE CACHORRO",
         "img": "img/2887.jpg"
-    },
-    {
-        "id": "2888",
-        "nome": "PEDDY DOG CARNE 25KG BRAZILIAN",
-        "preco": 125.0,
-        "categoria": "RACAO DE CACHORRO",
-        "img": "img/2888.jpg"
     },
     {
         "id": "2889",
@@ -10248,13 +7840,6 @@
         "img": "img/2891.jpg"
     },
     {
-        "id": "2892",
-        "nome": "SHAMPOO 3 EM 1 SHAMPET AZUL 500ML",
-        "preco": 10.5939,
-        "categoria": "PRODUTOS PET",
-        "img": "img/2892.jpg"
-    },
-    {
         "id": "2893",
         "nome": "CALCIO REFORCADO 500ML VANSIL",
         "preco": 31.8425,
@@ -10283,39 +7868,11 @@
         "img": "img/2896.jpg"
     },
     {
-        "id": "2897",
-        "nome": "IODO 10% 1L VANSIL",
-        "preco": 203.569799999,
-        "categoria": "MEDICAMENTO",
-        "img": "img/2897.jpg"
-    },
-    {
-        "id": "2898",
-        "nome": "MAX PRATA 500ML VANSIL",
-        "preco": 20.3747,
-        "categoria": "MEDICAMENTO",
-        "img": "img/2898.jpg"
-    },
-    {
         "id": "290",
         "nome": "SABONETE SARNATYL 100G",
         "preco": 10.0,
         "categoria": "MEDICAMENTO",
         "img": "img/290.jpg"
-    },
-    {
-        "id": "2903",
-        "nome": "AGEFIX E8 OLEO MINERAL BD 20L",
-        "preco": 404.999999998,
-        "categoria": "DOMISSANITARIO",
-        "img": "img/2903.jpg"
-    },
-    {
-        "id": "2904",
-        "nome": "BOVIGAM INJ 5G/15ML",
-        "preco": 69.4034,
-        "categoria": "MEDICAMENTO",
-        "img": "img/2904.jpg"
     },
     {
         "id": "2906",
@@ -10346,32 +7903,11 @@
         "img": "img/2911.jpg"
     },
     {
-        "id": "2912",
-        "nome": "ENDOGARD 10 KG C/6 COMP",
-        "preco": 116.941999999,
-        "categoria": "PRODUTOS PET",
-        "img": "img/2912.jpg"
-    },
-    {
         "id": "2913",
         "nome": "ENDOGARD 2,5 KG C/2 COMP",
         "preco": 20.818,
         "categoria": "PRODUTOS PET",
         "img": "img/2913.jpg"
-    },
-    {
-        "id": "2914",
-        "nome": "ENDOGARD 30 KG COMP",
-        "preco": 48.51,
-        "categoria": "PRODUTOS PET",
-        "img": "img/2914.jpg"
-    },
-    {
-        "id": "292",
-        "nome": "SORO VIT SUPREVIT 500ML",
-        "preco": 23.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/292.jpg"
     },
     {
         "id": "2921",
@@ -10458,13 +7994,6 @@
         "img": "img/294.jpg"
     },
     {
-        "id": "2947",
-        "nome": "ENROTRIL 20% ORAL 10ML",
-        "preco": 6.6825,
-        "categoria": "MEDICAMENTO",
-        "img": "img/2947.jpg"
-    },
-    {
         "id": "2948",
         "nome": "BALANCA SUSPENSA 100KG ANALOG TIPO RELOG BARTOF",
         "preco": 83.3,
@@ -10477,13 +8006,6 @@
         "preco": 65.0,
         "categoria": "MEDICAMENTO",
         "img": "img/295.jpg"
-    },
-    {
-        "id": "2950",
-        "nome": "BOMBA SUBMERSA SAPECA 220V RAYMA",
-        "preco": 299.904,
-        "categoria": "ACESSORIOS",
-        "img": "img/2950.jpg"
     },
     {
         "id": "2951",
@@ -10556,13 +8078,6 @@
         "img": "img/2969.jpg"
     },
     {
-        "id": "297",
-        "nome": "CITRONELA 10% 120ML BIOX",
-        "preco": 15.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/297.jpg"
-    },
-    {
         "id": "2970",
         "nome": "KERAVIT 5G",
         "preco": 96.8355,
@@ -10582,13 +8097,6 @@
         "preco": 60.793381997,
         "categoria": "PRODUTOS PET",
         "img": "img/2975.jpg"
-    },
-    {
-        "id": "2976",
-        "nome": "NEXGARD SPECTRA 2,00GR (M) X1",
-        "preco": 59.814450304,
-        "categoria": "PRODUTOS PET",
-        "img": "img/2976.jpg"
     },
     {
         "id": "2977",
@@ -10633,32 +8141,11 @@
         "img": "img/2981.jpg"
     },
     {
-        "id": "2982",
-        "nome": "DVDOXI 100G",
-        "preco": 62.7345,
-        "categoria": "MEDICAMENTO",
-        "img": "img/2982.jpg"
-    },
-    {
-        "id": "2983",
-        "nome": "VITAKA SM VIT K 20ML",
-        "preco": 11.5503,
-        "categoria": "MEDICAMENTO",
-        "img": "img/2983.jpg"
-    },
-    {
         "id": "2984",
         "nome": "INTRASEC VS 8G",
         "preco": 11.853,
         "categoria": "MEDICAMENTO",
         "img": "img/2984.jpg"
-    },
-    {
-        "id": "2985",
-        "nome": "TERRAMICINA LA 100ML ZOETIS",
-        "preco": 56.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/2985.jpg"
     },
     {
         "id": "2987",
@@ -10673,13 +8160,6 @@
         "preco": 66.3153,
         "categoria": "ACESSORIOS",
         "img": "img/2988.jpg"
-    },
-    {
-        "id": "299",
-        "nome": "OCITOCINA FORTE 100ML UCB",
-        "preco": 12.5,
-        "categoria": "MEDICAMENTO",
-        "img": "img/299.jpg"
     },
     {
         "id": "2990",
@@ -10703,13 +8183,6 @@
         "img": "img/2993.jpg"
     },
     {
-        "id": "2994",
-        "nome": "BOTUMIX NEONATO 43G",
-        "preco": 40.041,
-        "categoria": "MEDICAMENTO",
-        "img": "img/2994.jpg"
-    },
-    {
         "id": "2995",
         "nome": "BOTUMIX RED UP 1,5L BOTUPHARMA",
         "preco": 327.7125,
@@ -10731,46 +8204,11 @@
         "img": "img/2997.jpg"
     },
     {
-        "id": "2998",
-        "nome": "LACTOFULL HORSE 15-BI 40G BOTUPHARMA",
-        "preco": 71.5905,
-        "categoria": "MEDICAMENTO",
-        "img": "img/2998.jpg"
-    },
-    {
-        "id": "2999",
-        "nome": "BOTUMIX MIOPROX LIQ 1L BOTUPHARMA",
-        "preco": 253.935,
-        "categoria": "MEDICAMENTO",
-        "img": "img/2999.jpg"
-    },
-    {
         "id": "3",
         "nome": "QUALICORTE PX U 10",
         "preco": 130.666666999,
         "categoria": "SAL MINERAL",
         "img": "img/3.jpg"
-    },
-    {
-        "id": "30",
-        "nome": "BISTEDOG ADULTOS 14KG",
-        "preco": 73.0,
-        "categoria": "RACAO DE CACHORRO",
-        "img": "img/30.jpg"
-    },
-    {
-        "id": "300",
-        "nome": "MODIFICADOR ORGANICO 100ML PROFIT",
-        "preco": 14.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/300.jpg"
-    },
-    {
-        "id": "3000",
-        "nome": "BOTUMIX ELETRORACE 50G BOTUPHARMA",
-        "preco": 35.1,
-        "categoria": "MEDICAMENTO",
-        "img": "img/3000.jpg"
     },
     {
         "id": "3006",
@@ -10841,13 +8279,6 @@
         "preco": 21.145095,
         "categoria": "PRODUTOS PET",
         "img": "img/3014.jpg"
-    },
-    {
-        "id": "3015",
-        "nome": "AVITRIN SULFA 10ML COVELI",
-        "preco": 29.372,
-        "categoria": "PRODUTOS PET",
-        "img": "img/3015.jpg"
     },
     {
         "id": "3016",
@@ -10927,13 +8358,6 @@
         "img": "img/3030.jpg"
     },
     {
-        "id": "3031",
-        "nome": "LIDOVET ANESTESICO 50ML S/ADRENALINA",
-        "preco": 19.8372,
-        "categoria": "MEDICAMENTO",
-        "img": "img/3031.jpg"
-    },
-    {
         "id": "3032",
         "nome": "MONOVIN VIT C 20ML",
         "preco": 22.0972,
@@ -10948,32 +8372,11 @@
         "img": "img/3033.jpg"
     },
     {
-        "id": "3034",
-        "nome": "DOXITABS DIPY 100MG BIOVET",
-        "preco": 30.4248,
-        "categoria": "PRODUTOS PET",
-        "img": "img/3034.jpg"
-    },
-    {
-        "id": "3035",
-        "nome": "DOXITABS DIPY 200MG BIOVET",
-        "preco": 42.3052,
-        "categoria": "PRODUTOS PET",
-        "img": "img/3035.jpg"
-    },
-    {
         "id": "3036",
         "nome": "VACINA VAXXON POX P (BOUBA) 100 DS BIOVET",
         "preco": 29.326,
         "categoria": "MEDICAMENTO",
         "img": "img/3036.jpg"
-    },
-    {
-        "id": "3038",
-        "nome": "FOSBOVI CONFINAMENTO PLUS 25KG",
-        "preco": 164.2575,
-        "categoria": "SAL MINERAL",
-        "img": "img/3038.jpg"
     },
     {
         "id": "3039",
@@ -11011,13 +8414,6 @@
         "img": "img/3042.jpg"
     },
     {
-        "id": "3043",
-        "nome": "AVIFARM CALCIO 15 ML",
-        "preco": 8.6296,
-        "categoria": "PRODUTOS PET",
-        "img": "img/3043.jpg"
-    },
-    {
         "id": "3044",
         "nome": "AVIFARM CANTO 15 ML",
         "preco": 8.9453,
@@ -11044,20 +8440,6 @@
         "preco": 7.8198,
         "categoria": "PRODUTOS PET",
         "img": "img/3047.jpg"
-    },
-    {
-        "id": "3048",
-        "nome": "AVIFARM PS 15 ML",
-        "preco": 9.3663,
-        "categoria": "PRODUTOS PET",
-        "img": "img/3048.jpg"
-    },
-    {
-        "id": "3049",
-        "nome": "AVIFARM MUDA 15 ML",
-        "preco": 9.4716,
-        "categoria": "PRODUTOS PET",
-        "img": "img/3049.jpg"
     },
     {
         "id": "305",
@@ -11130,13 +8512,6 @@
         "img": "img/3061.jpg"
     },
     {
-        "id": "3062",
-        "nome": "OMEGA 3 VET 500 MG 30 CAPSULAS",
-        "preco": 55.86,
-        "categoria": "PRODUTOS PET",
-        "img": "img/3062.jpg"
-    },
-    {
         "id": "3063",
         "nome": "SERINGA DESCART 60ML",
         "preco": 7.0,
@@ -11186,20 +8561,6 @@
         "img": "img/3072.jpg"
     },
     {
-        "id": "3073",
-        "nome": "GELOVET GEL 900GR",
-        "preco": 75.006,
-        "categoria": "MEDICAMENTO",
-        "img": "img/3073.jpg"
-    },
-    {
-        "id": "3074",
-        "nome": "FERTILIZANTE NPK 16.06.20 SC 25 KG",
-        "preco": 102.0,
-        "categoria": "ADUBOS",
-        "img": "img/3074.jpg"
-    },
-    {
         "id": "3075",
         "nome": "FIPROLINE DUO 250ML C CEVA",
         "preco": 102.816,
@@ -11242,13 +8603,6 @@
         "img": "img/308.jpg"
     },
     {
-        "id": "3080",
-        "nome": "IODO 10% 100ML VANSIL",
-        "preco": 25.4197,
-        "categoria": "MEDICAMENTO",
-        "img": "img/3080.jpg"
-    },
-    {
         "id": "3081",
         "nome": "CABO ISOLANTE 9/16\" PRETO (50 M)",
         "preco": 184.536399999,
@@ -11275,13 +8629,6 @@
         "preco": 11.2756,
         "categoria": "CERCA ELETRICA",
         "img": "img/3085.jpg"
-    },
-    {
-        "id": "3086",
-        "nome": "PORTEIRA ECO ISOLANTE COM MOLA EXTERNA 3M PRETA ARAME",
-        "preco": 25.2294,
-        "categoria": "CERCA ELETRICA",
-        "img": "img/3086.jpg"
     },
     {
         "id": "3087",
@@ -11333,13 +8680,6 @@
         "img": "img/3093.jpg"
     },
     {
-        "id": "31",
-        "nome": "BISTEDOG ADULTOS 23KG",
-        "preco": 120.000000001,
-        "categoria": "RACAO DE CACHORRO",
-        "img": "img/31.jpg"
-    },
-    {
         "id": "310",
         "nome": "PRATIGI BEZERRAS 18 40KG",
         "preco": 122.94246,
@@ -11380,20 +8720,6 @@
         "preco": 12.8925,
         "categoria": "MEDICAMENTO",
         "img": "img/3109.jpg"
-    },
-    {
-        "id": "3110",
-        "nome": "MAGHORSE PASTA PLUS 10% 33G",
-        "preco": 18.873,
-        "categoria": "MEDICAMENTO",
-        "img": "img/3110.jpg"
-    },
-    {
-        "id": "3111",
-        "nome": "ETIMAG OTO SEPTIC 100ML",
-        "preco": 25.228,
-        "categoria": "PRODUTOS PET",
-        "img": "img/3111.jpg"
     },
     {
         "id": "3112",
@@ -11459,32 +8785,11 @@
         "img": "img/312.jpg"
     },
     {
-        "id": "3120",
-        "nome": "FACAO DE MATO CACAUEIRO 14 3 LISTRAS BELLOTTO",
-        "preco": 75.964499999,
-        "categoria": "FERRAMENTA",
-        "img": "img/3120.jpg"
-    },
-    {
-        "id": "3121",
-        "nome": "FACAO DE MATO CACAUEIRO 16 3 LISTRAS BELLOTTO",
-        "preco": 79.0284,
-        "categoria": "FERRAMENTA",
-        "img": "img/3121.jpg"
-    },
-    {
         "id": "3122",
         "nome": "FACAO DE MATO CACAUEIRO 18 3 LISTRAS BELLOTTO",
         "preco": 82.2782,
         "categoria": "FERRAMENTA",
         "img": "img/3122.jpg"
-    },
-    {
-        "id": "3123",
-        "nome": "FACAO DE MATO CACAUEIRO 20 3 LISTRAS BELLOTTO",
-        "preco": 85.0172,
-        "categoria": "FERRAMENTA",
-        "img": "img/3123.jpg"
     },
     {
         "id": "3124",
@@ -11506,13 +8811,6 @@
         "preco": 93.3424,
         "categoria": "FERRAMENTA",
         "img": "img/3126.jpg"
-    },
-    {
-        "id": "3127",
-        "nome": "ANCINHO 14 DENTES BELLOTTO",
-        "preco": 18.0588,
-        "categoria": "FERRAMENTA",
-        "img": "img/3127.jpg"
     },
     {
         "id": "3128",
@@ -11555,27 +8853,6 @@
         "preco": 61.1398,
         "categoria": "FERRAMENTA",
         "img": "img/3133.jpg"
-    },
-    {
-        "id": "3134",
-        "nome": "ENXADAO LARGO 2,5 BELLOTTO",
-        "preco": 63.3218,
-        "categoria": "FERRAMENTA",
-        "img": "img/3134.jpg"
-    },
-    {
-        "id": "3135",
-        "nome": "ENXADAO ESTREITO 2,5 BELLOTTO",
-        "preco": 61.7744,
-        "categoria": "FERRAMENTA",
-        "img": "img/3135.jpg"
-    },
-    {
-        "id": "3136",
-        "nome": "ENXADAO ESTREITO 3,0L BELLOTTO",
-        "preco": 63.8016,
-        "categoria": "FERRAMENTA",
-        "img": "img/3136.jpg"
     },
     {
         "id": "3137",
@@ -11674,13 +8951,6 @@
         "preco": 11.004,
         "categoria": "ACESSORIOS",
         "img": "img/3150.jpg"
-    },
-    {
-        "id": "3151",
-        "nome": "MANGUEIRA IRRIGACAO TIPO 1 100 M RL/100 MTS",
-        "preco": 138.0,
-        "categoria": "ACESSORIOS",
-        "img": "img/3151.jpg"
     },
     {
         "id": "3152",
@@ -11802,27 +9072,6 @@
         "img": "img/3173.jpg"
     },
     {
-        "id": "3174",
-        "nome": "WELLPET 200 MG 10,1 A 20 KG",
-        "preco": 76.482,
-        "categoria": "PRODUTOS PET",
-        "img": "img/3174.jpg"
-    },
-    {
-        "id": "3175",
-        "nome": "WELLPET 400 MG 20,1 A 40 KG",
-        "preco": 87.750512225,
-        "categoria": "PRODUTOS PET",
-        "img": "img/3175.jpg"
-    },
-    {
-        "id": "3176",
-        "nome": "WELLPET 45 MG 2 A 4,5 KG",
-        "preco": 51.702,
-        "categoria": "PRODUTOS PET",
-        "img": "img/3176.jpg"
-    },
-    {
         "id": "3177",
         "nome": "WELLPET 560 MG 40,1 A 56 KG",
         "preco": 94.457999999,
@@ -11842,13 +9091,6 @@
         "preco": 96.442552153,
         "categoria": "MEDICAMENTO",
         "img": "img/3179.jpg"
-    },
-    {
-        "id": "318",
-        "nome": "CALFON ORAL 350 ML",
-        "preco": 62.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/318.jpg"
     },
     {
         "id": "3180",
@@ -11872,13 +9114,6 @@
         "img": "img/3183.jpg"
     },
     {
-        "id": "3184",
-        "nome": "MEGA EQUI 50 ML",
-        "preco": 146.106899999,
-        "categoria": "MEDICAMENTO",
-        "img": "img/3184.jpg"
-    },
-    {
         "id": "3185",
         "nome": "IVERVET CAES 30KG 6MG",
         "preco": 18.3135,
@@ -11891,20 +9126,6 @@
         "preco": 40.572,
         "categoria": "AGRICULTURA",
         "img": "img/3186.jpg"
-    },
-    {
-        "id": "3187",
-        "nome": "CARRO DE MAO METALFORTE M16 AZUL P3.5",
-        "preco": 391.859999998,
-        "categoria": "CARRO DE MAO",
-        "img": "img/3187.jpg"
-    },
-    {
-        "id": "3188",
-        "nome": "BENZOCREOL 1000 ML",
-        "preco": 42.35,
-        "categoria": "DOMISSANITARIO",
-        "img": "img/3188.jpg"
     },
     {
         "id": "3189",
@@ -11954,20 +9175,6 @@
         "preco": 29.9,
         "categoria": "MEDICAMENTO",
         "img": "img/3198.jpg"
-    },
-    {
-        "id": "3199",
-        "nome": "FARINHA DE CALCIO 1KG INDUBRAS",
-        "preco": 12.6225,
-        "categoria": "MEDICAMENTO",
-        "img": "img/3199.jpg"
-    },
-    {
-        "id": "320",
-        "nome": "CANEX ORIGINAL",
-        "preco": 6.0,
-        "categoria": "PRODUTOS PET",
-        "img": "img/320.jpg"
     },
     {
         "id": "3200",
@@ -12131,13 +9338,6 @@
         "img": "img/3231.jpg"
     },
     {
-        "id": "3232",
-        "nome": "MOSCAWAY 10 WG 100G",
-        "preco": 72.015,
-        "categoria": "DOMISSANITARIO",
-        "img": "img/3232.jpg"
-    },
-    {
         "id": "3233",
         "nome": "EQUIMECTIN 12G",
         "preco": 12.5348,
@@ -12180,20 +9380,6 @@
         "img": "img/3238.jpg"
     },
     {
-        "id": "3239",
-        "nome": "FITA ELETROPLASTICA BRANCA 20MM ROLO 200M (33X6)",
-        "preco": 235.871999999,
-        "categoria": "CERCA ELETRICA",
-        "img": "img/3239.jpg"
-    },
-    {
-        "id": "324",
-        "nome": "FIPROLEX 0,67 ML ATE 10 KG",
-        "preco": 20.0,
-        "categoria": "PRODUTOS PET",
-        "img": "img/324.jpg"
-    },
-    {
         "id": "3240",
         "nome": "PORTEIRA ISOLANTE COM MOLA EXTERNA 3M PRETA ARAME  2M",
         "preco": 36.834,
@@ -12229,13 +9415,6 @@
         "img": "img/3248.jpg"
     },
     {
-        "id": "325",
-        "nome": "FIPROLEX 1,34 ML DE 11 A 20 KG",
-        "preco": 30.0,
-        "categoria": "PRODUTOS PET",
-        "img": "img/325.jpg"
-    },
-    {
         "id": "3250",
         "nome": "A.D.E PLUS GADO LIMPO 1KG",
         "preco": 12.123,
@@ -12264,20 +9443,6 @@
         "img": "img/3253.jpg"
     },
     {
-        "id": "326",
-        "nome": "FIPROLEX 2,68 ML DE 21 A 40 KG",
-        "preco": 28.0,
-        "categoria": "PRODUTOS PET",
-        "img": "img/326.jpg"
-    },
-    {
-        "id": "327",
-        "nome": "FIPROLEX 4,02 ML ACIMA 40 KG",
-        "preco": 34.0,
-        "categoria": "PRODUTOS PET",
-        "img": "img/327.jpg"
-    },
-    {
         "id": "328",
         "nome": "GIARDYPET C/ 04 COMP",
         "preco": 23.0,
@@ -12292,25 +9457,11 @@
         "img": "img/329.jpg"
     },
     {
-        "id": "330",
-        "nome": "IBATRIM INJ 15 ML",
-        "preco": 16.0,
-        "categoria": "PRODUTOS PET",
-        "img": "img/330.jpg"
-    },
-    {
         "id": "331",
         "nome": "IBATRIM ORAL CAES/GATOS 20 ML",
         "preco": 35.0,
         "categoria": "PRODUTOS PET",
         "img": "img/331.jpg"
-    },
-    {
-        "id": "332",
-        "nome": "VACINA MULTI-DOG DOSE",
-        "preco": 15.0,
-        "categoria": "PRODUTOS PET",
-        "img": "img/332.jpg"
     },
     {
         "id": "333",
@@ -12383,13 +9534,6 @@
         "img": "img/342.jpg"
     },
     {
-        "id": "343",
-        "nome": "ACATAK POUR ON 1 L",
-        "preco": 153.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/343.jpg"
-    },
-    {
         "id": "344",
         "nome": "TETRAPEN PPU 50 ML",
         "preco": 32.0,
@@ -12409,27 +9553,6 @@
         "preco": 110.0,
         "categoria": "RACAO DE CACHORRO",
         "img": "img/347.jpg"
-    },
-    {
-        "id": "35",
-        "nome": "OPEN SEA DOG FILHOTES CARNE 25KG",
-        "preco": 189.000000001,
-        "categoria": "RACAO DE CACHORRO",
-        "img": "img/35.jpg"
-    },
-    {
-        "id": "350",
-        "nome": "GATAN SEM CORANTES 15KG ADIMAX",
-        "preco": 105.000000001,
-        "categoria": "RACAO DE GATO",
-        "img": "img/350.jpg"
-    },
-    {
-        "id": "351",
-        "nome": "GATAN MIX 15KG ADIMAX",
-        "preco": 105.000000001,
-        "categoria": "RACAO DE GATO",
-        "img": "img/351.jpg"
     },
     {
         "id": "352",
@@ -12460,34 +9583,6 @@
         "img": "img/357.jpg"
     },
     {
-        "id": "358",
-        "nome": "CASCO e PELO TURBO 1 LT",
-        "preco": 317.000000001,
-        "categoria": "MEDICAMENTO",
-        "img": "img/358.jpg"
-    },
-    {
-        "id": "36",
-        "nome": "OPEN SEA DOG ADULTO CARNE 25KG",
-        "preco": 155.000000001,
-        "categoria": "RACAO DE CACHORRO",
-        "img": "img/36.jpg"
-    },
-    {
-        "id": "361",
-        "nome": "O2 FITOFLU TURBO 500 ML",
-        "preco": 267.999999999,
-        "categoria": "MEDICAMENTO",
-        "img": "img/361.jpg"
-    },
-    {
-        "id": "362",
-        "nome": "EQUINO SE 1 KG",
-        "preco": 46.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/362.jpg"
-    },
-    {
         "id": "363",
         "nome": "FENILBUTAZONA 100ML",
         "preco": 47.0,
@@ -12514,20 +9609,6 @@
         "preco": 33.0,
         "categoria": "MEDICAMENTO",
         "img": "img/368.jpg"
-    },
-    {
-        "id": "37",
-        "nome": "OPEN SEA DOG ADULTO CHIPS 25KG",
-        "preco": 155.0,
-        "categoria": "RACAO DE CACHORRO",
-        "img": "img/37.jpg"
-    },
-    {
-        "id": "370",
-        "nome": "COMPPLET MAX 2KG",
-        "preco": 125.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/370.jpg"
     },
     {
         "id": "371",
@@ -12591,13 +9672,6 @@
         "preco": 125.999999999,
         "categoria": "MEDICAMENTO",
         "img": "img/379.jpg"
-    },
-    {
-        "id": "38",
-        "nome": "PERRUS FILHOTE LEITE 15KG",
-        "preco": 135.0,
-        "categoria": "RACAO DE CACHORRO",
-        "img": "img/38.jpg"
     },
     {
         "id": "380",
@@ -12677,39 +9751,11 @@
         "img": "img/4.jpg"
     },
     {
-        "id": "41",
-        "nome": "PERRUS CAT CASTRADO 10.1KG",
-        "preco": 119.999999999,
-        "categoria": "RACAO DE GATO",
-        "img": "img/41.jpg"
-    },
-    {
-        "id": "42",
-        "nome": "PERRUS CAT FILHOTES FRANGO E LEITE 10.1",
-        "preco": 120.0,
-        "categoria": "RACAO DE GATO",
-        "img": "img/42.jpg"
-    },
-    {
         "id": "429",
         "nome": "GLICOSOL HORSE 1L",
         "preco": 100.48,
         "categoria": "MEDICAMENTO",
         "img": "img/429.jpg"
-    },
-    {
-        "id": "43",
-        "nome": "PERRUS CAT MIX DE CARNES 10.1KG",
-        "preco": 108.999999999,
-        "categoria": "RACAO DE GATO",
-        "img": "img/43.jpg"
-    },
-    {
-        "id": "430",
-        "nome": "LAVIZ MO HORSE 40GR",
-        "preco": 36.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/430.jpg"
     },
     {
         "id": "431",
@@ -12747,13 +9793,6 @@
         "img": "img/435.jpg"
     },
     {
-        "id": "436",
-        "nome": "SHAMPOO BANHEX EQUUS COCO 5L",
-        "preco": 120.0,
-        "categoria": "PRODUTOS PET",
-        "img": "img/436.jpg"
-    },
-    {
         "id": "437",
         "nome": "GELOVET GEL 300G",
         "preco": 30.60322816,
@@ -12775,25 +9814,11 @@
         "img": "img/439.jpg"
     },
     {
-        "id": "44",
-        "nome": "PERRUS RACAS PEQUENAS ADULTO 15KG",
-        "preco": 127.0,
-        "categoria": "RACAO DE CACHORRO",
-        "img": "img/44.jpg"
-    },
-    {
         "id": "440",
         "nome": "SHAMPOO BANHEX EQUUS CITRONELA 1L",
         "preco": 36.0,
         "categoria": "PRODUTOS PET",
         "img": "img/440.jpg"
-    },
-    {
-        "id": "441",
-        "nome": "SHAMPOO BANHEX EQUUS CITRONELA 5L",
-        "preco": 125.999999999,
-        "categoria": "PRODUTOS PET",
-        "img": "img/441.jpg"
     },
     {
         "id": "442",
@@ -12810,13 +9835,6 @@
         "img": "img/444.jpg"
     },
     {
-        "id": "445",
-        "nome": "COMEDOURO AVES CALHA GALV 30CM ZATTI",
-        "preco": 8.0,
-        "categoria": "ACESSORIOS",
-        "img": "img/445.jpg"
-    },
-    {
         "id": "446",
         "nome": "COMEDOURO AVES CALHA GALV 50CM ZATTI",
         "preco": 12.0,
@@ -12824,25 +9842,11 @@
         "img": "img/446.jpg"
     },
     {
-        "id": "447",
-        "nome": "IVERMECTINA 1% 500ML INJ OURO FINO",
-        "preco": 89.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/447.jpg"
-    },
-    {
         "id": "449",
         "nome": "MARTELO CABO DE MADEIRA",
         "preco": 45.0,
         "categoria": "FERRAMENTA",
         "img": "img/449.jpg"
-    },
-    {
-        "id": "45",
-        "nome": "PERRUS ADULTO CARNE CHIPS 15KG",
-        "preco": 100.0,
-        "categoria": "RACAO DE CACHORRO",
-        "img": "img/45.jpg"
     },
     {
         "id": "451",
@@ -12887,32 +9891,11 @@
         "img": "img/458.jpg"
     },
     {
-        "id": "459",
-        "nome": "ANCINHO ACO 14DT TRAMONTINA",
-        "preco": 22.0,
-        "categoria": "FERRAMENTA",
-        "img": "img/459.jpg"
-    },
-    {
         "id": "460",
         "nome": "ANTITOXICO INJ 100ML UCB VET",
         "preco": 23.5,
         "categoria": "MEDICAMENTO",
         "img": "img/460.jpg"
-    },
-    {
-        "id": "461",
-        "nome": "ASPERSIN CARRAPATICIDA 17ML BIOGENESIS",
-        "preco": 5.0,
-        "categoria": "DOMISSANITARIO",
-        "img": "img/461.jpg"
-    },
-    {
-        "id": "462",
-        "nome": "BALDE CONCR/LEITE PLAST 12L C/ BICO BCO TERRAPLAST",
-        "preco": 22.0,
-        "categoria": "ACESSORIOS",
-        "img": "img/462.jpg"
     },
     {
         "id": "463",
@@ -12955,13 +9938,6 @@
         "preco": 46.0,
         "categoria": "CALCADOS",
         "img": "img/471.jpg"
-    },
-    {
-        "id": "472",
-        "nome": "CALCIOTRAT ORAL 250ML SANTA MARINA",
-        "preco": 18.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/472.jpg"
     },
     {
         "id": "473",
@@ -13041,27 +10017,6 @@
         "img": "img/485.jpg"
     },
     {
-        "id": "486",
-        "nome": "GLICOVET GOLD 30ML VETBRAS",
-        "preco": 9.5,
-        "categoria": "MEDICAMENTO",
-        "img": "img/486.jpg"
-    },
-    {
-        "id": "487",
-        "nome": "HEMOPET GOLD 30ML VETBRAS",
-        "preco": 17.5,
-        "categoria": "PRODUTOS PET",
-        "img": "img/487.jpg"
-    },
-    {
-        "id": "488",
-        "nome": "ISCA CARAMUJO/LESMA MOLUSTAREX 250G DOMINUS",
-        "preco": 13.5,
-        "categoria": "DOMISSANITARIO",
-        "img": "img/488.jpg"
-    },
-    {
         "id": "489",
         "nome": "K-OTHRINE SC 30ML",
         "preco": 15.0,
@@ -13090,13 +10045,6 @@
         "img": "img/492.jpg"
     },
     {
-        "id": "493",
-        "nome": "MATA BICHEIRA AEROCID 200ML",
-        "preco": 15.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/493.jpg"
-    },
-    {
         "id": "495",
         "nome": "PA QUADRADA N 3 C/CB",
         "preco": 45.0,
@@ -13116,13 +10064,6 @@
         "preco": 12.0,
         "categoria": "MEDICAMENTO",
         "img": "img/497.jpg"
-    },
-    {
-        "id": "498",
-        "nome": "PULVERIZADOR DE COMPRESSAO PREVIA 1,5L DUCAMPO",
-        "preco": 32.0,
-        "categoria": "ACESSORIOS",
-        "img": "img/498.jpg"
     },
     {
         "id": "500",
@@ -13172,13 +10113,6 @@
         "preco": 23.0,
         "categoria": "MEDICAMENTO",
         "img": "img/507.jpg"
-    },
-    {
-        "id": "508",
-        "nome": "UNGUENTO FRIEZOL 250G PINUS",
-        "preco": 19.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/508.jpg"
     },
     {
         "id": "510",
@@ -13391,13 +10325,6 @@
         "img": "img/546.jpg"
     },
     {
-        "id": "549",
-        "nome": "PULVERIZADOR COSTAL 20L PJH JACTO",
-        "preco": 474.999999998,
-        "categoria": "ACESSORIOS",
-        "img": "img/549.jpg"
-    },
-    {
         "id": "551",
         "nome": "SORO BIOXAN  500ML VALLEE",
         "preco": 29.0,
@@ -13410,13 +10337,6 @@
         "preco": 13.0,
         "categoria": "MEDICAMENTO",
         "img": "img/552.jpg"
-    },
-    {
-        "id": "553",
-        "nome": "MODIFICADOR ORGANICO 500ML BRAVET",
-        "preco": 50.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/553.jpg"
     },
     {
         "id": "554",
@@ -13433,25 +10353,11 @@
         "img": "img/555.jpg"
     },
     {
-        "id": "556",
-        "nome": "ZULETEL ORAL 10% 250 ML",
-        "preco": 59.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/556.jpg"
-    },
-    {
         "id": "557",
         "nome": "IVERMIC T PASTA ORAL",
         "preco": 16.0,
         "categoria": "MEDICAMENTO",
         "img": "img/557.jpg"
-    },
-    {
-        "id": "558",
-        "nome": "VERMIC TOTAL 01 CP",
-        "preco": 2.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/558.jpg"
     },
     {
         "id": "559",
@@ -13473,13 +10379,6 @@
         "preco": 210.0,
         "categoria": "CARRO DE MAO",
         "img": "img/562.jpg"
-    },
-    {
-        "id": "563",
-        "nome": "CAPITAO DOG SABOR CARNE 14KG ADIMAX",
-        "preco": 79.0,
-        "categoria": "RACAO DE CACHORRO",
-        "img": "img/563.jpg"
     },
     {
         "id": "564",
@@ -13517,13 +10416,6 @@
         "img": "img/572.jpg"
     },
     {
-        "id": "573",
-        "nome": "PEDRA AFIAR DUPL FACE 6 MILLA",
-        "preco": 7.5,
-        "categoria": "FERRAMENTA",
-        "img": "img/573.jpg"
-    },
-    {
         "id": "574",
         "nome": "BEBEDOURO BOVINO AUTOM C/ BOIA ALVORADA",
         "preco": 75.0,
@@ -13552,25 +10444,11 @@
         "img": "img/578.jpg"
     },
     {
-        "id": "579",
-        "nome": "FARINHA DE CALCIO 1KG CALBOS",
-        "preco": 12.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/579.jpg"
-    },
-    {
         "id": "58",
         "nome": "CANTO NATURAL TRITURADA C/ DENDE 500G",
         "preco": 5.0,
         "categoria": "RACAO DE PASSAROS",
         "img": "img/58.jpg"
-    },
-    {
-        "id": "580",
-        "nome": "FERRO 1L SANTA MARINA",
-        "preco": 53.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/580.jpg"
     },
     {
         "id": "581",
@@ -13606,13 +10484,6 @@
         "preco": 26.0,
         "categoria": "MEDICAMENTO",
         "img": "img/585.jpg"
-    },
-    {
-        "id": "586",
-        "nome": "PEDRA AFIAR DUPL FACE 15CM CARBORUNDUM",
-        "preco": 20.0,
-        "categoria": "ACESSORIOS",
-        "img": "img/586.jpg"
     },
     {
         "id": "587",
@@ -13720,13 +10591,6 @@
         "img": "img/605.jpg"
     },
     {
-        "id": "606",
-        "nome": "D-500 DIPIRONA INJ 50ML",
-        "preco": 29.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/606.jpg"
-    },
-    {
         "id": "607",
         "nome": "FARMAZOLE ORAL 1L 1,9% ALBENDAZOLE",
         "preco": 90.0,
@@ -13748,13 +10612,6 @@
         "img": "img/611.jpg"
     },
     {
-        "id": "612",
-        "nome": "IODO 10% 100ML PINUS",
-        "preco": 30.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/612.jpg"
-    },
-    {
         "id": "614",
         "nome": "VETOCOC 4G SM",
         "preco": 4.5,
@@ -13767,13 +10624,6 @@
         "preco": 32.0,
         "categoria": "MEDICAMENTO",
         "img": "img/615.jpg"
-    },
-    {
-        "id": "616",
-        "nome": "MAXICAN GEL 30G DIPY",
-        "preco": 105.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/616.jpg"
     },
     {
         "id": "617",
@@ -13825,20 +10675,6 @@
         "img": "img/623.jpg"
     },
     {
-        "id": "624",
-        "nome": "TERMIDOR 25 CE 250ML",
-        "preco": 54.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/624.jpg"
-    },
-    {
-        "id": "625",
-        "nome": "TENOPA 250ML",
-        "preco": 60.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/625.jpg"
-    },
-    {
         "id": "626",
         "nome": "ICON 10PM 25G",
         "preco": 21.288881543,
@@ -13881,25 +10717,11 @@
         "img": "img/67.jpg"
     },
     {
-        "id": "68",
-        "nome": "SARNAVET LIQUIDO 30ML",
-        "preco": 11.0,
-        "categoria": "PRODUTOS PET",
-        "img": "img/68.jpg"
-    },
-    {
         "id": "689",
         "nome": "ALANTOL BISNAGA 60G",
         "preco": 86.0,
         "categoria": "MEDICAMENTO",
         "img": "img/689.jpg"
-    },
-    {
-        "id": "69",
-        "nome": "ACEPROVETS 20ML",
-        "preco": 32.0,
-        "categoria": "PRODUTOS PET",
-        "img": "img/69.jpg"
     },
     {
         "id": "690",
@@ -13972,13 +10794,6 @@
         "img": "img/7.jpg"
     },
     {
-        "id": "70",
-        "nome": "PROVEX VERMIFUGO CAES C/4 COMPR",
-        "preco": 8.25,
-        "categoria": "PRODUTOS PET",
-        "img": "img/70.jpg"
-    },
-    {
         "id": "700",
         "nome": "ORGANEW 1KG",
         "preco": 76.0,
@@ -13993,25 +10808,11 @@
         "img": "img/701.jpg"
     },
     {
-        "id": "703",
-        "nome": "CUPINICIDA 400 CE KELLDRIN 1L",
-        "preco": 48.0,
-        "categoria": "DOMISSANITARIO",
-        "img": "img/703.jpg"
-    },
-    {
         "id": "705",
         "nome": "PENCIL PRONTO 25ML",
         "preco": 16.0,
         "categoria": "MEDICAMENTO",
         "img": "img/705.jpg"
-    },
-    {
-        "id": "706",
-        "nome": "SABOROSA DOG CARNE SC 15KG",
-        "preco": 75.0,
-        "categoria": "RACAO DE CACHORRO",
-        "img": "img/706.jpg"
     },
     {
         "id": "707",
@@ -14028,20 +10829,6 @@
         "img": "img/708.jpg"
     },
     {
-        "id": "71",
-        "nome": "UNGUENTO LCR SIMOES 40GR",
-        "preco": 10.5,
-        "categoria": "MEDICAMENTO",
-        "img": "img/71.jpg"
-    },
-    {
-        "id": "711",
-        "nome": "PLACENCAL OCITOCINA 10ML CALBOS",
-        "preco": 7.5,
-        "categoria": "MEDICAMENTO",
-        "img": "img/711.jpg"
-    },
-    {
         "id": "712",
         "nome": "SEDACOL 200ML",
         "preco": 47.0,
@@ -14049,25 +10836,11 @@
         "img": "img/712.jpg"
     },
     {
-        "id": "713",
-        "nome": "MAXICAN INJ 2% 50ML OF",
-        "preco": 115.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/713.jpg"
-    },
-    {
         "id": "714",
         "nome": "TRIBRISSEN SULFA INJ 15ML",
         "preco": 19.9,
         "categoria": "MEDICAMENTO",
         "img": "img/714.jpg"
-    },
-    {
-        "id": "715",
-        "nome": "ZALIX 10ML",
-        "preco": 36.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/715.jpg"
     },
     {
         "id": "716",
@@ -14084,25 +10857,11 @@
         "img": "img/717.jpg"
     },
     {
-        "id": "718",
-        "nome": "APYRON 100ML",
-        "preco": 44.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/718.jpg"
-    },
-    {
         "id": "719",
         "nome": "DEXAFLAN 2.0MG 100ML DXMI",
         "preco": 32.0,
         "categoria": "MEDICAMENTO",
         "img": "img/719.jpg"
-    },
-    {
-        "id": "72",
-        "nome": "SABONETE ENXOFRE SIMOES 80GR",
-        "preco": 5.5,
-        "categoria": "PRODUTOS PET",
-        "img": "img/72.jpg"
     },
     {
         "id": "720",
@@ -14140,13 +10899,6 @@
         "img": "img/724.jpg"
     },
     {
-        "id": "725",
-        "nome": "BOTA VULCABRAS C MED S/F 45/46 PTA/AML",
-        "preco": 46.0,
-        "categoria": "CALCADOS",
-        "img": "img/725.jpg"
-    },
-    {
         "id": "726",
         "nome": "BOTA BRANCA MEDIA 39",
         "preco": 56.0,
@@ -14154,25 +10906,11 @@
         "img": "img/726.jpg"
     },
     {
-        "id": "727",
-        "nome": "BOTA BRANCA MEDIA 40",
-        "preco": 56.0,
-        "categoria": "CALCADOS",
-        "img": "img/727.jpg"
-    },
-    {
         "id": "728",
         "nome": "BOTA BRANCA MEDIA 41",
         "preco": 56.0,
         "categoria": "CALCADOS",
         "img": "img/728.jpg"
-    },
-    {
-        "id": "729",
-        "nome": "BOTA BRANCA MEDIA 42",
-        "preco": 56.0,
-        "categoria": "CALCADOS",
-        "img": "img/729.jpg"
     },
     {
         "id": "73",
@@ -14194,13 +10932,6 @@
         "preco": 19.0,
         "categoria": "ACESSORIOS",
         "img": "img/732.jpg"
-    },
-    {
-        "id": "733",
-        "nome": "LONA DUPLA FACE 8X100 SILOTUBO",
-        "preco": 18.5,
-        "categoria": "ACESSORIOS",
-        "img": "img/733.jpg"
     },
     {
         "id": "734",
@@ -14231,13 +10962,6 @@
         "img": "img/737.jpg"
     },
     {
-        "id": "738",
-        "nome": "VIRBAMEC PLATINUM 3,15% FR 500ML",
-        "preco": 225.000000001,
-        "categoria": "MEDICAMENTO",
-        "img": "img/738.jpg"
-    },
-    {
         "id": "74",
         "nome": "THUYA AVICOLA SIMOES 90ML",
         "preco": 22.0,
@@ -14250,13 +10974,6 @@
         "preco": 27.5,
         "categoria": "MEDICAMENTO",
         "img": "img/740.jpg"
-    },
-    {
-        "id": "746",
-        "nome": "BISTEDOG FILHOTES 15KG",
-        "preco": 105.0,
-        "categoria": "RACAO DE CACHORRO",
-        "img": "img/746.jpg"
     },
     {
         "id": "747",
@@ -14273,39 +10990,11 @@
         "img": "img/748.jpg"
     },
     {
-        "id": "75",
-        "nome": "DOXI PRO 50MG",
-        "preco": 19.5,
-        "categoria": "MEDICAMENTO",
-        "img": "img/75.jpg"
-    },
-    {
         "id": "751",
         "nome": "MASTERFOS CAPRINO 70 10KG",
         "preco": 63.392647,
         "categoria": "SAL MINERAL",
         "img": "img/751.jpg"
-    },
-    {
-        "id": "76",
-        "nome": "DOXI PRO 100MG",
-        "preco": 22.9,
-        "categoria": "MEDICAMENTO",
-        "img": "img/76.jpg"
-    },
-    {
-        "id": "762",
-        "nome": "BOVIFORT RF 500ML VILAVET",
-        "preco": 102.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/762.jpg"
-    },
-    {
-        "id": "765",
-        "nome": "BOVIFORT RF 200ML VILAVET",
-        "preco": 35.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/765.jpg"
     },
     {
         "id": "766",
@@ -14336,13 +11025,6 @@
         "img": "img/769.jpg"
     },
     {
-        "id": "77",
-        "nome": "ENROFLOXACINA 50ML",
-        "preco": 21.25,
-        "categoria": "MEDICAMENTO",
-        "img": "img/77.jpg"
-    },
-    {
         "id": "770",
         "nome": "DOBRADICA PORTEIRA C.03",
         "preco": 35.0,
@@ -14362,20 +11044,6 @@
         "preco": 80.0,
         "categoria": "FERRAMENTA",
         "img": "img/772.jpg"
-    },
-    {
-        "id": "773",
-        "nome": "DOBRADICA PORTEIRA C.08",
-        "preco": 96.0,
-        "categoria": "FERRAMENTA",
-        "img": "img/773.jpg"
-    },
-    {
-        "id": "774",
-        "nome": "MALATHION KELLTHION 500 1LT",
-        "preco": 37.5,
-        "categoria": "DOMISSANITARIO",
-        "img": "img/774.jpg"
     },
     {
         "id": "775",
@@ -14532,20 +11200,6 @@
         "img": "img/797.jpg"
     },
     {
-        "id": "799",
-        "nome": "PLACENTINA OCITOCINA 10ML",
-        "preco": 8.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/799.jpg"
-    },
-    {
-        "id": "8",
-        "nome": "SAL NUTRONMILK LEITE 20KG",
-        "preco": 143.866667,
-        "categoria": "SAL MINERAL",
-        "img": "img/8.jpg"
-    },
-    {
         "id": "80",
         "nome": "VERMEX PLUS 20ML",
         "preco": 19.0,
@@ -14602,13 +11256,6 @@
         "img": "img/807.jpg"
     },
     {
-        "id": "808",
-        "nome": "MELACO EM PO SC 20KG",
-        "preco": 110.0,
-        "categoria": "MATERIA PRIMA",
-        "img": "img/808.jpg"
-    },
-    {
         "id": "809",
         "nome": "LEVEDURA SECA SC 25KG",
         "preco": 116.500000001,
@@ -14637,13 +11284,6 @@
         "img": "img/811.jpg"
     },
     {
-        "id": "812",
-        "nome": "TELA PLASTICA GALINHEIRO 1,50X50M LEVE",
-        "preco": 369.0,
-        "categoria": "ACESSORIOS",
-        "img": "img/812.jpg"
-    },
-    {
         "id": "813",
         "nome": "FACAO CANA CB MAD",
         "preco": 55.0,
@@ -14665,13 +11305,6 @@
         "img": "img/818.jpg"
     },
     {
-        "id": "819",
-        "nome": "GRAO INTEIRO 40KG",
-        "preco": 157.4195,
-        "categoria": "RACAO DE RUMINANTES",
-        "img": "img/819.jpg"
-    },
-    {
         "id": "82",
         "nome": "TALFON TOP 1KG",
         "preco": 35.0,
@@ -14679,25 +11312,11 @@
         "img": "img/82.jpg"
     },
     {
-        "id": "820",
-        "nome": "CEF 50MG/ML SUS INJ 30 ML - AG",
-        "preco": 32.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/820.jpg"
-    },
-    {
         "id": "821",
         "nome": "FORTGAL PLUS 50 ML - AGENER",
         "preco": 59.0,
         "categoria": "MEDICAMENTO",
         "img": "img/821.jpg"
-    },
-    {
-        "id": "822",
-        "nome": "TERRACAM LA PLUS INJ 50 ML",
-        "preco": 22.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/822.jpg"
     },
     {
         "id": "823",
@@ -14791,13 +11410,6 @@
         "img": "img/835.jpg"
     },
     {
-        "id": "836",
-        "nome": "NUCLEO BOI VERDE REPRODUCAO 25KG",
-        "preco": 275.000000001,
-        "categoria": "SAL MINERAL",
-        "img": "img/836.jpg"
-    },
-    {
         "id": "837",
         "nome": "FOSBOVI 15 30KG",
         "preco": 145.000000001,
@@ -14831,20 +11443,6 @@
         "preco": 197.0,
         "categoria": "MEDICAMENTO",
         "img": "img/840.jpg"
-    },
-    {
-        "id": "841",
-        "nome": "OPEN SEA DOG ADULTO CORDEIRO 25KG",
-        "preco": 165.0,
-        "categoria": "RACAO DE CACHORRO",
-        "img": "img/841.jpg"
-    },
-    {
-        "id": "842",
-        "nome": "OPEN SEA CAT SUPER MIX 10.1KG",
-        "preco": 69.5,
-        "categoria": "RACAO DE GATO",
-        "img": "img/842.jpg"
     },
     {
         "id": "845",
@@ -14924,13 +11522,6 @@
         "img": "img/857.jpg"
     },
     {
-        "id": "858",
-        "nome": "TAITEC ORAL 200 ML",
-        "preco": 39.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/858.jpg"
-    },
-    {
         "id": "859",
         "nome": "SINCRONIZE 2ML",
         "preco": 27.0,
@@ -14943,13 +11534,6 @@
         "preco": 10.5,
         "categoria": "MEDICAMENTO",
         "img": "img/860.jpg"
-    },
-    {
-        "id": "861",
-        "nome": "SUPRAGOLD 1 L",
-        "preco": 78.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/861.jpg"
     },
     {
         "id": "862",
@@ -15008,32 +11592,11 @@
         "img": "img/869.jpg"
     },
     {
-        "id": "870",
-        "nome": "PENCIL PRONTO 100 ML",
-        "preco": 52.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/870.jpg"
-    },
-    {
-        "id": "871",
-        "nome": "ZOLVIX ORAL 1 LT",
-        "preco": 1080.000000001,
-        "categoria": "MEDICAMENTO",
-        "img": "img/871.jpg"
-    },
-    {
         "id": "872",
         "nome": "CALCIOTRAT ORAL 1L SANTA MARINA",
         "preco": 56.0,
         "categoria": "MEDICAMENTO",
         "img": "img/872.jpg"
-    },
-    {
-        "id": "873",
-        "nome": "FERRO ORAL 100ML SM",
-        "preco": 16.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/873.jpg"
     },
     {
         "id": "874",
@@ -15055,13 +11618,6 @@
         "preco": 57.0,
         "categoria": "MEDICAMENTO",
         "img": "img/876.jpg"
-    },
-    {
-        "id": "883",
-        "nome": "NURTURE LYT 1KG",
-        "preco": 25.0,
-        "categoria": "SAL MINERAL",
-        "img": "img/883.jpg"
     },
     {
         "id": "884",
@@ -15141,25 +11697,11 @@
         "img": "img/893.jpg"
     },
     {
-        "id": "894",
-        "nome": "ACATAK POUR ON 5 L",
-        "preco": 717.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/894.jpg"
-    },
-    {
         "id": "895",
         "nome": "AFASTE 480 GR",
         "preco": 87.0,
         "categoria": "DOMISSANITARIO",
         "img": "img/895.jpg"
-    },
-    {
-        "id": "90",
-        "nome": "RATICIDA ROSA/QUEIJO 25GR",
-        "preco": 1.5,
-        "categoria": "DOMISSANITARIO",
-        "img": "img/90.jpg"
     },
     {
         "id": "903",
@@ -15197,20 +11739,6 @@
         "img": "img/908.jpg"
     },
     {
-        "id": "909",
-        "nome": "BLOTROL 150ML ZOETIS",
-        "preco": 96.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/909.jpg"
-    },
-    {
-        "id": "910",
-        "nome": "MCC 1L ALPHA CIPER",
-        "preco": 52.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/910.jpg"
-    },
-    {
         "id": "911",
         "nome": "VERRUTRAT UCB 20ML",
         "preco": 27.0,
@@ -15223,13 +11751,6 @@
         "preco": 5.5,
         "categoria": "MEDICAMENTO",
         "img": "img/912.jpg"
-    },
-    {
-        "id": "913",
-        "nome": "MOXI DUO PASTA 9,6G DIPY",
-        "preco": 60.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/913.jpg"
     },
     {
         "id": "914",
@@ -15288,13 +11809,6 @@
         "img": "img/920.jpg"
     },
     {
-        "id": "921",
-        "nome": "MELOXICAM EQUINOS GEL 35G",
-        "preco": 125.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/921.jpg"
-    },
-    {
         "id": "922",
         "nome": "CAL-D-MIX LIQUIDO 1L",
         "preco": 144.999999999,
@@ -15314,13 +11828,6 @@
         "preco": 251.519099014,
         "categoria": "MEDICAMENTO",
         "img": "img/924.jpg"
-    },
-    {
-        "id": "925",
-        "nome": "BIO HOOF 500G",
-        "preco": 180.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/925.jpg"
     },
     {
         "id": "926",
@@ -15370,13 +11877,6 @@
         "preco": 45.0,
         "categoria": "MEDICAMENTO",
         "img": "img/932.jpg"
-    },
-    {
-        "id": "933",
-        "nome": "PODEROSO 25 CE 300ML KELLDRIN",
-        "preco": 89.0,
-        "categoria": "DOMISSANITARIO",
-        "img": "img/933.jpg"
     },
     {
         "id": "94",
@@ -15433,13 +11933,6 @@
         "preco": 12.0,
         "categoria": "DOMISSANITARIO",
         "img": "img/95.jpg"
-    },
-    {
-        "id": "950",
-        "nome": "ANTIDIARREICO 10G VALLEE",
-        "preco": 4.9,
-        "categoria": "MEDICAMENTO",
-        "img": "img/950.jpg"
     },
     {
         "id": "951",
@@ -15526,20 +12019,6 @@
         "img": "img/963.jpg"
     },
     {
-        "id": "964",
-        "nome": "ALICATE EM ACO INOX PARA CORTAR DENTE DE SUINOS",
-        "preco": 77.0,
-        "categoria": "ACESSORIOS",
-        "img": "img/964.jpg"
-    },
-    {
-        "id": "965",
-        "nome": "ARGOLA SELEIRO SERVI 80 MM EM ACO INOX",
-        "preco": 15.0,
-        "categoria": "ACESSORIOS",
-        "img": "img/965.jpg"
-    },
-    {
         "id": "966",
         "nome": "ALICATE EM ACO INOX PARA CORTAR RABO DE SUINOS",
         "preco": 52.0,
@@ -15596,13 +12075,6 @@
         "img": "img/972.jpg"
     },
     {
-        "id": "973",
-        "nome": "VIDRO SERVI 50 ML AUT. FLAMBADO EMB",
-        "preco": 12.0,
-        "categoria": "ACESSORIOS",
-        "img": "img/973.jpg"
-    },
-    {
         "id": "974",
         "nome": "JOGO DE EMBOLO SERVI 50 ML AUT.",
         "preco": 9.0,
@@ -15645,13 +12117,6 @@
         "img": "img/979.jpg"
     },
     {
-        "id": "98",
-        "nome": "MALATHION KELLTHION 500 100ML",
-        "preco": 12.0,
-        "categoria": "DOMISSANITARIO",
-        "img": "img/98.jpg"
-    },
-    {
         "id": "980",
         "nome": "RACAO SUINO CRESCIMENTO 40KG M.P",
         "preco": 95.0,
@@ -15678,20 +12143,6 @@
         "preco": 85.0,
         "categoria": "RACAO DE EQUINO",
         "img": "img/985.jpg"
-    },
-    {
-        "id": "986",
-        "nome": "REVIPLUS V INJ 50ML - AGENER",
-        "preco": 46.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/986.jpg"
-    },
-    {
-        "id": "987",
-        "nome": "POTEMIN B12 120 ML - VETBRAS",
-        "preco": 18.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/987.jpg"
     },
     {
         "id": "988",

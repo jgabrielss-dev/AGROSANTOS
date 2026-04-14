@@ -231,11 +231,11 @@
         "img": "img/3326.jpg"
     },
     {
-        "id": "3329",
-        "nome": "FERTILIZANTE NPK 12.10.18 SC 25KG",
-        "preco": 109.0,
+        "id": "3328",
+        "nome": "FERTILIZANTE NPK 04.14.08 SC 25KG",
+        "preco": 113.0,
         "categoria": "ADUBOS",
-        "img": "img/3329.jpg"
+        "img": "img/3328.jpg"
     },
     {
         "id": "3330",
@@ -663,6 +663,13 @@
         "preco": 85.0,
         "categoria": "MEDICAMENTO",
         "img": "img/3401.jpg"
+    },
+    {
+        "id": "3402",
+        "nome": "FERTILIZANTE NPK 12.06.18 SC 25KG",
+        "preco": 119.0,
+        "categoria": "ADUBOS",
+        "img": "img/3402.jpg"
     },
     {
         "id": "1",
@@ -4340,6 +4347,20 @@
         "img": "img/191.jpg"
     },
     {
+        "id": "1911",
+        "nome": "FERTILIZANTE NPK 15.15.18 SC 25 KG",
+        "preco": 162.0,
+        "categoria": "ADUBOS",
+        "img": "img/1911.jpg"
+    },
+    {
+        "id": "1912",
+        "nome": "FERTILIZANTE NPK 10.10.10 SC 25 KG",
+        "preco": 117.0,
+        "categoria": "ADUBOS",
+        "img": "img/1912.jpg"
+    },
+    {
         "id": "1914",
         "nome": "RACA CAT SELECT SALMAO CASTRADO 10,1 KG",
         "preco": 100.9004,
@@ -6790,13 +6811,6 @@
         "img": "img/2649.jpg"
     },
     {
-        "id": "265",
-        "nome": "SULFAMICINA ORAL 200ML",
-        "preco": 38.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/265.jpg"
-    },
-    {
         "id": "2650",
         "nome": "PERFURADOR SOLO 51,7CC 2T C/ BROCA KAWASHIMA",
         "preco": 1389.247999992,
@@ -7744,9 +7758,16 @@
     {
         "id": "2877",
         "nome": "MAGIC PET DOG PREMIUM CHIPS 25KG BRAZILIAN",
-        "preco": 161.1191,
+        "preco": 165.0,
         "categoria": "RACAO DE CACHORRO",
         "img": "img/2877.jpg"
+    },
+    {
+        "id": "2878",
+        "nome": "MAGIC PET DOG PREMIUM CARNE 25KG BRAZILIAN",
+        "preco": 155.0,
+        "categoria": "RACAO DE CACHORRO",
+        "img": "img/2878.jpg"
     },
     {
         "id": "2879",
@@ -7779,9 +7800,16 @@
     {
         "id": "2882",
         "nome": "PEDDY DOG FILHOTE 25KG BRAZILIAN",
-        "preco": 165.000000001,
+        "preco": 165.0,
         "categoria": "RACAO DE CACHORRO",
         "img": "img/2882.jpg"
+    },
+    {
+        "id": "2883",
+        "nome": "PEDDY DOG CARNE 15KG BRAZILIAN",
+        "preco": 75.0,
+        "categoria": "RACAO DE CACHORRO",
+        "img": "img/2883.jpg"
     },
     {
         "id": "2884",
@@ -7807,9 +7835,16 @@
     {
         "id": "2887",
         "nome": "CANISTER DOG FILHOTE CARNE, LEITE E CEREAIS 25KG BRAZ",
-        "preco": 199.15,
+        "preco": 185.0,
         "categoria": "RACAO DE CACHORRO",
         "img": "img/2887.jpg"
+    },
+    {
+        "id": "2888",
+        "nome": "PEDDY DOG CARNE 25KG BRAZILIAN",
+        "preco": 125.0,
+        "categoria": "RACAO DE CACHORRO",
+        "img": "img/2888.jpg"
     },
     {
         "id": "2889",
@@ -9758,6 +9793,13 @@
         "img": "img/429.jpg"
     },
     {
+        "id": "430",
+        "nome": "LAVIZ MO HORSE 40GR",
+        "preco": 36.0,
+        "categoria": "MEDICAMENTO",
+        "img": "img/430.jpg"
+    },
+    {
         "id": "431",
         "nome": "SUPRAFER 1L",
         "preco": 143.090690869,
@@ -9861,13 +9903,6 @@
         "preco": 6.0,
         "categoria": "MEDICAMENTO",
         "img": "img/452.jpg"
-    },
-    {
-        "id": "454",
-        "nome": "TESOURA PODA 08 TRAMONTINA",
-        "preco": 29.0,
-        "categoria": "FERRAMENTA",
-        "img": "img/454.jpg"
     },
     {
         "id": "455",

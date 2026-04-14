@@ -1,0 +1,1 @@
+Catálogo digital (v1). Projeto legado construído em HTML/JS com deploy manual via shell script. [DEPRECATED] - Atualmente sendo refatorado e migrado para uma arquitetura serverless com Next.js, AWS S3 e PostgreSQL (Links para os novos repositórios em breve).

@@ -2,14 +2,14 @@
     {
         "id": "3256",
         "nome": "TELA HEX 3'' PIAU F18 1,00X50M RL",
-        "preco": 555.0,
+        "preco": 554.999999999,
         "categoria": "ACESSORIOS",
         "img": "img/3256.jpg"
     },
     {
         "id": "3257",
         "nome": "APARADOR GRAMA 2,0AH 21V C/BATERIA UN",
-        "preco": 385.0,
+        "preco": 384.999999999,
         "categoria": "FERRAMENTA",
         "img": "img/3257.jpg"
     },
@@ -672,6 +672,20 @@
         "img": "img/3402.jpg"
     },
     {
+        "id": "3403",
+        "nome": "LESTER DOG ADULTO 15KG",
+        "preco": 75.0,
+        "categoria": "RACAO DE CACHORRO",
+        "img": "img/3403.jpg"
+    },
+    {
+        "id": "3404",
+        "nome": "UNIAO INTERNA 3/4 MANGUEIRA",
+        "preco": 1.0,
+        "categoria": "ACESSORIOS",
+        "img": "img/3404.jpg"
+    },
+    {
         "id": "1",
         "nome": "SAL PROBEEF NUTRIPEC BOIAO 25% PB 30KG",
         "preco": 117.333333,
@@ -772,7 +786,7 @@
     {
         "id": "1014",
         "nome": "FORCADO P/CASCALHO 10D C/C",
-        "preco": 145.0,
+        "preco": 145.000000001,
         "categoria": "FERRAMENTA",
         "img": "img/1014.jpg"
     },
@@ -821,7 +835,7 @@
     {
         "id": "1024",
         "nome": "COMEDOURO TUB ZINC 20KG",
-        "preco": 82.5,
+        "preco": 82.499999999,
         "categoria": "ACESSORIOS",
         "img": "img/1024.jpg"
     },
@@ -1969,7 +1983,7 @@
     {
         "id": "1261",
         "nome": "FOICE P/CAPIM DENTADA TRAMONTINA",
-        "preco": 33.6275,
+        "preco": 38.0,
         "categoria": "FERRAMENTA",
         "img": "img/1261.jpg"
     },
@@ -2646,6 +2660,13 @@
         "img": "img/1471.jpg"
     },
     {
+        "id": "1472",
+        "nome": "ENXADA NORTE 3,5 LBS TRAMONTINA",
+        "preco": 96.558,
+        "categoria": "FERRAMENTA",
+        "img": "img/1472.jpg"
+    },
+    {
         "id": "1473",
         "nome": "ENXADA LARGA 2,5 LBS",
         "preco": 51.565,
@@ -2837,7 +2858,7 @@
     {
         "id": "1537",
         "nome": "BOTA SEGURANCA N41",
-        "preco": 120.910000001,
+        "preco": 98.035098,
         "categoria": "CALCADOS",
         "img": "img/1537.jpg"
     },
@@ -3204,6 +3225,13 @@
         "preco": 310.0,
         "categoria": "ACESSORIOS",
         "img": "img/161.jpg"
+    },
+    {
+        "id": "1612",
+        "nome": "LONA CARRETEIRO 03X03",
+        "preco": 89.548957,
+        "categoria": "ACESSORIOS",
+        "img": "img/1612.jpg"
     },
     {
         "id": "1618",
@@ -3859,7 +3887,7 @@
     {
         "id": "177",
         "nome": "LONA PRETA 6X100 54 KG LONAX",
-        "preco": 9.0,
+        "preco": 10.015459,
         "categoria": "ACESSORIOS",
         "img": "img/177.jpg"
     },
@@ -4298,13 +4326,6 @@
         "img": "img/19.jpg"
     },
     {
-        "id": "190",
-        "nome": "BOTA SEGURANCA N44",
-        "preco": 75.0,
-        "categoria": "CALCADOS",
-        "img": "img/190.jpg"
-    },
-    {
         "id": "1900",
         "nome": "NEXGARD 4,1-10 KG (M) CP",
         "preco": 88.3765,
@@ -4342,7 +4363,7 @@
     {
         "id": "191",
         "nome": "BOTA SEGURANCA N42",
-        "preco": 119.0,
+        "preco": 98.035098,
         "categoria": "CALCADOS",
         "img": "img/191.jpg"
     },
@@ -4398,7 +4419,7 @@
     {
         "id": "192",
         "nome": "BOTA SEGURANCA N40",
-        "preco": 113.999999999,
+        "preco": 98.035099,
         "categoria": "CALCADOS",
         "img": "img/192.jpg"
     },
@@ -4627,6 +4648,13 @@
         "img": "img/2009.jpg"
     },
     {
+        "id": "2015",
+        "nome": "MARRETA C/CABO 5,000 KG JS 334 UN",
+        "preco": 174.51,
+        "categoria": "FERRAMENTA",
+        "img": "img/2015.jpg"
+    },
+    {
         "id": "2017",
         "nome": "VC SIMP TOP GARD 660MG C/4 CP",
         "preco": 6.6304,
@@ -4660,13 +4688,6 @@
         "preco": 3.5,
         "categoria": "PRODUTOS PET",
         "img": "img/2036.jpg"
-    },
-    {
-        "id": "2045",
-        "nome": "BOTA SEGURANCA N38",
-        "preco": 90.342,
-        "categoria": "CALCADOS",
-        "img": "img/2045.jpg"
     },
     {
         "id": "2046",
@@ -6041,13 +6062,6 @@
         "img": "img/2452.jpg"
     },
     {
-        "id": "2454",
-        "nome": "AVES VITAMINA JILO P/CANARIO 100G",
-        "preco": 3.0,
-        "categoria": "RACAO DE PASSAROS",
-        "img": "img/2454.jpg"
-    },
-    {
         "id": "2456",
         "nome": "MELOXINEW GEL 35G",
         "preco": 85.0,
@@ -6158,13 +6172,6 @@
         "preco": 87.034200001,
         "categoria": "CALCADOS",
         "img": "img/2472.jpg"
-    },
-    {
-        "id": "2477",
-        "nome": "EVOLUT CAT ATUM E SALMAO 10,1 KG",
-        "preco": 88.117600001,
-        "categoria": "RACAO DE GATO",
-        "img": "img/2477.jpg"
     },
     {
         "id": "2478",
@@ -6594,13 +6601,6 @@
         "img": "img/2598.jpg"
     },
     {
-        "id": "2599",
-        "nome": "PERFORMANCE ATLETA 30KG INTEGRAL",
-        "preco": 155.0,
-        "categoria": "RACAO DE EQUINO",
-        "img": "img/2599.jpg"
-    },
-    {
         "id": "2600",
         "nome": "TOPLINE POUR-ON 5L",
         "preco": 660.635600004,
@@ -6799,7 +6799,7 @@
     {
         "id": "2648",
         "nome": "LUVA PIGMENTADA 4 FIOS 09 G PTA",
-        "preco": 4.0,
+        "preco": 4.5,
         "categoria": "FERRAMENTA",
         "img": "img/2648.jpg"
     },
@@ -7175,13 +7175,6 @@
         "img": "img/2745.jpg"
     },
     {
-        "id": "2747",
-        "nome": "ROFLIN 100ML",
-        "preco": 88.5375,
-        "categoria": "MEDICAMENTO",
-        "img": "img/2747.jpg"
-    },
-    {
         "id": "276",
         "nome": "PENCIL PRONTO 50 ML",
         "preco": 29.0,
@@ -7439,13 +7432,6 @@
         "preco": 55.0,
         "categoria": "MEDICAMENTO",
         "img": "img/282.jpg"
-    },
-    {
-        "id": "2821",
-        "nome": "CARRO DE CARGA 200 KG 110 CM RCM",
-        "preco": 265.999999998,
-        "categoria": "CARRO DE MAO",
-        "img": "img/2821.jpg"
     },
     {
         "id": "2823",
@@ -8990,7 +8976,7 @@
     {
         "id": "3152",
         "nome": "MANGUEIRA PRETA 3/4'X1,5MM 100M RL",
-        "preco": 182.546,
+        "preco": 182.545999999,
         "categoria": "ACESSORIOS",
         "img": "img/3152.jpg"
     },
@@ -10411,14 +10397,14 @@
     {
         "id": "562",
         "nome": "CARRO DE MAO C/ CAMARA POP 3,25X8CM METALOSA",
-        "preco": 210.0,
+        "preco": 210.000000001,
         "categoria": "CARRO DE MAO",
         "img": "img/562.jpg"
     },
     {
         "id": "564",
         "nome": "BOTA SEGURANCA N39",
-        "preco": 85.999999999,
+        "preco": 98.035099,
         "categoria": "CALCADOS",
         "img": "img/564.jpg"
     },
@@ -10540,13 +10526,6 @@
         "preco": 35.0,
         "categoria": "MEDICAMENTO",
         "img": "img/590.jpg"
-    },
-    {
-        "id": "591",
-        "nome": "ADE INJ 100ML CALBOS",
-        "preco": 23.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/591.jpg"
     },
     {
         "id": "592",
@@ -10934,6 +10913,13 @@
         "img": "img/724.jpg"
     },
     {
+        "id": "725",
+        "nome": "BOTA VULCABRAS C MED S/F 45/46 PTA/AML",
+        "preco": 46.0,
+        "categoria": "CALCADOS",
+        "img": "img/725.jpg"
+    },
+    {
         "id": "726",
         "nome": "BOTA BRANCA MEDIA 39",
         "preco": 56.0,
@@ -11041,7 +11027,7 @@
     {
         "id": "767",
         "nome": "DOBRADICA PORTEIRA C.00",
-        "preco": 13.0,
+        "preco": 13.829007,
         "categoria": "FERRAMENTA",
         "img": "img/767.jpg"
     },
@@ -11069,14 +11055,14 @@
     {
         "id": "771",
         "nome": "DOBRADICA PORTEIRA C.04",
-        "preco": 52.0,
+        "preco": 55.235066,
         "categoria": "FERRAMENTA",
         "img": "img/771.jpg"
     },
     {
         "id": "772",
         "nome": "DOBRADICA PORTEIRA C.06",
-        "preco": 80.0,
+        "preco": 82.65299,
         "categoria": "FERRAMENTA",
         "img": "img/772.jpg"
     },
@@ -12161,7 +12147,7 @@
     {
         "id": "981",
         "nome": "RACAO SUINO ENGORDA 40KG M.P",
-        "preco": 90.0,
+        "preco": 92.0,
         "categoria": "RACAO DE SUINO",
         "img": "img/981.jpg"
     },

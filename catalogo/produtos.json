@@ -686,6 +686,20 @@
         "img": "img/3404.jpg"
     },
     {
+        "id": "3405",
+        "nome": "CHEMITRIL PET INJ 2,5% 20ML",
+        "preco": 22.0,
+        "categoria": "PRODUTOS PET",
+        "img": "img/3405.jpg"
+    },
+    {
+        "id": "3406",
+        "nome": "PERFORMANCE BALANCE 30KG",
+        "preco": 105.418657,
+        "categoria": "RACAO DE EQUINO",
+        "img": "img/3406.jpg"
+    },
+    {
         "id": "1",
         "nome": "SAL PROBEEF NUTRIPEC BOIAO 25% PB 30KG",
         "preco": 117.333333,
@@ -1346,7 +1360,7 @@
     {
         "id": "113",
         "nome": "RACAO DE PINTO CRESC 40KG",
-        "preco": 117.128347,
+        "preco": 117.128347001,
         "categoria": "RACAO DE AVES",
         "img": "img/113.jpg"
     },
@@ -1580,13 +1594,6 @@
         "preco": 132.051012,
         "categoria": "MEDICAMENTO",
         "img": "img/1177.jpg"
-    },
-    {
-        "id": "1178",
-        "nome": "TELA SOMBREAM 50% 1,50X50M SOLPACK",
-        "preco": 250.361999998,
-        "categoria": "ACESSORIOS",
-        "img": "img/1178.jpg"
     },
     {
         "id": "1179",
@@ -3661,13 +3668,6 @@
         "img": "img/1720.jpg"
     },
     {
-        "id": "1721",
-        "nome": "BOMGUY PREMIUM ADULTO RACAS PEQ. FRANGO S/COR 15KG",
-        "preco": 121.3964,
-        "categoria": "RACAO DE CACHORRO",
-        "img": "img/1721.jpg"
-    },
-    {
         "id": "1723",
         "nome": "SAL NC OVINO M (40K/T) 20 KG",
         "preco": 152.0,
@@ -3985,7 +3985,7 @@
     {
         "id": "1794",
         "nome": "SORO RINGER C/LAC 1000ML FRESENIUS",
-        "preco": 16.6725,
+        "preco": 18.0,
         "categoria": "MEDICAMENTO",
         "img": "img/1794.jpg"
     },
@@ -4895,7 +4895,7 @@
     {
         "id": "2089",
         "nome": "EQUIMIX 12 MA 40 KG INTEGRAL",
-        "preco": 99.0,
+        "preco": 99.000750096,
         "categoria": "RACAO DE EQUINO",
         "img": "img/2089.jpg"
     },
@@ -4921,6 +4921,13 @@
         "img": "img/2093.jpg"
     },
     {
+        "id": "2094",
+        "nome": "MOCOTO DOG ADULTO 25 KG",
+        "preco": 125.0,
+        "categoria": "RACAO DE CACHORRO",
+        "img": "img/2094.jpg"
+    },
+    {
         "id": "2095",
         "nome": "EQUIMIX POTROS 40 KG INTEGRAL",
         "preco": 132.0,
@@ -4930,7 +4937,7 @@
     {
         "id": "2096",
         "nome": "PERFORMANCE DESEMPENHO 40KG INTEGRAL",
-        "preco": 154.977613,
+        "preco": 154.992247978,
         "categoria": "RACAO DE EQUINO",
         "img": "img/2096.jpg"
     },
@@ -5098,7 +5105,7 @@
     {
         "id": "2137",
         "nome": "SAL OVINO OVIFOS - 65 25KG INTEGRAL",
-        "preco": 162.0,
+        "preco": 162.001189042,
         "categoria": "SAL MINERAL",
         "img": "img/2137.jpg"
     },
@@ -5413,7 +5420,7 @@
     {
         "id": "2206",
         "nome": "EQUIMIX 15 MA 40 KG INTEGRAL",
-        "preco": 120.0,
+        "preco": 120.000000001,
         "categoria": "RACAO DE EQUINO",
         "img": "img/2206.jpg"
     },
@@ -5768,6 +5775,13 @@
         "img": "img/233.jpg"
     },
     {
+        "id": "2334",
+        "nome": "VACINA VAC V11 ELEVENCELL 1ML",
+        "preco": 20.49,
+        "categoria": "PRODUTOS PET",
+        "img": "img/2334.jpg"
+    },
+    {
         "id": "234",
         "nome": "TRISSULFIN SULFA PO 50G",
         "preco": 8.5,
@@ -5787,6 +5801,13 @@
         "preco": 152.996499999,
         "categoria": "RACAO DE CACHORRO",
         "img": "img/2341.jpg"
+    },
+    {
+        "id": "2342",
+        "nome": "CEDAN CAT MIX S/CORANTE 10.1KG",
+        "preco": 72.0,
+        "categoria": "RACAO DE GATO",
+        "img": "img/2342.jpg"
     },
     {
         "id": "2345",
@@ -5980,7 +6001,7 @@
     {
         "id": "2424",
         "nome": "HEPATOX ANTITOXICO ORAL 90ML",
-        "preco": 13.577411226,
+        "preco": 19.22,
         "categoria": "MEDICAMENTO",
         "img": "img/2424.jpg"
     },
@@ -6183,7 +6204,7 @@
     {
         "id": "2479",
         "nome": "SULFAMICINA ORAL 1L",
-        "preco": 95.000000001,
+        "preco": 103.744281,
         "categoria": "MEDICAMENTO",
         "img": "img/2479.jpg"
     },
@@ -6601,6 +6622,13 @@
         "img": "img/2598.jpg"
     },
     {
+        "id": "2599",
+        "nome": "PERFORMANCE ATLETA 30KG INTEGRAL",
+        "preco": 158.753994647,
+        "categoria": "RACAO DE EQUINO",
+        "img": "img/2599.jpg"
+    },
+    {
         "id": "2600",
         "nome": "TOPLINE POUR-ON 5L",
         "preco": 660.635600004,
@@ -6809,6 +6837,13 @@
         "preco": 27.531,
         "categoria": "FERRAMENTA",
         "img": "img/2649.jpg"
+    },
+    {
+        "id": "265",
+        "nome": "SULFAMICINA ORAL 200ML",
+        "preco": 38.0,
+        "categoria": "MEDICAMENTO",
+        "img": "img/265.jpg"
     },
     {
         "id": "2650",
@@ -7142,7 +7177,7 @@
     {
         "id": "2728",
         "nome": "BOLOTA 25 KG",
-        "preco": 125.0,
+        "preco": 125.000000001,
         "categoria": "RACAO DE CACHORRO",
         "img": "img/2728.jpg"
     },
@@ -8232,6 +8267,13 @@
         "img": "img/3.jpg"
     },
     {
+        "id": "30",
+        "nome": "BISTEDOG ADULTOS 14KG",
+        "preco": 73.0,
+        "categoria": "RACAO DE CACHORRO",
+        "img": "img/30.jpg"
+    },
+    {
         "id": "3006",
         "nome": "AVITRIN 15 ML COVELI",
         "preco": 16.0265,
@@ -8699,6 +8741,13 @@
         "preco": 4.3,
         "categoria": "ACESSORIOS",
         "img": "img/3093.jpg"
+    },
+    {
+        "id": "31",
+        "nome": "BISTEDOG ADULTOS 23KG",
+        "preco": 120.000000001,
+        "categoria": "RACAO DE CACHORRO",
+        "img": "img/31.jpg"
     },
     {
         "id": "310",
@@ -9604,6 +9653,13 @@
         "img": "img/357.jpg"
     },
     {
+        "id": "36",
+        "nome": "OPEN SEA DOG ADULTO CARNE 25KG",
+        "preco": 158.0,
+        "categoria": "RACAO DE CACHORRO",
+        "img": "img/36.jpg"
+    },
+    {
         "id": "363",
         "nome": "FENILBUTAZONA 100ML",
         "preco": 47.0,
@@ -9630,6 +9686,13 @@
         "preco": 33.0,
         "categoria": "MEDICAMENTO",
         "img": "img/368.jpg"
+    },
+    {
+        "id": "37",
+        "nome": "OPEN SEA DOG ADULTO CHIPS 25KG",
+        "preco": 158.0,
+        "categoria": "RACAO DE CACHORRO",
+        "img": "img/37.jpg"
     },
     {
         "id": "371",
@@ -9835,13 +9898,6 @@
         "img": "img/438.jpg"
     },
     {
-        "id": "439",
-        "nome": "SHAMPOO BANHEX EQUUS COCO 1L",
-        "preco": 38.824819392,
-        "categoria": "PRODUTOS PET",
-        "img": "img/439.jpg"
-    },
-    {
         "id": "440",
         "nome": "SHAMPOO BANHEX EQUUS CITRONELA 1L",
         "preco": 36.0,
@@ -9875,6 +9931,13 @@
         "preco": 45.0,
         "categoria": "FERRAMENTA",
         "img": "img/449.jpg"
+    },
+    {
+        "id": "45",
+        "nome": "PERRUS ADULTO CARNE CHIPS 15KG",
+        "preco": 105.0,
+        "categoria": "RACAO DE CACHORRO",
+        "img": "img/45.jpg"
     },
     {
         "id": "451",
@@ -10997,6 +11060,13 @@
         "img": "img/740.jpg"
     },
     {
+        "id": "746",
+        "nome": "BISTEDOG FILHOTES 15KG",
+        "preco": 105.0,
+        "categoria": "RACAO DE CACHORRO",
+        "img": "img/746.jpg"
+    },
+    {
         "id": "747",
         "nome": "RACAO DE PINTO CRESC 05KG",
         "preco": 18.0,
@@ -11333,6 +11403,13 @@
         "img": "img/82.jpg"
     },
     {
+        "id": "820",
+        "nome": "CEF 50MG/ML SUS INJ 30 ML - AG",
+        "preco": 45.0,
+        "categoria": "MEDICAMENTO",
+        "img": "img/820.jpg"
+    },
+    {
         "id": "821",
         "nome": "FORTGAL PLUS 50 ML - AGENER",
         "preco": 59.0,
@@ -11464,6 +11541,13 @@
         "preco": 197.0,
         "categoria": "MEDICAMENTO",
         "img": "img/840.jpg"
+    },
+    {
+        "id": "841",
+        "nome": "OPEN SEA DOG ADULTO CORDEIRO 25KG",
+        "preco": 165.0,
+        "categoria": "RACAO DE CACHORRO",
+        "img": "img/841.jpg"
     },
     {
         "id": "845",
@@ -11772,6 +11856,13 @@
         "preco": 5.5,
         "categoria": "MEDICAMENTO",
         "img": "img/912.jpg"
+    },
+    {
+        "id": "913",
+        "nome": "MOXI DUO PASTA 9,6G DIPY",
+        "preco": 70.6374,
+        "categoria": "MEDICAMENTO",
+        "img": "img/913.jpg"
     },
     {
         "id": "914",

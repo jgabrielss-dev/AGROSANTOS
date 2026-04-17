@@ -52,7 +52,7 @@ for idx, (index, row) in enumerate(planilha.iterrows()):
     caminho_final_absoluto = os.path.join(pasta_imagens, f"{id_prod}.jpg")
 
     if not os.path.exists(caminho_final_absoluto):
-        print(f"[{idx+1}/{len(planilha)}] Baixando: {nome_prod}")
+        print(f"[{idx+1}/{len(planilha)}] Baixando: {id_prod} - {nome_prod}")
         pasta_temp = os.path.join(pasta_imagens, f"temp_{id_prod}")
         os.makedirs(pasta_temp, exist_ok=True)
         

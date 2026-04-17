@@ -464,7 +464,7 @@
     {
         "id": "3369",
         "nome": "PRODUTOR NUCLEO SUINO CRESC TERM 3% 30KG ADM",
-        "preco": 180.0,
+        "preco": 165.0,
         "categoria": "SAL MINERAL",
         "img": "img/3369.jpg"
     },
@@ -698,6 +698,34 @@
         "preco": 105.418657,
         "categoria": "RACAO DE EQUINO",
         "img": "img/3406.jpg"
+    },
+    {
+        "id": "3407",
+        "nome": "GENESE PELETIZADO 30KG ADM",
+        "preco": 150.0,
+        "categoria": "RACAO DE RUMINANTES",
+        "img": "img/3407.jpg"
+    },
+    {
+        "id": "3408",
+        "nome": "TECH SAL REPRODUCAO ADE FARELADO 30KG ADM",
+        "preco": 165.0,
+        "categoria": "SAL MINERAL",
+        "img": "img/3408.jpg"
+    },
+    {
+        "id": "3409",
+        "nome": "QUALICORTE PX 50 ST VIT 25KG ADM",
+        "preco": 95.0,
+        "categoria": "SAL MINERAL",
+        "img": "img/3409.jpg"
+    },
+    {
+        "id": "3410",
+        "nome": "QUALICORTE PX U 10 25KG ADM",
+        "preco": 105.0,
+        "categoria": "SAL MINERAL",
+        "img": "img/3410.jpg"
     },
     {
         "id": "1",
@@ -1521,7 +1549,7 @@
     {
         "id": "1157",
         "nome": "RACAO DE GALINHA POSTURA 20KG",
-        "preco": 67.733248,
+        "preco": 66.0,
         "categoria": "RACAO DE AVES",
         "img": "img/1157.jpg"
     },
@@ -2427,6 +2455,13 @@
         "preco": 8.5,
         "categoria": "MEDICAMENTO",
         "img": "img/141.jpg"
+    },
+    {
+        "id": "1414",
+        "nome": "ZUPPY ADULTO PEQUENO PORTE 20KG",
+        "preco": 195.000000001,
+        "categoria": "RACAO DE CACHORRO",
+        "img": "img/1414.jpg"
     },
     {
         "id": "1415",
@@ -4571,13 +4606,6 @@
         "img": "img/1991.jpg"
     },
     {
-        "id": "1993",
-        "nome": "PULVERIZADOR COSTAL 20L EKOMAX GUARANY",
-        "preco": 355.7429,
-        "categoria": "ACESSORIOS",
-        "img": "img/1993.jpg"
-    },
-    {
         "id": "1994",
         "nome": "DEXIUM INJETAVEL 10 ML",
         "preco": 10.7304,
@@ -5189,7 +5217,7 @@
     {
         "id": "2154",
         "nome": "RACAO SEMI CONFINAMENTO 1% 40KG M.P",
-        "preco": 99.0,
+        "preco": 97.0,
         "categoria": "RACAO DE RUMINANTES",
         "img": "img/2154.jpg"
     },
@@ -5689,6 +5717,13 @@
         "preco": 44.0,
         "categoria": "MEDICAMENTO",
         "img": "img/229.jpg"
+    },
+    {
+        "id": "2294",
+        "nome": "PRE INICIAL PREFORTE DESINTEGRADO 5KG",
+        "preco": 25.0,
+        "categoria": "RACAO DE AVES",
+        "img": "img/2294.jpg"
     },
     {
         "id": "2295",
@@ -8260,13 +8295,6 @@
         "img": "img/2997.jpg"
     },
     {
-        "id": "3",
-        "nome": "QUALICORTE PX U 10",
-        "preco": 130.666666999,
-        "categoria": "SAL MINERAL",
-        "img": "img/3.jpg"
-    },
-    {
         "id": "30",
         "nome": "BISTEDOG ADULTOS 14KG",
         "preco": 73.0,
@@ -9389,7 +9417,7 @@
     {
         "id": "323",
         "nome": "FERRODEX EE 50 ML",
-        "preco": 23.099872759,
+        "preco": 22.0,
         "categoria": "MEDICAMENTO",
         "img": "img/323.jpg"
     },
@@ -10304,13 +10332,6 @@
         "img": "img/531.jpg"
     },
     {
-        "id": "532",
-        "nome": "COEQUI PLUS 25KG",
-        "preco": 186.0,
-        "categoria": "SAL MINERAL",
-        "img": "img/532.jpg"
-    },
-    {
         "id": "533",
         "nome": "FOSBOVI REPRODUCAO 30KG",
         "preco": 226.000000001,
@@ -11195,7 +11216,7 @@
     {
         "id": "782",
         "nome": "FERRODEX 250 ML",
-        "preco": 78.0,
+        "preco": 82.0,
         "categoria": "MEDICAMENTO",
         "img": "img/782.jpg"
     },
@@ -11394,6 +11415,13 @@
         "preco": 15.0,
         "categoria": "MEDICAMENTO",
         "img": "img/818.jpg"
+    },
+    {
+        "id": "819",
+        "nome": "GRAO INTEIRO 40KG",
+        "preco": 145.0,
+        "categoria": "RACAO DE RUMINANTES",
+        "img": "img/819.jpg"
     },
     {
         "id": "82",

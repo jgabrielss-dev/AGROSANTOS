@@ -21,6 +21,13 @@
         "img": "img/3258.jpg"
     },
     {
+        "id": "3261",
+        "nome": "RATICIDA MAKI SOFT BAIT 200G",
+        "preco": 26.0,
+        "categoria": "DOMISSANITARIO",
+        "img": "img/3261.jpg"
+    },
+    {
         "id": "3272",
         "nome": "ENERGECT FC 500ML",
         "preco": 182.25,
@@ -233,21 +240,21 @@
     {
         "id": "3328",
         "nome": "FERTILIZANTE NPK 04.14.08 SC 25KG",
-        "preco": 113.0,
+        "preco": 102.0,
         "categoria": "ADUBOS",
         "img": "img/3328.jpg"
     },
     {
         "id": "3330",
         "nome": "FERTILIZANTE NPK 20.10.20 SC 50KG",
-        "preco": 265.0,
+        "preco": 247.0,
         "categoria": "ADUBOS",
         "img": "img/3330.jpg"
     },
     {
         "id": "3331",
         "nome": "FERTILIZANTE NPK 16.06.20 SC 50KG",
-        "preco": 252.0,
+        "preco": 233.0,
         "categoria": "ADUBOS",
         "img": "img/3331.jpg"
     },
@@ -665,13 +672,6 @@
         "img": "img/3401.jpg"
     },
     {
-        "id": "3402",
-        "nome": "FERTILIZANTE NPK 12.06.18 SC 25KG",
-        "preco": 119.0,
-        "categoria": "ADUBOS",
-        "img": "img/3402.jpg"
-    },
-    {
         "id": "3403",
         "nome": "LESTER DOG ADULTO 15KG",
         "preco": 75.0,
@@ -723,7 +723,7 @@
     {
         "id": "3410",
         "nome": "QUALICORTE PX U 10 25KG ADM",
-        "preco": 105.0,
+        "preco": 113.0,
         "categoria": "SAL MINERAL",
         "img": "img/3410.jpg"
     },
@@ -754,6 +754,13 @@
         "preco": 11.7585,
         "categoria": "MEDICAMENTO",
         "img": "img/1001.jpg"
+    },
+    {
+        "id": "1002",
+        "nome": "DOXINEW 100MG WORLD C/07 COMP",
+        "preco": 14.5265,
+        "categoria": "PRODUTOS PET",
+        "img": "img/1002.jpg"
     },
     {
         "id": "1003",
@@ -1701,6 +1708,13 @@
         "img": "img/120.jpg"
     },
     {
+        "id": "1202",
+        "nome": "MODIFICADOR ORGANICO 500ML VALLEE",
+        "preco": 79.489,
+        "categoria": "MEDICAMENTO",
+        "img": "img/1202.jpg"
+    },
+    {
         "id": "1203",
         "nome": "PENCIVET PLUS PPU FR 50ML",
         "preco": 46.3645,
@@ -1937,13 +1951,6 @@
         "preco": 78.2841,
         "categoria": "ACESSORIOS",
         "img": "img/1246.jpg"
-    },
-    {
-        "id": "1247",
-        "nome": "PULVERIZADOR VERTICAL EXPORT 370ML LARANJA GUARANY",
-        "preco": 12.0,
-        "categoria": "ACESSORIOS",
-        "img": "img/1247.jpg"
     },
     {
         "id": "1248",
@@ -2849,13 +2856,6 @@
         "img": "img/1524.jpg"
     },
     {
-        "id": "1525",
-        "nome": "EVOLUT CAT MIX 25 KG",
-        "preco": 185.550699999,
-        "categoria": "RACAO DE GATO",
-        "img": "img/1525.jpg"
-    },
-    {
         "id": "1527",
         "nome": "AMINO EQUUS SPORT 2,5KG",
         "preco": 322.956000002,
@@ -2938,6 +2938,13 @@
         "preco": 20.8771,
         "categoria": "PRODUTOS PET",
         "img": "img/1541.jpg"
+    },
+    {
+        "id": "1542",
+        "nome": "CARRAPATOX 20 ML",
+        "preco": 5.0,
+        "categoria": "DOMISSANITARIO",
+        "img": "img/1542.jpg"
     },
     {
         "id": "1545",
@@ -4405,14 +4412,14 @@
     {
         "id": "1911",
         "nome": "FERTILIZANTE NPK 15.15.18 SC 25 KG",
-        "preco": 162.0,
+        "preco": 147.0,
         "categoria": "ADUBOS",
         "img": "img/1911.jpg"
     },
     {
         "id": "1912",
         "nome": "FERTILIZANTE NPK 10.10.10 SC 25 KG",
-        "preco": 117.0,
+        "preco": 106.0,
         "categoria": "ADUBOS",
         "img": "img/1912.jpg"
     },
@@ -5346,13 +5353,6 @@
         "preco": 13.0,
         "categoria": "MEDICAMENTO",
         "img": "img/2187.jpg"
-    },
-    {
-        "id": "2188",
-        "nome": "CALBENDAZOLE 10 200 ML",
-        "preco": 18.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/2188.jpg"
     },
     {
         "id": "2189",
@@ -6293,13 +6293,6 @@
         "img": "img/2491.jpg"
     },
     {
-        "id": "2492",
-        "nome": "NEONATUS LAVIZOO 43G",
-        "preco": 51.192,
-        "categoria": "MEDICAMENTO",
-        "img": "img/2492.jpg"
-    },
-    {
         "id": "2494",
         "nome": "TAMPOMAX 1L",
         "preco": 54.2835,
@@ -6641,6 +6634,13 @@
         "preco": 22.0,
         "categoria": "MEDICAMENTO",
         "img": "img/259.jpg"
+    },
+    {
+        "id": "2593",
+        "nome": "SHAMPOO ANTIPULGA E CARRAPATO SHAMPET VERM 500ML",
+        "preco": 11.326,
+        "categoria": "PRODUTOS PET",
+        "img": "img/2593.jpg"
     },
     {
         "id": "2595",
@@ -7679,6 +7679,13 @@
         "img": "img/2852.jpg"
     },
     {
+        "id": "2853",
+        "nome": "PASTA VERME EQUEST PRAMOX 12G",
+        "preco": 71.6175,
+        "categoria": "MEDICAMENTO",
+        "img": "img/2853.jpg"
+    },
+    {
         "id": "2854",
         "nome": "PASTA VERME EQUEST 12,2G",
         "preco": 60.1695,
@@ -8535,7 +8542,7 @@
     {
         "id": "305",
         "nome": "MILHO EM GRAO SC 60KG",
-        "preco": 107.0,
+        "preco": 109.0,
         "categoria": "MATERIA PRIMA",
         "img": "img/305.jpg"
     },
@@ -10689,6 +10696,13 @@
         "img": "img/605.jpg"
     },
     {
+        "id": "606",
+        "nome": "D-500 DIPIRONA INJ 50ML",
+        "preco": 29.0,
+        "categoria": "MEDICAMENTO",
+        "img": "img/606.jpg"
+    },
+    {
         "id": "607",
         "nome": "FARMAZOLE ORAL 1L 1,9% ALBENDAZOLE",
         "preco": 90.0,
@@ -10934,6 +10948,13 @@
         "img": "img/712.jpg"
     },
     {
+        "id": "713",
+        "nome": "MAXICAN INJ 2% 50ML OF",
+        "preco": 115.0,
+        "categoria": "MEDICAMENTO",
+        "img": "img/713.jpg"
+    },
+    {
         "id": "714",
         "nome": "TRIBRISSEN SULFA INJ 15ML",
         "preco": 19.9,
@@ -11037,13 +11058,6 @@
         "preco": 19.0,
         "categoria": "ACESSORIOS",
         "img": "img/732.jpg"
-    },
-    {
-        "id": "734",
-        "nome": "ARAME ZINCADO BWG 18 1,24MM 1KG MORLAN",
-        "preco": 36.0,
-        "categoria": "ACESSORIOS",
-        "img": "img/734.jpg"
     },
     {
         "id": "735",
@@ -12019,6 +12033,13 @@
         "img": "img/932.jpg"
     },
     {
+        "id": "933",
+        "nome": "PODEROSO 25 CE 300ML KELLDRIN",
+        "preco": 89.0,
+        "categoria": "DOMISSANITARIO",
+        "img": "img/933.jpg"
+    },
+    {
         "id": "94",
         "nome": "PODEROSO 25CE 30ML",
         "preco": 15.0,
@@ -12290,13 +12311,6 @@
         "preco": 84.0,
         "categoria": "RACAO DE PEIXE",
         "img": "img/988.jpg"
-    },
-    {
-        "id": "989",
-        "nome": "SABOROSA DOG CARNE SC 25KG",
-        "preco": 125.0,
-        "categoria": "RACAO DE CACHORRO",
-        "img": "img/989.jpg"
     },
     {
         "id": "99",

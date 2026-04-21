@@ -4410,13 +4410,6 @@
         "img": "img/191.jpg"
     },
     {
-        "id": "1911",
-        "nome": "FERTILIZANTE NPK 15.15.18 SC 25 KG",
-        "preco": 147.0,
-        "categoria": "ADUBOS",
-        "img": "img/1911.jpg"
-    },
-    {
         "id": "1912",
         "nome": "FERTILIZANTE NPK 10.10.10 SC 25 KG",
         "preco": 106.0,
@@ -6251,13 +6244,6 @@
         "img": "img/248.jpg"
     },
     {
-        "id": "2481",
-        "nome": "FARMADOX 50% 200G",
-        "preco": 105.6305,
-        "categoria": "MEDICAMENTO",
-        "img": "img/2481.jpg"
-    },
-    {
         "id": "2483",
         "nome": "CORDA PET CARR 10MM BRANCA",
         "preco": 2.3,
@@ -6788,13 +6774,6 @@
         "preco": 178.578399999,
         "categoria": "FERRAMENTA",
         "img": "img/2631.jpg"
-    },
-    {
-        "id": "2634",
-        "nome": "FORMULA NATURAL PRO CAES AD MINI/PEQ 15KG",
-        "preco": 190.3131,
-        "categoria": "RACAO DE CACHORRO",
-        "img": "img/2634.jpg"
     },
     {
         "id": "2637",

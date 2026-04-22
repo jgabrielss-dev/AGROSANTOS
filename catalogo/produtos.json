@@ -4410,13 +4410,6 @@
         "img": "img/191.jpg"
     },
     {
-        "id": "1912",
-        "nome": "FERTILIZANTE NPK 10.10.10 SC 25 KG",
-        "preco": 106.0,
-        "categoria": "ADUBOS",
-        "img": "img/1912.jpg"
-    },
-    {
         "id": "1914",
         "nome": "RACA CAT SELECT SALMAO CASTRADO 10,1 KG",
         "preco": 100.9004,
@@ -4786,13 +4779,6 @@
         "preco": 160.0,
         "categoria": "CALCADOS",
         "img": "img/2055.jpg"
-    },
-    {
-        "id": "2057",
-        "nome": "BOTA URBANA CASTANHO N44 020",
-        "preco": 160.0,
-        "categoria": "CALCADOS",
-        "img": "img/2057.jpg"
     },
     {
         "id": "2058",
@@ -9931,13 +9917,6 @@
         "preco": 23.5,
         "categoria": "MEDICAMENTO",
         "img": "img/444.jpg"
-    },
-    {
-        "id": "446",
-        "nome": "COMEDOURO AVES CALHA GALV 50CM ZATTI",
-        "preco": 12.0,
-        "categoria": "ACESSORIOS",
-        "img": "img/446.jpg"
     },
     {
         "id": "449",

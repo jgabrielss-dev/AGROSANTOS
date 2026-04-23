@@ -728,6 +728,62 @@
         "img": "img/3410.jpg"
     },
     {
+        "id": "3412",
+        "nome": "ADE ORAL PO 1KG CHAMPION",
+        "preco": 16.0,
+        "categoria": "MEDICAMENTO",
+        "img": "img/3412.jpg"
+    },
+    {
+        "id": "3413",
+        "nome": "LONA CARRETEIRO 04X06",
+        "preco": 180.479452,
+        "categoria": "ACESSORIOS",
+        "img": "img/3413.jpg"
+    },
+    {
+        "id": "3414",
+        "nome": "FACAO MATO CB 10 CORNETA",
+        "preco": 52.082396,
+        "categoria": "FERRAMENTA",
+        "img": "img/3414.jpg"
+    },
+    {
+        "id": "3415",
+        "nome": "FACAO MATO CB 12 CORNETA",
+        "preco": 53.927304,
+        "categoria": "FERRAMENTA",
+        "img": "img/3415.jpg"
+    },
+    {
+        "id": "3416",
+        "nome": "FACAO MATO CB 14 CORNETA",
+        "preco": 55.724714,
+        "categoria": "FERRAMENTA",
+        "img": "img/3416.jpg"
+    },
+    {
+        "id": "3417",
+        "nome": "FACAO MATO CB 16 CORNETA",
+        "preco": 60.544473,
+        "categoria": "FERRAMENTA",
+        "img": "img/3417.jpg"
+    },
+    {
+        "id": "3418",
+        "nome": "FACAO MATO CB 18 CORNETA",
+        "preco": 62.264387,
+        "categoria": "FERRAMENTA",
+        "img": "img/3418.jpg"
+    },
+    {
+        "id": "3419",
+        "nome": "FACAO MATO CB 20 CORNETA",
+        "preco": 64.99425,
+        "categoria": "FERRAMENTA",
+        "img": "img/3419.jpg"
+    },
+    {
         "id": "1",
         "nome": "SAL PROBEEF NUTRIPEC BOIAO 25% PB 30KG",
         "preco": 117.333333,
@@ -2116,7 +2172,7 @@
     {
         "id": "1299",
         "nome": "VASILHAME P/LEITE 50 LT",
-        "preco": 221.797399999,
+        "preco": 247.261399,
         "categoria": "ACESSORIOS",
         "img": "img/1299.jpg"
     },
@@ -3213,13 +3269,6 @@
         "img": "img/1599.jpg"
     },
     {
-        "id": "16",
-        "nome": "CARRO DE MAO QUADRADO",
-        "preco": 718.2,
-        "categoria": "CARRO DE MAO",
-        "img": "img/16.jpg"
-    },
-    {
         "id": "160",
         "nome": "CORDA PET CHATA CAR 16MM VDC",
         "preco": 2.1,
@@ -3397,7 +3446,7 @@
     {
         "id": "165",
         "nome": "VASILHAME P/LEITE 05 LT",
-        "preco": 30.0,
+        "preco": 33.094737,
         "categoria": "ACESSORIOS",
         "img": "img/165.jpg"
     },
@@ -3432,7 +3481,7 @@
     {
         "id": "166",
         "nome": "VASILHAME P/LEITE 10 LT",
-        "preco": 49.167718,
+        "preco": 44.728364,
         "categoria": "ACESSORIOS",
         "img": "img/166.jpg"
     },
@@ -3474,7 +3523,7 @@
     {
         "id": "167",
         "nome": "VASILHAME P/LEITE 20 LT",
-        "preco": 68.0,
+        "preco": 75.860627,
         "categoria": "ACESSORIOS",
         "img": "img/167.jpg"
     },
@@ -3519,6 +3568,13 @@
         "preco": 199.449,
         "categoria": "MEDICAMENTO",
         "img": "img/1677.jpg"
+    },
+    {
+        "id": "168",
+        "nome": "VASILHAME P/LEITE 30 LT",
+        "preco": 216.739163,
+        "categoria": "ACESSORIOS",
+        "img": "img/168.jpg"
     },
     {
         "id": "1681",
@@ -3873,7 +3929,7 @@
     {
         "id": "176",
         "nome": "LONA DUPLA FACE 4X100 SILOTUBO",
-        "preco": 9.9,
+        "preco": 10.686562,
         "categoria": "ACESSORIOS",
         "img": "img/176.jpg"
     },
@@ -4359,13 +4415,6 @@
         "preco": 22.5382,
         "categoria": "MEDICAMENTO",
         "img": "img/1892.jpg"
-    },
-    {
-        "id": "19",
-        "nome": "CARRO DE MAO MEIA LUA GRANDE",
-        "preco": 788.4,
-        "categoria": "CARRO DE MAO",
-        "img": "img/19.jpg"
     },
     {
         "id": "1900",
@@ -6428,7 +6477,7 @@
     {
         "id": "2545",
         "nome": "LAMINA SERRA BI-METALICA 18D",
-        "preco": 7.385,
+        "preco": 11.579421,
         "categoria": "ACESSORIOS",
         "img": "img/2545.jpg"
     },
@@ -6678,9 +6727,16 @@
         "img": "img/2614.jpg"
     },
     {
+        "id": "2615",
+        "nome": "MARRETA C/CABO 2,0 KG",
+        "preco": 90.337333,
+        "categoria": "FERRAMENTA",
+        "img": "img/2615.jpg"
+    },
+    {
         "id": "2616",
         "nome": "MARRETA C/CABO 0,5 KG",
-        "preco": 46.158,
+        "preco": 39.424,
         "categoria": "FERRAMENTA",
         "img": "img/2616.jpg"
     },
@@ -9968,6 +10024,13 @@
         "img": "img/458.jpg"
     },
     {
+        "id": "459",
+        "nome": "ANCINHO ACO 14DT TRAMONTINA",
+        "preco": 22.0,
+        "categoria": "FERRAMENTA",
+        "img": "img/459.jpg"
+    },
+    {
         "id": "460",
         "nome": "ANTITOXICO INJ 100ML UCB VET",
         "preco": 23.5,
@@ -10260,13 +10323,6 @@
         "preco": 171.460084867,
         "categoria": "SAL MINERAL",
         "img": "img/526.jpg"
-    },
-    {
-        "id": "527",
-        "nome": "BOVIGOLD PRE PARTO OVN 25KG",
-        "preco": 501.999999999,
-        "categoria": "SAL MINERAL",
-        "img": "img/527.jpg"
     },
     {
         "id": "528",
@@ -11018,6 +11074,13 @@
         "img": "img/732.jpg"
     },
     {
+        "id": "733",
+        "nome": "LONA DUPLA FACE 8X100 SILOTUBO",
+        "preco": 21.559172,
+        "categoria": "ACESSORIOS",
+        "img": "img/733.jpg"
+    },
+    {
         "id": "735",
         "nome": "FACAO MATO CB 20",
         "preco": 45.0,
@@ -11090,14 +11153,14 @@
     {
         "id": "767",
         "nome": "DOBRADICA PORTEIRA C.00",
-        "preco": 13.829007,
+        "preco": 14.830597,
         "categoria": "FERRAMENTA",
         "img": "img/767.jpg"
     },
     {
         "id": "768",
         "nome": "DOBRADICA PORTEIRA C.01",
-        "preco": 22.0,
+        "preco": 23.650908,
         "categoria": "FERRAMENTA",
         "img": "img/768.jpg"
     },
@@ -11118,7 +11181,7 @@
     {
         "id": "771",
         "nome": "DOBRADICA PORTEIRA C.04",
-        "preco": 55.235066,
+        "preco": 54.911733,
         "categoria": "FERRAMENTA",
         "img": "img/771.jpg"
     },

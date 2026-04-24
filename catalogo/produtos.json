@@ -1694,13 +1694,6 @@
         "img": "img/1179.jpg"
     },
     {
-        "id": "118",
-        "nome": "RC PEIXE 40 - 1.8 A 2.3 MM ACQUA PRIME 20KG",
-        "preco": 186.523434,
-        "categoria": "RACAO DE PEIXE",
-        "img": "img/118.jpg"
-    },
-    {
         "id": "1180",
         "nome": "TRITURADOR FORRAGEIRA ELET 2HP BIV",
         "preco": 1490.0,
@@ -7686,13 +7679,6 @@
         "img": "img/2850.jpg"
     },
     {
-        "id": "2851",
-        "nome": "CAVADEIRA ARTIC 120CM CB METAL TRAMONTINA",
-        "preco": 104.7631,
-        "categoria": "FERRAMENTA",
-        "img": "img/2851.jpg"
-    },
-    {
         "id": "2852",
         "nome": "CAVADEIRA ARTIC 180CM CB MADEIRA TRAMONTINA",
         "preco": 147.7689,
@@ -7726,13 +7712,6 @@
         "preco": 30.361225,
         "categoria": "MEDICAMENTO",
         "img": "img/2857.jpg"
-    },
-    {
-        "id": "2858",
-        "nome": "VACINA EQUINO GARROTILHO 10DS 20ML LABOVET",
-        "preco": 34.1871,
-        "categoria": "MEDICAMENTO",
-        "img": "img/2858.jpg"
     },
     {
         "id": "2859",

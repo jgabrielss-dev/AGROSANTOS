@@ -728,6 +728,13 @@
         "img": "img/3410.jpg"
     },
     {
+        "id": "3411",
+        "nome": "V-CORT DEXA C/20 CP",
+        "preco": 14.0,
+        "categoria": "PRODUTOS PET",
+        "img": "img/3411.jpg"
+    },
+    {
         "id": "3412",
         "nome": "ADE ORAL PO 1KG CHAMPION",
         "preco": 16.0,
@@ -782,6 +789,13 @@
         "preco": 64.99425,
         "categoria": "FERRAMENTA",
         "img": "img/3419.jpg"
+    },
+    {
+        "id": "3420",
+        "nome": "UBROLEXIN INJ INTRAMAMA 10G VL",
+        "preco": 31.6305,
+        "categoria": "MEDICAMENTO",
+        "img": "img/3420.jpg"
     },
     {
         "id": "1",
@@ -996,7 +1010,7 @@
     {
         "id": "1041",
         "nome": "IVOMEC 1 INJ 500ML",
-        "preco": 235.7702,
+        "preco": 236.00784499,
         "categoria": "MEDICAMENTO",
         "img": "img/1041.jpg"
     },
@@ -2760,7 +2774,7 @@
     {
         "id": "1472",
         "nome": "ENXADA NORTE 3,5 LBS TRAMONTINA",
-        "preco": 96.558,
+        "preco": 93.4983,
         "categoria": "FERRAMENTA",
         "img": "img/1472.jpg"
     },
@@ -5042,7 +5056,7 @@
     {
         "id": "2104",
         "nome": "EQVALAN PASTA",
-        "preco": 26.581494707,
+        "preco": 27.471494529,
         "categoria": "MEDICAMENTO",
         "img": "img/2104.jpg"
     },
@@ -5444,13 +5458,6 @@
         "preco": 636.75,
         "categoria": "CARRO DE MAO",
         "img": "img/22.jpg"
-    },
-    {
-        "id": "220",
-        "nome": "CALFOZ 200ML INJ",
-        "preco": 15.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/220.jpg"
     },
     {
         "id": "2201",
@@ -5941,13 +5948,6 @@
         "preco": 379.899299999,
         "categoria": "MEDICAMENTO",
         "img": "img/2380.jpg"
-    },
-    {
-        "id": "2386",
-        "nome": "TUTTICANIS SELECT ADULTO 14KG",
-        "preco": 68.8908,
-        "categoria": "RACAO DE CACHORRO",
-        "img": "img/2386.jpg"
     },
     {
         "id": "2388",
@@ -6680,14 +6680,14 @@
     {
         "id": "2600",
         "nome": "TOPLINE POUR-ON 5L",
-        "preco": 660.635600004,
+        "preco": 653.564612582,
         "categoria": "MEDICAMENTO",
         "img": "img/2600.jpg"
     },
     {
         "id": "2602",
         "nome": "METACAM SOL INJ 20MG/ML 50ML VET BR",
-        "preco": 180.846,
+        "preco": 178.497,
         "categoria": "MEDICAMENTO",
         "img": "img/2602.jpg"
     },
@@ -10733,7 +10733,7 @@
     {
         "id": "617",
         "nome": "TOPLINE POUR-ON 1L",
-        "preco": 156.0,
+        "preco": 159.285767988,
         "categoria": "MEDICAMENTO",
         "img": "img/617.jpg"
     },
@@ -10761,21 +10761,21 @@
     {
         "id": "621",
         "nome": "IVOMEC 1 INJ. 50ML",
-        "preco": 31.087659574,
+        "preco": 31.245211886,
         "categoria": "MEDICAMENTO",
         "img": "img/621.jpg"
     },
     {
         "id": "622",
         "nome": "IVOMEC GOLD INJ. 50ML",
-        "preco": 54.0,
+        "preco": 58.54326923,
         "categoria": "MEDICAMENTO",
         "img": "img/622.jpg"
     },
     {
         "id": "623",
         "nome": "TOPLINE SPRAY 400ML",
-        "preco": 29.03995721,
+        "preco": 29.428730064,
         "categoria": "MEDICAMENTO",
         "img": "img/623.jpg"
     },
@@ -11832,14 +11832,14 @@
     {
         "id": "892",
         "nome": "IVOMEC GOLD INJ. 500ML",
-        "preco": 458.000000002,
+        "preco": 460.192420138,
         "categoria": "MEDICAMENTO",
         "img": "img/892.jpg"
     },
     {
         "id": "893",
         "nome": "IVOMEC GOLD INJ. 1L",
-        "preco": 816.999999997,
+        "preco": 808.239002192,
         "categoria": "MEDICAMENTO",
         "img": "img/893.jpg"
     },
@@ -12234,6 +12234,13 @@
         "preco": 1.5,
         "categoria": "ACESSORIOS",
         "img": "img/972.jpg"
+    },
+    {
+        "id": "973",
+        "nome": "VIDRO SERVI 50 ML AUT. FLAMBADO EMB",
+        "preco": 12.0,
+        "categoria": "ACESSORIOS",
+        "img": "img/973.jpg"
     },
     {
         "id": "974",

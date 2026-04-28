@@ -217,13 +217,6 @@
         "img": "img/3321.jpg"
     },
     {
-        "id": "3322",
-        "nome": "ELETROVITT GEL 50GR",
-        "preco": 0.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/3322.jpg"
-    },
-    {
         "id": "3324",
         "nome": "LESTER DOG ADULTO 25KG",
         "preco": 0.0,
@@ -992,13 +985,6 @@
         "preco": 0.0,
         "categoria": "FERRAMENTA",
         "img": "img/1029.jpg"
-    },
-    {
-        "id": "1036",
-        "nome": "ROBOFORTE 250ML CEVA",
-        "preco": 0.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1036.jpg"
     },
     {
         "id": "1040",
@@ -2623,13 +2609,6 @@
         "preco": 0.0,
         "categoria": "MEDICAMENTO",
         "img": "img/1434.jpg"
-    },
-    {
-        "id": "1436",
-        "nome": "MOD PLUS INJ 500 ML",
-        "preco": 0.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/1436.jpg"
     },
     {
         "id": "144",
@@ -10806,13 +10785,6 @@
         "preco": 0.0,
         "categoria": "MEDICAMENTO",
         "img": "img/67.jpg"
-    },
-    {
-        "id": "689",
-        "nome": "ALANTOL BISNAGA 60G",
-        "preco": 0.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/689.jpg"
     },
     {
         "id": "690",

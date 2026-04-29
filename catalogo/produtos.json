@@ -1871,7 +1871,7 @@
     {
         "id": "122",
         "nome": "SAL FINO 25KG",
-        "preco": 15.0,
+        "preco": 16.0,
         "categoria": "SAL MOIDO",
         "img": "img/122.jpg"
     },
@@ -1941,7 +1941,7 @@
     {
         "id": "123",
         "nome": "SAL GROSSO 25KG",
-        "preco": 15.0,
+        "preco": 16.0,
         "categoria": "SAL MOIDO",
         "img": "img/123.jpg"
     },
@@ -5994,7 +5994,7 @@
     {
         "id": "2409",
         "nome": "ORIGENS ADULTO PIT BULL/ROTTW 15KG",
-        "preco": 189.310999772,
+        "preco": 187.301806,
         "categoria": "RACAO DE CACHORRO",
         "img": "img/2409.jpg"
     },
@@ -6326,6 +6326,13 @@
         "preco": 151.3248,
         "categoria": "MEDICAMENTO",
         "img": "img/2505.jpg"
+    },
+    {
+        "id": "2507",
+        "nome": "SILO DE MILHO",
+        "preco": 24.0,
+        "categoria": "RACAO DE RUMINANTES",
+        "img": "img/2507.jpg"
     },
     {
         "id": "251",
@@ -9627,7 +9634,7 @@
     {
         "id": "352",
         "nome": "MAGNUS TODO DIA CARNE 25KG ADIMAX",
-        "preco": 189.000000001,
+        "preco": 189.0,
         "categoria": "RACAO DE CACHORRO",
         "img": "img/352.jpg"
     },

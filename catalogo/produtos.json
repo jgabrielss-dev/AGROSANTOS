@@ -819,6 +819,20 @@
         "img": "img/3436.jpg"
     },
     {
+        "id": "3437",
+        "nome": "RATICIDA PIK RATO BLOCO SOFT BAIT PIK GREEN 200G",
+        "preco": 26.0,
+        "categoria": "DOMISSANITARIO",
+        "img": "img/3437.jpg"
+    },
+    {
+        "id": "3438",
+        "nome": "RATICIDA PIK RATO MIX CEREAIS PIKA PAU 25G",
+        "preco": 1.7,
+        "categoria": "DOMISSANITARIO",
+        "img": "img/3438.jpg"
+    },
+    {
         "id": "1",
         "nome": "SAL PROBEEF NUTRIPEC BOIAO 25% PB 30KG",
         "preco": 117.333333,
@@ -1139,13 +1153,6 @@
         "preco": 102.438934,
         "categoria": "RACAO DE EQUINO",
         "img": "img/1061.jpg"
-    },
-    {
-        "id": "1062",
-        "nome": "RACAO DE FRANGO CRESC/ENG 20KG",
-        "preco": 64.0,
-        "categoria": "RACAO DE AVES",
-        "img": "img/1062.jpg"
     },
     {
         "id": "1072",
@@ -2959,13 +2966,6 @@
         "preco": 5.0,
         "categoria": "DOMISSANITARIO",
         "img": "img/1542.jpg"
-    },
-    {
-        "id": "1545",
-        "nome": "CARRAPATOX 1 L",
-        "preco": 51.0609,
-        "categoria": "DOMISSANITARIO",
-        "img": "img/1545.jpg"
     },
     {
         "id": "1546",
@@ -5915,13 +5915,6 @@
         "img": "img/2388.jpg"
     },
     {
-        "id": "239",
-        "nome": "MONOVIN VIT A 20ML",
-        "preco": 39.0,
-        "categoria": "MEDICAMENTO",
-        "img": "img/239.jpg"
-    },
-    {
         "id": "2392",
         "nome": "NUTRIGULA CAES FILHOTES CORDEIROS 15 KG",
         "preco": 142.000000001,
@@ -7068,13 +7061,6 @@
         "preco": 19.0,
         "categoria": "ACESSORIOS",
         "img": "img/2703.jpg"
-    },
-    {
-        "id": "2706",
-        "nome": "PROTEINADO REPRODUÇÃO 30KG M.P",
-        "preco": 90.0,
-        "categoria": "RACAO DE RUMINANTES",
-        "img": "img/2706.jpg"
     },
     {
         "id": "271",
@@ -8470,13 +8456,6 @@
         "img": "img/3054.jpg"
     },
     {
-        "id": "3055",
-        "nome": "SNOW CAT SABORES DO MAR 10,1KG BRAZILIAN",
-        "preco": 80.6,
-        "categoria": "RACAO DE GATO",
-        "img": "img/3055.jpg"
-    },
-    {
         "id": "3056",
         "nome": "CANISTER CAT PEIXE COM VEGETAIS 10,1KG BRAZILIAN",
         "preco": 76.5504,
@@ -9374,7 +9353,7 @@
     },
     {
         "id": "3246",
-        "nome": "PROTEINADO ADEVANCE -0,05%  DO PV 30KG M.P",
+        "nome": "PROTEINADO ADVANCE -0,05%  DO PV 30KG M.P",
         "preco": 98.999999999,
         "categoria": "RACAO DE RUMINANTES",
         "img": "img/3246.jpg"
